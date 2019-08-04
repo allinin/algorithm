@@ -1,0 +1,1044 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/datastructure/stack/PolandNotation.java" line="177" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6329ee68-ffa6-4618-9554-444eef268ab1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/QRCode.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/core_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/core_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/core_3_3_0__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javax_mail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/META-INF/exercise2.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/list/Boy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/list/CircleSingleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/list/DoubleLinkedListDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/list/HeroNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/list/HeroNode2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/list/Josepfu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/list/LinkedListStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/list/LinkedListStackDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/list/SingleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/list/SingleLinkedList2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/list/SingleLinkedListDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/queue/CircleArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/queue/CircleArrayQueueDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/recursion/MiGong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/recursion/Queen8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/sort/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/sort/InsertSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/sort/MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/sort/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/sort/SelectSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/sort/ShellSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/stack/ArrayStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/stack/ArrayStack2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/stack/ArrayStackDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/stack/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/stack/ListStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/stack/ListStackDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/stack/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/stack/Operation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/stack/PolandNotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/flower.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/javassist.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/lib/QRCode.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/lib/core-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/lib/javase-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/lib/javax.mail.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/Adapter/Adaptee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/Adapter/Adapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/Adapter/Client1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/Adapter/Target.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/Author.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/FlyWeight/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/FlyWeight/ConcreteChess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/FlyWeight/Coordinate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/FlyWeight/FlyWeight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/FlyWeight/FlyWeightFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/Parent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/QRcode/QRCodeUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/QRcode/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/StaticProxy/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/StaticProxy/ProxyStar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/StaticProxy/RealStar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/StaticProxy/Star.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/Zxing/LogUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/Zxing/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/Zxing/ZxingUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/array/SparseArr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/array/TestArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/bridge/Brand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/bridge/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/bridge/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/bridge/Dell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/bridge/Desktop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/bridge/Laptop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/bridge/lenovo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/chainofR/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/chainofR/Director.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/chainofR/GeneralManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/chainofR/Leader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/chainofR/LeaveRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/chainofR/Manager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/composite/AbstractFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/composite/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/composite/Component.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/composite/Composite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/composite/Folder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/composite/ImageFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/composite/TextFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/composite/VideoFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/composite/leaf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/decorator/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/decorator/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/decorator/FlyCar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/decorator/ICar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/decorator/SuperCar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/decorator/SwimmingCar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/dyanmicProxy.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/dyanmicProxy/Client2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/dyanmicProxy/ProxyStar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/dyanmicProxy/RealStar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/dyanmicProxy/Star.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/dyanmicProxy/StarHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/factory/Audi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/factory/AudiFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/factory/BMW.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/factory/BMWFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/factory/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/factory/CarFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/javaMail/JavaMailDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/mediator/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/mediator/Department.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/mediator/Development.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/mediator/Finacial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/mediator/Market.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/mediator/Mediator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/mediator/President.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/prototype/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/prototype/Client3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/prototype/Sheep.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/Client1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/Client2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/Client3$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/Client3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/SingletonDemo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/SingletonDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/SingletonDemo3$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/SingletonDemo3$SingletonClassInstance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/SingletonDemo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/SingletonDemo4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/xml/parse/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/xml/parse/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/xml/parse/XmlParseUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/xml/parse/dogs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/二维码.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercise2/百度.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/list/DoubleLinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/list/Josepfu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/list/LinkedListStackDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/list/SingleLinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/queue/CircleArrayQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/recursion/MiGong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/recursion/Queen8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/sort/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/sort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/sort/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/sort/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/stack/ArrayStackDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/stack/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/stack/ListStackDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/stack/PolandNotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flower.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javassist.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/QRCode.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/core-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/javase-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/javax.mail.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/Adapter/Adaptee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/Adapter/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/Adapter/Client1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/Adapter/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/Emp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/FlyWeight/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/FlyWeight/Coordinate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/FlyWeight/FlyWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/FlyWeight/FlyWeightFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/QRcode/QRCodeUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/QRcode/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/StaticProxy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/StaticProxy/ProxyStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/StaticProxy/RealStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/StaticProxy/Star.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/Zxing/LogUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/Zxing/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/Zxing/ZxingUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/array/SparseArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/array/TestArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/bridge/Brand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/bridge/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/bridge/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/chainofR/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/chainofR/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/chainofR/GeneralManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/chainofR/Leader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/chainofR/LeaveRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/chainofR/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/composite/AbstractFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/composite/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/composite/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/decorator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/decorator/ICar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/dyanmicProxy.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/dyanmicProxy/Client2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/dyanmicProxy/ProxyStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/dyanmicProxy/RealStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/dyanmicProxy/Star.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/dyanmicProxy/StarHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/factory/Audi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/factory/AudiFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/factory/BMW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/factory/BMWFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/factory/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/factory/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/javaMail/JavaMailDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/mediator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/mediator/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/mediator/Development.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/mediator/Finacial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/mediator/Market.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/mediator/Mediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/mediator/President.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/prototype/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/prototype/Client3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/prototype/Sheep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/singleton/Client1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/singleton/Client2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/singleton/Client3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/singleton/SingletonDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/singleton/SingletonDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/singleton/SingletonDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/singleton/SingletonDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xml/parse/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xml/parse/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xml/parse/XmlParseUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xml/parse/dogs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/二维码.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/百度.png" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/org/sd/FlyWeight/FlyWeightFactory.java" />
+        <option value="$PROJECT_DIR$/src/org/sd/FlyWeight/Client.java" />
+        <option value="$PROJECT_DIR$/src/xml/parse/dogs.xml" />
+        <option value="$PROJECT_DIR$/src/xml/parse/Dog.java" />
+        <option value="$PROJECT_DIR$/src/xml/parse/Client.java" />
+        <option value="$PROJECT_DIR$/src/xml/parse/XmlParseUtil.java" />
+        <option value="$PROJECT_DIR$/src/org/sd/chainofR/LeaveRequest.java" />
+        <option value="$PROJECT_DIR$/src/org/sd/chainofR/Leader.java" />
+        <option value="$PROJECT_DIR$/src/org/sd/chainofR/Manager.java" />
+        <option value="$PROJECT_DIR$/src/org/sd/chainofR/Director.java" />
+        <option value="$PROJECT_DIR$/src/org/sd/chainofR/GeneralManager.java" />
+        <option value="$PROJECT_DIR$/src/org/sd/chainofR/Client.java" />
+        <option value="$PROJECT_DIR$/src/org/sd/mediator/Department.java" />
+        <option value="$PROJECT_DIR$/src/org/sd/mediator/Mediator.java" />
+        <option value="$PROJECT_DIR$/src/org/sd/mediator/Development.java" />
+        <option value="$PROJECT_DIR$/src/org/sd/mediator/Market.java" />
+        <option value="$PROJECT_DIR$/src/org/sd/mediator/Finacial.java" />
+        <option value="$PROJECT_DIR$/src/org/sd/mediator/President.java" />
+        <option value="$PROJECT_DIR$/src/org/sd/mediator/Client.java" />
+        <option value="$PROJECT_DIR$/src/org/sd/Demo1.java" />
+        <option value="$PROJECT_DIR$/src/org/sd/QRcode/Test.java" />
+        <option value="$PROJECT_DIR$/src/org/sd/QRcode/QRCodeUtil.java" />
+        <option value="$PROJECT_DIR$/src/org/sd/array/TestArray.java" />
+        <option value="$PROJECT_DIR$/src/org/sd/array/SparseArr.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/CircleArrayQueueDemo.java" />
+        <option value="$PROJECT_DIR$/src/lib/Test.java" />
+        <option value="$PROJECT_DIR$/src/org/sd/Zxing/LogUtil.java" />
+        <option value="$PROJECT_DIR$/src/org/sd/Zxing/ZxingUtil.java" />
+        <option value="$PROJECT_DIR$/src/org/sd/Zxing/Test.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/SingleLinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/Josepfu.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/ArrayStackDemo.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/LinkedListStackDemo.java" />
+        <option value="$PROJECT_DIR$/src/org/sd/javaMail/JavaMailDemo.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/stack/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/DoubleLinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/list.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/list/SingleLinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/stack/ListStackDemo.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/stack/ReversePolishCalCase.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/stack/ReversePolandCal.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/stack/PolandNotation.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/recursion/MiGong.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/recursion/Queen8.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/sort/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/sort/SelectSort.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/sort/InsertSort.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/sort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/sort/ShellSort.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/sort/MergeSort.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.5.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1669" />
+    <option name="y" value="26" />
+    <option name="width" value="1471" />
+    <option name="height" value="841" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15323994" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Idea_work\exercise2\src\lib" />
+      <recent name="E:\Idea_work\exercise2\src" />
+      <recent name="E:\Idea_work\exercise2\lib" />
+      <recent name="E:\Idea_work\exercise2\src\org\sd\mediator" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.sd.Proxy" />
+      <recent name="org.sd.factory" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Idea_work\exercise2\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MergeSort">
+    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.sort.InsertSort" />
+      <module name="exercise2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructure.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.sort.MergeSort" />
+      <module name="exercise2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructure.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.sort.QuickSort" />
+      <module name="exercise2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructure.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.sort.SelectSort" />
+      <module name="exercise2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructure.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.sort.ShellSort" />
+      <module name="exercise2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructure.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <module name="exercise2" />
+      <option name="VM_PARAMETERS" value="-Dcar.type=energy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.SelectSort" />
+      <item itemvalue="Application.InsertSort" />
+      <item itemvalue="Application.ShellSort" />
+      <item itemvalue="Application.QuickSort" />
+      <item itemvalue="Application.MergeSort" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.ShellSort" />
+        <item itemvalue="Application.InsertSort" />
+        <item itemvalue="Application.SelectSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6329ee68-ffa6-4618-9554-444eef268ab1" name="Default Changelist" comment="" />
+      <created>1560304125217</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560304125217</updated>
+      <workItem from="1560304130289" duration="6534000" />
+      <workItem from="1560400468471" duration="5669000" />
+      <workItem from="1560596339197" duration="1767000" />
+      <workItem from="1560662515069" duration="341000" />
+      <workItem from="1560676017717" duration="1147000" />
+      <workItem from="1560734730622" duration="14000" />
+      <workItem from="1560863254842" duration="957000" />
+      <workItem from="1560910352064" duration="6577000" />
+      <workItem from="1560919306630" duration="60000" />
+      <workItem from="1561114302448" duration="6027000" />
+      <workItem from="1561167788902" duration="21000" />
+      <workItem from="1561276747577" duration="2064000" />
+      <workItem from="1561298835837" duration="1242000" />
+      <workItem from="1561341458443" duration="6454000" />
+      <workItem from="1561376241604" duration="5264000" />
+      <workItem from="1561598806260" duration="1327000" />
+      <workItem from="1561621884677" duration="1344000" />
+      <workItem from="1562070453440" duration="1803000" />
+      <workItem from="1562807245068" duration="850000" />
+      <workItem from="1562833745219" duration="598000" />
+      <workItem from="1563328436502" duration="663000" />
+      <workItem from="1563512380341" duration="7028000" />
+      <workItem from="1563588725122" duration="116000" />
+      <workItem from="1563673020563" duration="1680000" />
+      <workItem from="1563759060781" duration="2925000" />
+      <workItem from="1563845614105" duration="1526000" />
+      <workItem from="1563865746897" duration="251000" />
+      <workItem from="1563932231645" duration="3831000" />
+      <workItem from="1563936698071" duration="17000" />
+      <workItem from="1563946126346" duration="4060000" />
+      <workItem from="1564017313107" duration="4915000" />
+      <workItem from="1564042025571" duration="1836000" />
+      <workItem from="1564045757035" duration="1448000" />
+      <workItem from="1564103891243" duration="3741000" />
+      <workItem from="1564190742402" duration="4469000" />
+      <workItem from="1564212826162" duration="7968000" />
+      <workItem from="1564278701133" duration="4824000" />
+      <workItem from="1564363272032" duration="7337000" />
+      <workItem from="1564450543080" duration="9235000" />
+      <workItem from="1564537473434" duration="4372000" />
+      <workItem from="1564545452201" duration="598000" />
+      <workItem from="1564627405925" duration="1854000" />
+      <workItem from="1564714702215" duration="4634000" />
+      <workItem from="1564797516482" duration="7810000" />
+      <workItem from="1564818369140" duration="529000" />
+      <workItem from="1564885068528" duration="2189000" />
+      <workItem from="1564907237628" duration="410000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="140326000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1669" y="26" width="1471" height="841" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.29907867" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.26608187" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.44005847" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32894737" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/sd/mediator/President.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://E:/jdk1.8/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="274" column="11" selection-start-line="274" selection-start-column="11" selection-end-line="274" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/core-3.3.0.jar!/com/google/zxing/qrcode/encoder/QRCode.class" />
+    <entry file="jar://$PROJECT_DIR$/src/lib/QRCode-3.0.0.jar!/jp/sourceforge/qrcode/QRCodeDecoder.class" />
+    <entry file="jar://$PROJECT_DIR$/src/lib/QRCode.jar!/com/swetake/util/Qrcode.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/awt/Graphics2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7340">
+          <caret line="551" column="28" selection-start-line="551" selection-start-column="28" selection-end-line="551" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/javax/imageio/ImageIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36675">
+          <caret line="1513" column="43" selection-start-line="1513" selection-start-column="36" selection-end-line="1513" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#57783#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/sd/array/TestArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/sd/array/SparseArr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/sd/QRcode/QRCodeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/sd/QRcode/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/lib/core-3.1.0.jar!/com/google/zxing/MultiFormatWriter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/awt/image/BufferedImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="293" column="48" selection-start-line="293" selection-start-column="48" selection-end-line="294" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/awt/geom/RoundRectangle2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="50" column="24" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/flower.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/二维码.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/lib/javase-3.1.0.jar!/com/google/zxing/client/j2se/BufferedImageLuminanceSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/lib/core-3.1.0.jar!/com/google/zxing/BinaryBitmap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-654">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/lib/core-3.1.0.jar!/com/google/zxing/common/HybridBinarizer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="42" />
+          <folding>
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/sd/Zxing/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/sd/Zxing/ZxingUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="53" column="46" lean-forward="true" selection-start-line="53" selection-start-column="46" selection-end-line="53" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/sd/Zxing/LogUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/百度.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/lib/javax.mail.jar!/javax/mail/Message.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="77" column="16" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/lib/javax.mail.jar!/javax/mail/internet/InternetAddress.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="64" column="5" lean-forward="true" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/sd/javaMail/JavaMailDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-247">
+          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/list.java" />
+    <entry file="file://$PROJECT_DIR$/src/datastructure/list/LinkedListStackDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/list/DoubleLinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="167" column="10" selection-start-line="167" selection-start-column="10" selection-end-line="167" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/queue/CircleArrayQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="58" column="6" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/list/Josepfu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="108" column="6" selection-start-line="108" selection-start-column="6" selection-end-line="108" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/stack/ArrayStackDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/list/SingleLinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="358" column="23" lean-forward="true" selection-start-line="208" selection-end-line="366" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/stack/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/stack/ListStackDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding>
+            <element signature="e#3011#3012#0" expanded="true" />
+            <element signature="e#3029#3030#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/reflect/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1278">
+          <caret line="37" column="12" lean-forward="true" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="166" lean-forward="true" selection-start-line="166" selection-end-line="166" />
+          <folding>
+            <element signature="e#6252#6253#0" expanded="true" />
+            <element signature="e#6320#6321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/stack/ReversePolandCal.java" />
+    <entry file="jar://E:/jdk1.8/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="101" column="18" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/stack/PolandNotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2346">
+          <caret line="201" column="20" selection-start-line="201" selection-start-column="20" selection-end-line="201" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3356#3364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/recursion/MiGong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="51" column="32" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/recursion/Queen8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-281">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/sort/SelectSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/sort/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/sort/ShellSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3209">
+          <caret line="133" selection-start-line="133" selection-end-line="133" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1541">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/sort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-973">
+          <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise2.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>exercise2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>core-3.1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

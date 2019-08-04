@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dogs>
+    <dog id="1">
+        <name>yaya1</name>
+        <score>99</score>
+        <level>2</level>
+    </dog>
+    <dog id="2">
+        <name>yaya1</name>
+        <score>100</score>
+        <level>22</level>
+    </dog>
+    <dog id="3">
+        <name>yaya3</name>
+        <score>93</score>
+        <level>3</level>
+    </dog>
+
+</dogs>
