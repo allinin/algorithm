@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6329ee68-ffa6-4618-9554-444eef268ab1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/QRCode.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/core_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/core_3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/core_3_3_0__2_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/javax_mail.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/exercise2/META-INF/exercise2.kotlin_module" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/list/Boy.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/list/CircleSingleLinkedList.class" afterDir="false" />
@@ -144,101 +133,6 @@
       <change afterPath="$PROJECT_DIR$/out/production/exercise2/xml/parse/dogs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/exercise2/二维码.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/exercise2/百度.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/list/DoubleLinkedListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/list/Josepfu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/list/LinkedListStackDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/list/SingleLinkedListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/queue/CircleArrayQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/recursion/MiGong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/recursion/Queen8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/sort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/sort/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/sort/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/sort/SelectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/sort/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/stack/ArrayStackDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/stack/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/stack/ListStackDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/stack/PolandNotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/flower.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javassist.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/QRCode.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/core-3.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/javase-3.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/javax.mail.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/Adapter/Adaptee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/Adapter/Adapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/Adapter/Client1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/Adapter/Target.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/Emp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/FlyWeight/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/FlyWeight/Coordinate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/FlyWeight/FlyWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/FlyWeight/FlyWeightFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/QRcode/QRCodeUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/QRcode/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/StaticProxy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/StaticProxy/ProxyStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/StaticProxy/RealStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/StaticProxy/Star.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/Zxing/LogUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/Zxing/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/Zxing/ZxingUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/array/SparseArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/array/TestArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/bridge/Brand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/bridge/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/bridge/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/chainofR/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/chainofR/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/chainofR/GeneralManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/chainofR/Leader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/chainofR/LeaveRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/chainofR/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/composite/AbstractFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/composite/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/composite/Component.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/decorator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/decorator/ICar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/dyanmicProxy.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/dyanmicProxy/Client2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/dyanmicProxy/ProxyStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/dyanmicProxy/RealStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/dyanmicProxy/Star.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/dyanmicProxy/StarHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/factory/Audi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/factory/AudiFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/factory/BMW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/factory/BMWFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/factory/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/factory/CarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/javaMail/JavaMailDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/mediator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/mediator/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/mediator/Development.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/mediator/Finacial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/mediator/Market.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/mediator/Mediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/mediator/President.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/prototype/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/prototype/Client3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/prototype/Sheep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/singleton/Client1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/singleton/Client2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/singleton/Client3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/singleton/SingletonDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/singleton/SingletonDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/singleton/SingletonDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/singleton/SingletonDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xml/parse/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xml/parse/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xml/parse/XmlParseUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xml/parse/dogs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/二维码.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/百度.png" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -327,6 +221,13 @@
       <MavenGeneralSettings>
         <option name="mavenHome" value="E:/apache-maven-3.5.3" />
       </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
@@ -542,12 +443,20 @@
       <workItem from="1564797516482" duration="7810000" />
       <workItem from="1564818369140" duration="529000" />
       <workItem from="1564885068528" duration="2189000" />
-      <workItem from="1564907237628" duration="410000" />
+      <workItem from="1564907237628" duration="688000" />
     </task>
+    <task id="LOCAL-00001" summary="2019.08.04">
+      <created>1564907845490</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564907845490</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140326000" />
+    <option name="totallyTimeSpent" value="140604000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1669" y="26" width="1471" height="841" extended-state="0" />
@@ -585,6 +494,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2019.08.04" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019.08.04" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
