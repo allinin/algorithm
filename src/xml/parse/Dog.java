@@ -1,5 +1,5 @@
 package xml.parse;
-
+//
 public class Dog {
     private int score;
     private int level;
