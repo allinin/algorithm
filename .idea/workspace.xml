@@ -4,9 +4,11 @@
     <bookmark url="file://$PROJECT_DIR$/src/datastructure/stack/PolandNotation.java" line="177" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6329ee68-ffa6-4618-9554-444eef268ab1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/datastructure/RadixSort.java" afterDir="false" />
+    <list default="true" id="6329ee68-ffa6-4618-9554-444eef268ab1" name="Default Changelist" comment="2019.08.05">
+      <change afterPath="$PROJECT_DIR$/src/datastructure/search/InsertValueSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/datastructure/sort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercise2/datastructure/sort/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/RadixSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/sort/RadixSort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,12 +21,36 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/datastructure/RadixSort.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/datastructure/search/BinarySearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="25" column="53" lean-forward="true" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+            <state relative-caret-position="487">
+              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/datastructure/sort/RadixSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1839">
+              <caret line="87" column="13" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="91" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/datastructure/search/InsertValueSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -51,9 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/org/sd/FlyWeight/Client.java" />
-        <option value="$PROJECT_DIR$/src/xml/parse/dogs.xml" />
-        <option value="$PROJECT_DIR$/src/xml/parse/Client.java" />
         <option value="$PROJECT_DIR$/src/xml/parse/XmlParseUtil.java" />
         <option value="$PROJECT_DIR$/src/org/sd/chainofR/LeaveRequest.java" />
         <option value="$PROJECT_DIR$/src/org/sd/chainofR/Leader.java" />
@@ -102,6 +125,9 @@
         <option value="$PROJECT_DIR$/src/datastructure/sort/MergeSort.java" />
         <option value="$PROJECT_DIR$/src/xml/parse/Dog.java" />
         <option value="$PROJECT_DIR$/src/datastructure/RadixSort.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/search/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/sort/RadixSort.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/search/InsertValueSearch.java" />
       </list>
     </option>
   </component>
@@ -124,6 +150,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,13 +174,12 @@
               <item name="exercise2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="datastructure" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -196,13 +222,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RadixSort">
-    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.sort.InsertSort" />
+  <component name="RunManager" selected="Application.BinarySearch">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.search.BinarySearch" />
       <module name="exercise2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.sort.*" />
+          <option name="PATTERN" value="datastructure.search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,11 +263,11 @@
       </method>
     </configuration>
     <configuration name="RadixSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.RadixSort" />
+      <option name="MAIN_CLASS_NAME" value="datastructure.sort.RadixSort" />
       <module name="exercise2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.*" />
+          <option name="PATTERN" value="datastructure.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,19 +297,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.InsertSort" />
       <item itemvalue="Application.ShellSort" />
       <item itemvalue="Application.QuickSort" />
       <item itemvalue="Application.MergeSort" />
       <item itemvalue="Application.RadixSort" />
+      <item itemvalue="Application.BinarySearch" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.RadixSort" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.ShellSort" />
-        <item itemvalue="Application.InsertSort" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +370,11 @@
       <workItem from="1564818369140" duration="529000" />
       <workItem from="1564885068528" duration="2189000" />
       <workItem from="1564907237628" duration="2509000" />
-      <workItem from="1565057620356" duration="3124000" />
+      <workItem from="1565057620356" duration="4043000" />
+      <workItem from="1565076064738" duration="1759000" />
+      <workItem from="1565084314857" duration="750000" />
+      <workItem from="1565092367571" duration="21000" />
+      <workItem from="1565135590284" duration="1851000" />
     </task>
     <task id="LOCAL-00001" summary="2019.08.04">
       <created>1564907845490</created>
@@ -367,11 +397,25 @@
       <option name="project" value="LOCAL" />
       <updated>1564908479744</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2019.08.05">
+      <created>1565066943935</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565066943935</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2019.08.05">
+      <created>1565077798625</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1565077798625</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="145549000" />
+    <option name="totallyTimeSpent" value="150849000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1382" height="744" extended-state="6" />
@@ -382,7 +426,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.22995462" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.22692889" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.26791808" />
@@ -391,7 +435,7 @@
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32894737" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.26450512" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.26450512" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.44005847" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -413,7 +457,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2019.08.04" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019.08.04" />
+    <MESSAGE value="2019.08.05" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019.08.05" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -428,31 +473,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/src/lib/QRCode.jar!/com/swetake/util/Qrcode.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/awt/Graphics2D.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7340">
-          <caret line="551" column="28" selection-start-line="551" selection-start-column="28" selection-end-line="551" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/javax/imageio/ImageIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36675">
-          <caret line="1513" column="43" selection-start-line="1513" selection-start-column="36" selection-end-line="1513" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#57783#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/sd/array/TestArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
@@ -470,24 +490,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/sd/QRcode/QRCodeUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lib/Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/org/sd/QRcode/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/src/lib/core-3.1.0.jar!/com/google/zxing/MultiFormatWriter.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
@@ -796,10 +799,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructure/RadixSort.java">
+    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="25" column="53" lean-forward="true" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+        <state relative-caret-position="135">
+          <caret line="642" column="25" selection-start-line="642" selection-start-column="25" selection-end-line="642" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/sd/QRcode/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/sd/QRcode/QRCodeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-950">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/search/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/sort/RadixSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1839">
+          <caret line="87" column="13" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="91" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/search/InsertValueSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
