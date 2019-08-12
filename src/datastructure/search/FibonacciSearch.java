@@ -76,7 +76,7 @@ public class FibonacciSearch {
                 //5. 即下次循环 mid = f[k - 1 - 2] - 1
                 k -= 2;
             } else { //找到
-                //需要确定，返回的是哪个下标
+                //需要确定，返回的是哪个下标,原因是数组可能扩展了
                 if(mid <= high) {
                     return mid;
                 } else {
