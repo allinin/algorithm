@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6329ee68-ffa6-4618-9554-444eef268ab1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/datastructure/tree/ArrBinaryTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/sd/Adapter/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/sd/Adapter/Client1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/sd/Adapter/Client1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/tree/BinaryTreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/tree/BinaryTreeDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,19 +23,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Gof/Singleton/SingletonTest.java">
+        <entry file="file://$PROJECT_DIR$/src/datastructure/tree/BinaryTreeDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-325">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/datastructure/HashTabDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-514">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="541">
+              <caret line="94" column="6" selection-start-line="94" selection-start-column="6" selection-end-line="94" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -42,13 +35,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/org/sd/Adapter/Client1.java">
+        <entry file="file://$PROJECT_DIR$/src/datastructure/tree/ArrBinaryTreeDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+            <state relative-caret-position="193">
+              <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
               <folding>
-                <element signature="e#277#278#0" expanded="true" />
-                <element signature="e#304#305#0" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#185#186#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+                <element signature="e#543#544#0" expanded="true" />
+                <element signature="e#564#565#0" expanded="true" />
+                <element signature="e#642#643#0" expanded="true" />
+                <element signature="e#661#662#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -76,9 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/org/sd/chainofR/Client.java" />
-        <option value="$PROJECT_DIR$/src/org/sd/mediator/Department.java" />
-        <option value="$PROJECT_DIR$/src/org/sd/mediator/Mediator.java" />
         <option value="$PROJECT_DIR$/src/org/sd/mediator/Development.java" />
         <option value="$PROJECT_DIR$/src/org/sd/mediator/Market.java" />
         <option value="$PROJECT_DIR$/src/org/sd/mediator/Finacial.java" />
@@ -124,9 +120,12 @@
         <option value="$PROJECT_DIR$/src/datastructure/search/FibonacciSearch.java" />
         <option value="$PROJECT_DIR$/src/datastructure/HashTab.java" />
         <option value="$PROJECT_DIR$/src/datastructure/HashTabDemo.java" />
-        <option value="$PROJECT_DIR$/src/datastructure/tree/BinaryTreeDemo.java" />
         <option value="$PROJECT_DIR$/src/Gof/Singleton/SingletonTest.java" />
         <option value="$PROJECT_DIR$/src/org/sd/Adapter/Client1.java" />
+        <option value="$PROJECT_DIR$/src/org/sd/Adapter/Test.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/tree/BinaryTreeDemo.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/tree/ArrBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/tree/ArrBinaryTreeDemo.java" />
       </list>
     </option>
   </component>
@@ -138,10 +137,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1643" />
-    <option name="y" value="72" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="123" />
+    <option name="width" value="1484" />
+    <option name="height" value="798" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -149,7 +147,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,19 +163,28 @@
               <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
               <item name="exercise2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sd" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
               <item name="exercise2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sd" type="462c0819:PsiDirectoryNode" />
-              <item name="Adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="BinaryTreeDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -221,7 +227,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.ArrBinaryTreeDemo">
+    <configuration name="ArrBinaryTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.tree.ArrBinaryTreeDemo" />
+      <module name="exercise2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructure.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BinaryTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="datastructure.tree.BinaryTreeDemo" />
       <module name="exercise2" />
@@ -241,19 +260,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.sd.Adapter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HashTabDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.HashTabDemo" />
-      <module name="exercise2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="datastructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,19 +302,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.HashTabDemo" />
       <item itemvalue="Application.BinaryTreeDemo" />
       <item itemvalue="Application.SingletonTest" />
       <item itemvalue="Application.Client1" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.ArrBinaryTreeDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrBinaryTreeDemo" />
+        <item itemvalue="Application.BinaryTreeDemo" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Client1" />
         <item itemvalue="Application.SingletonTest" />
-        <item itemvalue="Application.BinaryTreeDemo" />
-        <item itemvalue="Application.HashTabDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -381,6 +387,9 @@
       <workItem from="1566281729211" duration="2963000" />
       <workItem from="1566310131413" duration="182000" />
       <workItem from="1566702370552" duration="918000" />
+      <workItem from="1566877131184" duration="169000" />
+      <workItem from="1567341000072" duration="2958000" />
+      <workItem from="1567394642090" duration="2001000" />
     </task>
     <task id="LOCAL-00001" summary="2019.08.04">
       <created>1564907845490</created>
@@ -452,14 +461,21 @@
       <option name="project" value="LOCAL" />
       <updated>1566310214617</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2019.08.20">
+      <created>1566877252799</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1566877252800</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166128000" />
+    <option name="totallyTimeSpent" value="171256000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="99" y="15" width="1382" height="744" extended-state="0" />
+    <frame x="123" y="0" width="1484" height="798" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
@@ -467,7 +483,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2965204" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.28792134" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.26791808" />
@@ -476,12 +492,12 @@
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32894737" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.28498295" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.4484375" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.44005847" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32764506" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3265625" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
@@ -528,31 +544,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/src/lib/javase-3.1.0.jar!/com/google/zxing/client/j2se/BufferedImageLuminanceSource.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="14" column="47" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/src/lib/core-3.1.0.jar!/com/google/zxing/BinaryBitmap.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-654">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/src/lib/core-3.1.0.jar!/com/google/zxing/common/HybridBinarizer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="42" />
-          <folding>
-            <element signature="e#664#665#0" expanded="true" />
-            <element signature="e#693#694#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/sd/Zxing/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -888,10 +879,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructure/tree/BinaryTreeDemo.java">
+    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+        <state relative-caret-position="-169">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/sd/Adapter/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/sd/Adapter/Client1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/HashTabDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -900,28 +912,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Gof/Singleton/SingletonTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-325">
+        <state relative-caret-position="50">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructure/HashTabDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/datastructure/tree/BinaryTreeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-514">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="541">
+          <caret line="94" column="6" selection-start-line="94" selection-start-column="6" selection-end-line="94" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/sd/Adapter/Client1.java">
+    <entry file="file://$PROJECT_DIR$/src/datastructure/tree/ArrBinaryTreeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        <state relative-caret-position="193">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
           <folding>
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
           </folding>
         </state>
       </provider>
