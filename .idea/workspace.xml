@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6329ee68-ffa6-4618-9554-444eef268ab1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/datastructure/tree/ArrBinaryTreeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/Adapter/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/tree/BinaryTreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/tree/BinaryTreeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gof/Singleton/SingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gof/Singleton/SingletonTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +23,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/datastructure/tree/BinaryTreeDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="541">
+            <state relative-caret-position="1206">
               <caret line="94" column="6" selection-start-line="94" selection-start-column="6" selection-end-line="94" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -37,18 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/datastructure/tree/ArrBinaryTreeDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-              <folding>
-                <element signature="e#166#167#0" expanded="true" />
-                <element signature="e#185#186#0" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
-                <element signature="e#373#374#0" expanded="true" />
-                <element signature="e#543#544#0" expanded="true" />
-                <element signature="e#564#565#0" expanded="true" />
-                <element signature="e#642#643#0" expanded="true" />
-                <element signature="e#661#662#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="200">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -120,12 +108,12 @@
         <option value="$PROJECT_DIR$/src/datastructure/search/FibonacciSearch.java" />
         <option value="$PROJECT_DIR$/src/datastructure/HashTab.java" />
         <option value="$PROJECT_DIR$/src/datastructure/HashTabDemo.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Singleton/SingletonTest.java" />
         <option value="$PROJECT_DIR$/src/org/sd/Adapter/Client1.java" />
         <option value="$PROJECT_DIR$/src/org/sd/Adapter/Test.java" />
         <option value="$PROJECT_DIR$/src/datastructure/tree/BinaryTreeDemo.java" />
         <option value="$PROJECT_DIR$/src/datastructure/tree/ArrBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/datastructure/tree/ArrBinaryTreeDemo.java" />
+        <option value="$PROJECT_DIR$/src/Gof/Singleton/SingletonTest.java" />
       </list>
     </option>
   </component>
@@ -137,7 +125,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="123" />
+    <option name="x" value="1676" />
+    <option name="y" value="31" />
     <option name="width" value="1484" />
     <option name="height" value="798" />
   </component>
@@ -147,6 +136,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -169,22 +159,27 @@
               <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
               <item name="exercise2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="Gof" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
               <item name="exercise2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-              <item name="BinaryTreeDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="Gof" type="462c0819:PsiDirectoryNode" />
+              <item name="Singleton" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Gof" type="462c0819:PsiDirectoryNode" />
+              <item name="Singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="SingletonTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -227,7 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrBinaryTreeDemo">
+  <component name="RunManager" selected="Application.SingletonTest">
     <configuration name="ArrBinaryTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="datastructure.tree.ArrBinaryTreeDemo" />
       <module name="exercise2" />
@@ -310,11 +305,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingletonTest" />
         <item itemvalue="Application.ArrBinaryTreeDemo" />
         <item itemvalue="Application.BinaryTreeDemo" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Client1" />
-        <item itemvalue="Application.SingletonTest" />
       </list>
     </recent_temporary>
   </component>
@@ -389,7 +384,8 @@
       <workItem from="1566702370552" duration="918000" />
       <workItem from="1566877131184" duration="169000" />
       <workItem from="1567341000072" duration="2958000" />
-      <workItem from="1567394642090" duration="2001000" />
+      <workItem from="1567394642090" duration="2657000" />
+      <workItem from="1567564570062" duration="1664000" />
     </task>
     <task id="LOCAL-00001" summary="2019.08.04">
       <created>1564907845490</created>
@@ -468,14 +464,21 @@
       <option name="project" value="LOCAL" />
       <updated>1566877252800</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="2019.09.02">
+      <created>1567401771338</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1567401771338</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="171256000" />
+    <option name="totallyTimeSpent" value="173576000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="123" y="0" width="1484" height="798" extended-state="0" />
+    <frame x="1676" y="31" width="1484" height="798" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
@@ -483,16 +486,16 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.28792134" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.29213482" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" weight="0.26791808" />
+      <window_info anchor="bottom" id="Version Control" order="1" weight="0.2671875" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32894737" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.4484375" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.2484375" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.44005847" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -529,7 +532,8 @@
     <MESSAGE value="2019.08.08" />
     <MESSAGE value="2019.08.12" />
     <MESSAGE value="2019.08.20" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019.08.20" />
+    <MESSAGE value="2019.09.02" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019.09.02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -912,14 +916,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Gof/Singleton/SingletonTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="225">
+          <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+          <folding>
+            <element signature="e#2326#2327#0" expanded="true" />
+            <element signature="e#2375#2376#0" expanded="true" />
+            <element signature="e#2458#2459#0" expanded="true" />
+            <element signature="e#2494#2495#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/datastructure/tree/BinaryTreeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
+        <state relative-caret-position="1206">
           <caret line="94" column="6" selection-start-line="94" selection-start-column="6" selection-end-line="94" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -929,18 +939,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/datastructure/tree/ArrBinaryTreeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-          <folding>
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#543#544#0" expanded="true" />
-            <element signature="e#564#565#0" expanded="true" />
-            <element signature="e#642#643#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="200">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
         </state>
       </provider>
     </entry>
