@@ -1,7 +1,4 @@
-package datastructure.tree;
-
-import javax.sound.midi.SoundbankResource;
-import java.util.Hashtable;
+package datastructure.tree.btree;
 
 public class BinaryTreeDemo {
     public static void main(String[] args) {
@@ -195,7 +192,7 @@ class HeroNode{
     //中序遍历查找
     public HeroNode midOrderSearch(int no)
     {
-        HeroNode resNode=null;
+      HeroNode resNode=null;
         if(this.left!=null)
         {
            resNode= this.left.midOrderSearch(no);
