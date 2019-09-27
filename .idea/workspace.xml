@@ -1,47 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/datastructure/stack/PolandNotation.java" line="177" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="6329ee68-ffa6-4618-9554-444eef268ab1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Gof/Bulider/CommonHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gof/Bulider/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gof/Bulider/HouseBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gof/Bulider/HouseDirector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gof/Bulider/client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gof/Prototype/DeepCopyChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gof/Prototype/DeepCopyParent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gof/Prototype/deepCopyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/tree/BST/BinarySortTreeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/tree/HuffmanCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/tree/huffmantree/HuffmanTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/singleton/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/sd/singleton/StudentComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/Adapter/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/Adapter/IVoltage5v.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/Adapter/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/Adapter/Voltage220.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/Adapter/VoltageAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/bridge/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/bridge/Brand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/bridge/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/bridge/FoldPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/bridge/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/bridge/UpRightPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/bridge/XiaoMi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/decorator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/decorator/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/decorator/Decorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/decorator/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/decorator/LongBlack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/decorator/MikeCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/LongestCommonSubString/LongestCommonSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/Kruskal/KruskalCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/binarysearchnorecursion/BinarySearchNoRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/dac/hannuota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/dynamic/KnapsackProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/greedy/GreedyAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/kmp/KmpDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/prim/PrimAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/Graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/tree/AVL/AVLDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gof/Singleton/Factory/factorymethod/abstractFactoryOrder/AbsFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gof/Factory/factorymethod/abstractFactoryOrder/AbsFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gof/Singleton/Factory/factorymethod/abstractFactoryOrder/BJFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gof/Factory/factorymethod/abstractFactoryOrder/BJFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gof/Singleton/Factory/factorymethod/abstractFactoryOrder/LDFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gof/Factory/factorymethod/abstractFactoryOrder/LDFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gof/Singleton/Factory/factorymethod/abstractFactoryOrder/OrderPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gof/Factory/factorymethod/abstractFactoryOrder/OrderPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gof/Singleton/Factory/factorymethod/abstractFactoryOrder/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gof/Factory/factorymethod/abstractFactoryOrder/PizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gof/Singleton/Factory/factorymethod/order/BJOrderPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gof/Factory/factorymethod/order/BJOrderPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gof/Singleton/Factory/factorymethod/order/LDOrderPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gof/Factory/factorymethod/order/LDOrderPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gof/Singleton/Factory/factorymethod/order/OrderPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gof/Factory/factorymethod/order/OrderPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gof/Singleton/Factory/factorymethod/order/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gof/Factory/factorymethod/order/PizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gof/Singleton/Factory/factorymethod/pizza/BJCheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gof/Factory/factorymethod/pizza/BJCheesePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gof/Singleton/Factory/factorymethod/pizza/BJPepperPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gof/Factory/factorymethod/pizza/BJPepperPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gof/Singleton/Factory/factorymethod/pizza/LDCheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gof/Factory/factorymethod/pizza/LDCheesePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gof/Singleton/Factory/factorymethod/pizza/LDPepperPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gof/Factory/factorymethod/pizza/LDPepperPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gof/Singleton/Factory/factorymethod/pizza/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gof/Factory/factorymethod/pizza/Pizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gof/Singleton/Factory/simpleFactory/CheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gof/Factory/simpleFactory/CheesePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gof/Singleton/Factory/simpleFactory/GreekPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gof/Factory/simpleFactory/GreekPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gof/Singleton/Factory/simpleFactory/OrderPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gof/Factory/simpleFactory/OrderPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gof/Singleton/Factory/simpleFactory/PepperPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gof/Factory/simpleFactory/PepperPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gof/Singleton/Factory/simpleFactory/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gof/Factory/simpleFactory/Pizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gof/Singleton/Factory/simpleFactory/SimpleFatory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gof/Factory/simpleFactory/SimpleFatory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gof/Singleton/Factory/simpleFactory/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gof/Factory/simpleFactory/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/META-INF/exercise2.kotlin_module" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,29 +42,11 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/datastructure/tree/BST/BinarySortTreeDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="29" column="36" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="29" selection-end-column="36" />
-              <folding>
-                <element signature="e#1024#1025#0" expanded="true" />
-                <element signature="e#1051#1052#0" expanded="true" />
-                <element signature="e#6084#6085#0" expanded="true" />
-                <element signature="e#6135#6136#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -87,63 +60,6 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/datastructure/search/InsertValueSearch.java" />
-        <option value="$PROJECT_DIR$/src/datastructure/search/FibonacciSearch.java" />
-        <option value="$PROJECT_DIR$/src/datastructure/HashTab.java" />
-        <option value="$PROJECT_DIR$/src/datastructure/HashTabDemo.java" />
-        <option value="$PROJECT_DIR$/src/org/sd/Adapter/Client1.java" />
-        <option value="$PROJECT_DIR$/src/org/sd/Adapter/Test.java" />
-        <option value="$PROJECT_DIR$/src/datastructure/tree/BinaryTreeDemo.java" />
-        <option value="$PROJECT_DIR$/src/datastructure/tree/ArrBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/datastructure/tree/ArrBinaryTreeDemo.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Singleton/SingletonTest.java" />
-        <option value="$PROJECT_DIR$/src/datastructure/tree/ThreadedBinaryTreeDemo.java" />
-        <option value="$PROJECT_DIR$/src/datastructure/tree/btree/BinaryTreeDemo.java" />
-        <option value="$PROJECT_DIR$/src/datastructure/tree/ThreadedBinaryTreeDemo/ThreadedBinaryTreeDemo.java" />
-        <option value="$PROJECT_DIR$/src/datastructure/tree/heapTree/Test.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Singleton/Factory/Test.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Singleton/Factory/simpleFactory/Pizza.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Singleton/Factory/simpleFactory/GreekPizza.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Singleton/Factory/simpleFactory/CheesePizze.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Singleton/Factory/simpleFactory/CheesePizza.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Singleton/Factory/simpleFactory/PepperPizza.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Singleton/Factory/simpleFactory/SimpleFatory.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Singleton/Factory/simpleFactory/Test.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Singleton/Factory/simpleFactory/OrderPizza.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Singleton/Factory/factorymethod/pizza/Pizza.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Singleton/Factory/factorymethod/pizza/LDPepperPizza.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Singleton/Factory/factorymethod/pizza/LDCheesePizza.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Singleton/Factory/factorymethod/pizza/BJCheesePizza.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Singleton/Factory/factorymethod/pizza/BJPepperPizza.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Singleton/Factory/factorymethod/order/BJOrderPizza.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Singleton/Factory/factorymethod/order/LDOrderPizza.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Singleton/Factory/factorymethod/order/PizzaStore.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Singleton/Factory/factorymethod/order/OrderPizza.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Singleton/Factory/factorymethod/abstractFactoryOrder/AbsFactory.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Singleton/Factory/factorymethod/abstractFactoryOrder/BJFactory.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Singleton/Factory/factorymethod/abstractFactoryOrder/LDFactory.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Singleton/Factory/factorymethod/abstractFactoryOrder/OrderPizza.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Singleton/Factory/factorymethod/abstractFactoryOrder/PizzaStore.java" />
-        <option value="$PROJECT_DIR$/src/datastructure/tree/heapTree/HeapSortDemo.java" />
-        <option value="$PROJECT_DIR$/src/datastructure/tree/huffmantree/HuffmanTree.java" />
-        <option value="$PROJECT_DIR$/src/org/sd/singleton/Student.java" />
-        <option value="$PROJECT_DIR$/src/org/sd/singleton/StudentComparator.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Prototype/deepCopyDemo.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Prototype/DeepCopyParent.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Prototype/DeepCopyChild.java" />
-        <option value="$PROJECT_DIR$/src/datastructure/tree/HuffmanCode.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Bulider/House.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Bulider/HouseBuilder.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Bulider/HouseDirector.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Bulider/CommonHouse.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Bulider/client.java" />
-        <option value="$PROJECT_DIR$/src/datastructure/tree/BST/BinarySortTreeDemo.java" />
-      </list>
-    </option>
-  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -151,59 +67,8 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1669" />
-    <option name="y" value="5" />
-    <option name="width" value="1484" />
-    <option name="height" value="798" />
-  </component>
+  <component name="ProjectId" id="1QzYCGezi90M02XnOTM56XT7sP2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-              <item name="BST" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -217,18 +82,18 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Idea_work\exercise2\src\lib" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Idea_work\exercise2\src" />
-      <recent name="E:\Idea_work\exercise2\lib" />
-      <recent name="E:\Idea_work\exercise2\src\org\sd\mediator" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.sd.Proxy" />
       <recent name="org.sd.factory" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Idea_work\exercise2\src\lib" />
       <recent name="E:\Idea_work\exercise2\src" />
+      <recent name="E:\Idea_work\exercise2\lib" />
+      <recent name="E:\Idea_work\exercise2\src\org\sd\mediator" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -243,13 +108,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinarySortTreeDemo">
-    <configuration name="BinarySortTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.tree.BST.BinarySortTreeDemo" />
+  <component name="RunManager" selected="Application.Client (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gof.decorator.Client" />
       <module name="exercise2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.tree.BST.*" />
+          <option name="PATTERN" value="Gof.decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HuffmanCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.tree.HuffmanCode" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gof.bridge.Client" />
       <module name="exercise2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.tree.*" />
+          <option name="PATTERN" value="Gof.bridge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,12 +135,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.sd.singleton.StudentComparator" />
+    <configuration name="GreedyAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.greedy.GreedyAlgorithm" />
       <module name="exercise2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.sd.singleton.*" />
+          <option name="PATTERN" value="algorithm.greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KmpDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.kmp.KmpDemo" />
+      <module name="exercise2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.kmp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.prim.PrimAlgorithm" />
+      <module name="exercise2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.prim.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,47 +181,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gof.Bulider.client" />
-      <module name="exercise2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Gof.Bulider.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="deepCopyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gof.Prototype.deepCopyDemo" />
-      <module name="exercise2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Gof.Prototype.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.StudentComparator" />
-      <item itemvalue="Application.HuffmanCode" />
-      <item itemvalue="Application.deepCopyDemo" />
-      <item itemvalue="Application.client" />
-      <item itemvalue="Application.BinarySortTreeDemo" />
+      <item itemvalue="Application.KmpDemo" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.GreedyAlgorithm" />
+      <item itemvalue="Application.PrimAlgorithm" />
+      <item itemvalue="Application.Client (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BinarySortTreeDemo" />
-        <item itemvalue="Application.client" />
-        <item itemvalue="Application.HuffmanCode" />
-        <item itemvalue="Application.deepCopyDemo" />
-        <item itemvalue="Application.StudentComparator" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.PrimAlgorithm" />
+        <item itemvalue="Application.GreedyAlgorithm" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.KmpDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -430,7 +295,25 @@
       <workItem from="1568204359743" duration="34000" />
       <workItem from="1568291542138" duration="904000" />
       <workItem from="1568341915689" duration="3787000" />
-      <workItem from="1568426271409" duration="3365000" />
+      <workItem from="1568426271409" duration="4190000" />
+      <workItem from="1568525875807" duration="1570000" />
+      <workItem from="1568599678572" duration="3455000" />
+      <workItem from="1568620017081" duration="13000" />
+      <workItem from="1568774764417" duration="1802000" />
+      <workItem from="1568869099843" duration="2997000" />
+      <workItem from="1569030789380" duration="4698000" />
+      <workItem from="1569035562110" duration="42000" />
+      <workItem from="1569117892191" duration="3371000" />
+      <workItem from="1569128214820" duration="1642000" />
+      <workItem from="1569203944022" duration="4929000" />
+      <workItem from="1569216193850" duration="4045000" />
+      <workItem from="1569227422557" duration="1464000" />
+      <workItem from="1569289345778" duration="3576000" />
+      <workItem from="1569323459669" duration="79000" />
+      <workItem from="1569377009615" duration="3663000" />
+      <workItem from="1569387165555" duration="129000" />
+      <workItem from="1569461273775" duration="2968000" />
+      <workItem from="1569549243676" duration="4110000" />
     </task>
     <task id="LOCAL-00001" summary="2019.08.04">
       <created>1564907845490</created>
@@ -537,79 +420,15 @@
       <option name="project" value="LOCAL" />
       <updated>1567779561849</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="2019.09.14">
+      <created>1568429978398</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1568429978398</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="235044000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="1669" y="5" width="1484" height="798" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.21207865" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" weight="0.2671875" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
-      <window_info anchor="bottom" id="Database Changes" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.32894737" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.2" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.21875" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3609375" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="right" id="BPMNPalette" order="9" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.1980337" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" weight="0.2671875" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
-      <window_info anchor="bottom" id="Database Changes" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.32894737" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.3671875" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.21875" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.0484375" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="right" id="BPMNPalette" order="9" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -624,6 +443,19 @@
       </list>
     </option>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2019.08.04" />
     <MESSAGE value="2019.08.05" />
@@ -634,7 +466,8 @@
     <MESSAGE value="2019.09.02" />
     <MESSAGE value="2019.09.04" />
     <MESSAGE value="2019.09.06" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019.09.06" />
+    <MESSAGE value="2019.09.14" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019.09.14" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -642,520 +475,10 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/org/sd/mediator/President.java</url>
           <line>16</line>
-          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Gof/Factory/factorymethod/pizza/BJPepperPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/Factory/factorymethod/pizza/BJCheesePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/Factory/factorymethod/pizza/LDCheesePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/Factory/factorymethod/order/OrderPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/Factory/factorymethod/order/BJOrderPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/Factory/factorymethod/pizza/LDPepperPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/Factory/factorymethod/pizza/Pizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-          <folding>
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/Factory/simpleFactory/SimpleFatory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/Factory/simpleFactory/OrderPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/Factory/factorymethod/abstractFactoryOrder/PizzaStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
-          <folding>
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/Factory/factorymethod/abstractFactoryOrder/OrderPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/Factory/factorymethod/abstractFactoryOrder/LDFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/Factory/factorymethod/abstractFactoryOrder/BJFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/Factory/factorymethod/abstractFactoryOrder/AbsFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructure/tree/heapTree/HeapSortDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="127" column="22" selection-start-line="127" selection-start-column="22" selection-end-line="127" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="140" column="15" selection-start-line="140" selection-start-column="15" selection-end-line="140" selection-end-column="15" />
-          <folding>
-            <element signature="e#5644#5645#0" expanded="true" />
-            <element signature="e#5675#5676#0" expanded="true" />
-            <element signature="e#7284#7285#0" expanded="true" />
-            <element signature="e#7312#7313#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructure/tree/huffmantree/HuffmanTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-508">
-          <caret line="56" column="6" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/ListIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/DualPivotQuicksort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="1973" lean-forward="true" selection-start-line="1973" selection-end-line="1973" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="139" column="69" lean-forward="true" selection-start-line="139" selection-start-column="69" selection-end-line="139" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="141" column="44" lean-forward="true" selection-start-line="141" selection-start-column="44" selection-end-line="141" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/sd/FlyWeight/FlyWeightFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="80" column="29" lean-forward="true" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="481" column="25" lean-forward="true" selection-start-line="481" selection-start-column="25" selection-end-line="481" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="140" column="13" lean-forward="true" selection-start-line="140" selection-start-column="13" selection-end-line="140" selection-end-column="13" />
-          <folding>
-            <element signature="e#27751#27752#0" expanded="true" />
-            <element signature="e#27815#27816#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/sd/singleton/StudentComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="32" column="37" lean-forward="true" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/sd/singleton/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="70" column="9" lean-forward="true" selection-start-line="59" selection-start-column="3" selection-end-line="70" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#862#863#0" expanded="true" />
-            <element signature="e#887#888#0" expanded="true" />
-            <element signature="e#920#921#0" expanded="true" />
-            <element signature="e#948#949#0" expanded="true" />
-            <element signature="e#975#976#0" expanded="true" />
-            <element signature="e#1001#1002#0" expanded="true" />
-            <element signature="e#1036#1037#0" expanded="true" />
-            <element signature="e#1066#1067#0" expanded="true" />
-            <element signature="e#1097#1098#0" expanded="true" />
-            <element signature="e#1124#1125#0" expanded="true" />
-            <element signature="e#1164#1165#0" expanded="true" />
-            <element signature="e#1196#1197#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="124" column="28" selection-start-line="124" selection-start-column="28" selection-end-line="124" selection-end-column="29" />
-          <folding>
-            <element signature="e#2871#2872#0" expanded="true" />
-            <element signature="e#2896#2897#0" expanded="true" />
-            <element signature="e#3272#3273#0" expanded="true" />
-            <element signature="e#3303#3304#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/NumberFormatException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="64" column="15" selection-start-line="64" selection-start-column="15" selection-end-line="64" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/jre/lib/rt.jar!/sun/awt/datatransfer/ClassLoaderObjectOutputStream.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/io/ObjectOutputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="218" column="67" selection-start-line="218" selection-start-column="67" selection-end-line="218" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="213" column="7" lean-forward="true" selection-start-line="212" selection-end-line="213" selection-end-column="7" />
-          <folding>
-            <element signature="e#5748#5749#0" expanded="true" />
-            <element signature="e#5784#5785#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/io/ByteArrayOutputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="e#1176#1177#0" expanded="true" />
-            <element signature="e#1200#1201#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/Prototype/deepCopyDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/Prototype/DeepCopyParent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-32">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/Prototype/DeepCopyChild.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="562" column="21" lean-forward="true" selection-start-line="562" selection-start-column="21" selection-end-line="562" selection-end-column="21" />
-          <folding>
-            <element signature="e#20727#20728#0" expanded="true" />
-            <element signature="e#20771#20772#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-87">
-          <caret line="4432" column="52" lean-forward="true" selection-start-line="4432" selection-start-column="52" selection-end-line="4432" selection-end-column="52" />
-          <folding>
-            <element signature="e#12536#12537#0" expanded="true" />
-            <element signature="e#12595#12596#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1751">
-          <caret line="496" column="6" lean-forward="true" selection-start-line="496" selection-start-column="6" selection-end-line="496" selection-end-column="6" />
-          <folding>
-            <element signature="e#10902#10903#0" expanded="true" />
-            <element signature="e#10948#10949#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/百度.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/io/ObjectInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="706">
-          <caret line="389" column="6" lean-forward="true" selection-start-line="389" selection-start-column="6" selection-end-line="389" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/io/FileInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-169">
-          <caret line="285" column="32" lean-forward="true" selection-start-line="285" selection-start-column="32" selection-end-line="285" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructure/tree/HuffmanCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-79">
-          <caret line="43" column="22" lean-forward="true" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/Bulider/CommonHouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-          <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/Bulider/HouseDirector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-          <folding>
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/Bulider/HouseBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-          <folding>
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/Bulider/House.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-          <folding>
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/Bulider/client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructure/tree/BST/BinarySortTreeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="29" column="36" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="29" selection-end-column="36" />
-          <folding>
-            <element signature="e#1024#1025#0" expanded="true" />
-            <element signature="e#1051#1052#0" expanded="true" />
-            <element signature="e#6084#6085#0" expanded="true" />
-            <element signature="e#6135#6136#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
