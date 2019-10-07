@@ -2,36 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6329ee68-ffa6-4618-9554-444eef268ab1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Gof/Adapter/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gof/Adapter/IVoltage5v.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gof/Adapter/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gof/Adapter/Voltage220.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gof/Adapter/VoltageAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gof/bridge/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gof/bridge/Brand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gof/bridge/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gof/bridge/FoldPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gof/bridge/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gof/bridge/UpRightPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gof/bridge/XiaoMi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gof/decorator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gof/decorator/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gof/decorator/Decorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gof/decorator/Drink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gof/decorator/LongBlack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gof/decorator/MikeCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/LongestCommonSubString/LongestCommonSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/Kruskal/KruskalCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/binarysearchnorecursion/BinarySearchNoRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/dac/hannuota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/dynamic/KnapsackProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/greedy/GreedyAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/kmp/KmpDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/prim/PrimAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/Graph/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/tree/AVL/AVLDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/composite/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/composite/College.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/composite/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/composite/OrganizationComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/composite/University.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/facade/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/facade/DVDPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/facade/HomeTheaterFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/facade/Screen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/facade/Stereo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/flyweight/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/flyweight/ConcreteWebSite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/flyweight/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/flyweight/WebSite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gof/flyweight/WebSiteFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/Dijkstra/DijkstraAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/floyd/FloydAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/horse/HorseChessboard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/META-INF/exercise2.kotlin_module" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -108,13 +97,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (1)">
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gof.decorator.Client" />
+  <component name="RunManager" selected="Application.HorseChessboard (1)">
+    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gof.flyweight.Client" />
       <module name="exercise2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Gof.decorator.*" />
+          <option name="PATTERN" value="Gof.flyweight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +112,11 @@
       </method>
     </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gof.bridge.Client" />
+      <option name="MAIN_CLASS_NAME" value="Gof.facade.Client" />
       <module name="exercise2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Gof.bridge.*" />
+          <option name="PATTERN" value="Gof.facade.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreedyAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.greedy.GreedyAlgorithm" />
+    <configuration name="FloydAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.floyd.FloydAlgorithm" />
       <module name="exercise2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.greedy.*" />
+          <option name="PATTERN" value="algorithm.floyd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KmpDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.kmp.KmpDemo" />
+    <configuration name="HorseChessboard (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.horse.HorseChessboard" />
       <module name="exercise2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.kmp.*" />
+          <option name="PATTERN" value="com.atguigu.horse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.prim.PrimAlgorithm" />
+    <configuration name="HorseChessboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.horse.HorseChessboard" />
       <module name="exercise2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.prim.*" />
+          <option name="PATTERN" value="algorithm.horse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,19 +172,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.KmpDemo" />
       <item itemvalue="Application.Client" />
-      <item itemvalue="Application.GreedyAlgorithm" />
-      <item itemvalue="Application.PrimAlgorithm" />
-      <item itemvalue="Application.Client (1)" />
+      <item itemvalue="Application.FloydAlgorithm" />
+      <item itemvalue="Application.Client (3)" />
+      <item itemvalue="Application.HorseChessboard" />
+      <item itemvalue="Application.HorseChessboard (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client (1)" />
-        <item itemvalue="Application.PrimAlgorithm" />
-        <item itemvalue="Application.GreedyAlgorithm" />
+        <item itemvalue="Application.HorseChessboard (1)" />
+        <item itemvalue="Application.HorseChessboard" />
+        <item itemvalue="Application.Client (3)" />
+        <item itemvalue="Application.FloydAlgorithm" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.KmpDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -314,6 +303,17 @@
       <workItem from="1569387165555" duration="129000" />
       <workItem from="1569461273775" duration="2968000" />
       <workItem from="1569549243676" duration="4110000" />
+      <workItem from="1569564617057" duration="107000" />
+      <workItem from="1569564758082" duration="34000" />
+      <workItem from="1569593519246" duration="139000" />
+      <workItem from="1569650561728" duration="1595000" />
+      <workItem from="1569720652809" duration="8438000" />
+      <workItem from="1569754365307" duration="3089000" />
+      <workItem from="1569819840079" duration="3150000" />
+      <workItem from="1569853594822" duration="376000" />
+      <workItem from="1570271112848" duration="1411000" />
+      <workItem from="1570413107398" duration="669000" />
+      <workItem from="1570414583004" duration="2765000" />
     </task>
     <task id="LOCAL-00001" summary="2019.08.04">
       <created>1564907845490</created>
@@ -427,7 +427,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568429978398</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="2019.09.27">
+      <created>1569564707737</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1569564707737</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -467,7 +474,8 @@
     <MESSAGE value="2019.09.04" />
     <MESSAGE value="2019.09.06" />
     <MESSAGE value="2019.09.14" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019.09.14" />
+    <MESSAGE value="2019.09.27" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019.09.27" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
