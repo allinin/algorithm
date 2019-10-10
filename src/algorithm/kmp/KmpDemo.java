@@ -68,7 +68,7 @@ public class KmpDemo {
         int[] next=new int[len];
         next[0]=0;
         for(int i=1,j=0;i<len;i++)
-        {
+        {    //j记录前缀位置，i记录后缀位置
             while(j>0 && dest.charAt(i)!=dest.charAt(j))
             {
                 j=next[j-1];

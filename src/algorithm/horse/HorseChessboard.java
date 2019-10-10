@@ -1,4 +1,4 @@
-package com.atguigu.horse;
+package algorithm.horse;
 
 import java.awt.Point;
 import java.util.ArrayList;
@@ -36,6 +36,7 @@ public class HorseChessboard {
             }
             System.out.println();
         }
+
     }
 
     /**
