@@ -10,9 +10,9 @@ public class GCDemo {
         System.out.println((double)l1/1024/1024);
 
         String str="wwww";
-        while(true)
-        {
-            str=str+ new Random().nextInt(999999)+new Random().nextInt(888999999);
-        }
+//        while(true)
+//        {
+//            str=str+ new Random().nextInt(999)+new Random().nextInt(888);
+//        }
     }
 }
