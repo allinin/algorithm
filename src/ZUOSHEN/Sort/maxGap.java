@@ -1,4 +1,4 @@
-package ZUOSHEN.MaxABSBetweenLeftAndRight.Sort;
+package ZUOSHEN.Sort;
 
 import java.util.Arrays;
 import java.util.Map;

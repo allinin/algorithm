@@ -2,7 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6329ee68-ffa6-4618-9554-444eef268ab1" name="Default Changelist" comment="2019.11.27">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/动态规划/Cow.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/动态规划/Hanoi.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/动态规划/PrintPermutation.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/动态规划/PrintSub.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/图/BFS.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/图/DFS.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/图/Edge.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/图/Graph.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/图/GraphGenerator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/图/Kruskal.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/图/Node.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/图/Prim.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/图/TopologySort.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/图/TrieTree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/第三课/CatDogQueue.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/第三课/CopyListWithRandom.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/第三课/FindFirstIntersectNode.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/第三课/FindNumberSortedArray.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/第三课/GetMinStack.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/第三课/IsPalindromeList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/第三课/PrintMatrixSpiralOrder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/第三课/RandomPool.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/第三课/ReverseList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/第三课/SmallerEqualBigger.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/第三课/StackAndQueueConvert.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/第三课/TwoListCommons.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/第三课/ZigZagPrintMatrix.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/第四课/BestArrange.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/第四课/DescendantNode.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/第四课/FindOneLessValueIndex.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/第四课/IOP.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/第四课/Islands.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/第四课/LessMoney.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/第四课/MadianQuick.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/第四课/PageFolding.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/第四课/PreInPostTree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/第四课/UnionFind.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/PaperFolding/PaperFolding.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/PaperFolding/PaperFolding.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/Sort/BubbleSort.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/Sort/BubbleSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/Sort/BucketSort.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/Sort/BucketSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/Sort/HeapSort.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/Sort/HeapSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/Sort/InsertSort.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/Sort/InsertSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/Sort/MergeSort.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/Sort/MergeSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/Sort/QuickSort.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/Sort/QuickSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/Sort/SelectSort.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/Sort/SelectSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/Sort/maxGap.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/Sort/maxGap.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/application/Array_to_Stack_Queue.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/第三课/Array_to_Stack_Queue.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/findOneLessValueIndex/FindOneLessValueIndex.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/findOneLessValueIndex/FindOneLessValueIndex.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,7 +63,21 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Hanoi.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/动态规划/Hanoi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="71" lean-forward="true" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
+              <folding>
+                <element signature="e#568#569#0" expanded="true" />
+                <element signature="e#592#593#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,50 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Gof/state/CanRaffleState.java" />
-        <option value="$PROJECT_DIR$/src/Gof/state/DispenseOutState.java" />
-        <option value="$PROJECT_DIR$/src/Gof/state/Client.java" />
-        <option value="$PROJECT_DIR$/src/Gof/state/DispenseState.java" />
-        <option value="$PROJECT_DIR$/src/JUC/SpinLockDemo/SpinLockDemo.java" />
-        <option value="$PROJECT_DIR$/src/JUC/ReadWriteDemo/ReentrantReadWriteDemo.java" />
-        <option value="$PROJECT_DIR$/src/JUC/CoutDownLatchDemo/CountryEnum.java" />
-        <option value="$PROJECT_DIR$/src/JUC/CoutDownLatchDemo/CountDownLatchDemo.java" />
-        <option value="$PROJECT_DIR$/src/JUC/CyclicBarrierDemo/CyclicBarrierDemo.java" />
-        <option value="$PROJECT_DIR$/src/JUC/SemaphoreDemo/SemaphoreDemo.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Strategy/FlyBehavior.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Strategy/QuackBehavior.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Strategy/GoodFlyBehavior.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Strategy/BadFlyBehavior.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Strategy/NoFlyBehavior.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Strategy/GoodQuackBehavior.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Strategy/BadQuackBehavior.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Strategy/NoQuackBehavior.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Strategy/Duck.java" />
-        <option value="$PROJECT_DIR$/src/Gof/Strategy/ToyDuck.java" />
-        <option value="$PROJECT_DIR$/src/JUC/Demo5/ArrayListDemo.java" />
-        <option value="$PROJECT_DIR$/src/org/sd/Exercise.java" />
-        <option value="$PROJECT_DIR$/src/JUC/SynchronousQueueDemo/SynchronousQueueDemo.java" />
-        <option value="$PROJECT_DIR$/src/JUC/blockingqueue/BlockingQueueDemo.java" />
-        <option value="$PROJECT_DIR$/src/JUC/ThreadPoolDemo/ThreadPoolDemo.java" />
-        <option value="$PROJECT_DIR$/src/JUC/MyThreadPool/MyThreadPool.java" />
-        <option value="$PROJECT_DIR$/src/JUC/DeadLockDemo/DeadLockDemo.java" />
-        <option value="$PROJECT_DIR$/src/Gof/responsibilityChain/Approver.java" />
-        <option value="$PROJECT_DIR$/src/Gof/responsibilityChain/PurchaseRequest.java" />
-        <option value="$PROJECT_DIR$/src/Gof/responsibilityChain/DepartmentApprover.java" />
-        <option value="$PROJECT_DIR$/src/Gof/responsibilityChain/CollegeApprover.java" />
-        <option value="$PROJECT_DIR$/src/Gof/responsibilityChain/ViceSchoolMasterApprover.java" />
-        <option value="$PROJECT_DIR$/src/Gof/responsibilityChain/SchoolMasterApprover.java" />
-        <option value="$PROJECT_DIR$/src/Gof/responsibilityChain/Client.java" />
-        <option value="$PROJECT_DIR$/src/JUC/GCOverheadDemo/GCOverheadDemo.java" />
-        <option value="$PROJECT_DIR$/src/JUC/Directbuffermemory/DirectBufferMemory.java" />
-        <option value="$PROJECT_DIR$/src/JUC/MetaspaceOOM/MetaspaceOOMDemo.java" />
-        <option value="$PROJECT_DIR$/src/JUC/demo6/GCDemo.java" />
-        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/findOneLessValueIndex/FindOneLessValueIndex.java" />
-        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/PaperFolding/PaperFolding.java" />
-        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/MaxABSBetweenLeftAndRight.java" />
-        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/BubbleSort/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/Sort/InsertSort.java" />
-        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/Sort/SelectSort.java" />
         <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/Sort/MergeSort.java" />
         <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/Sort/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/Sort/QuickSort.java" />
@@ -95,6 +113,50 @@
         <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/Sort/BucketSort.java" />
         <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/Sort/maxGap.java" />
         <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/application/Array_to_Stack_Queue.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/application/GetMinStack.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/application/StackAndQueueConvert.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/application/CatDogQueue.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/application/RandomPool.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/application/PrintMatrixSpiralOrder.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/application/ZigZagPrintMatrix.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/application/FindNumberSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/application/TwoListCommons.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/第三课/TwoListCommons.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/第三课/IsPalindromeList.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/第三课/SmallerEqualBigger.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/第三课/CopyListWithRandom.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/第三课/FindFirstIntersectNode.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/第三课/ReverseList.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/第四课/MadianQuick.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/第四课/PreInPostTree.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/第四课/LessMoney.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/第四课/IOP.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/第四课/PageFolding.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/第四课/DescendantNode.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/第四课/FindOneLessValueIndex.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/第四课/UnionFind.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/第五课/TrieTree.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/第四课/Islands.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/图/Edge.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/图/Node.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/图/Graph.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/图/GraphGenerator.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/图/Graph.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/图/Node.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/图/GraphGenerator.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/图/BFS.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/图/DFS.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/图/TopologySort.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/图/Kruskal.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/图/Edge.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/图/Prim.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/第四课/BestArrange.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/MaxABSBetweenLeftAndRight.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/图/TrieTree.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/动态规划/Hanoi.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/动态规划/PrintSub.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/动态规划/Cow.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/动态规划/PrintPermutation.java" />
       </list>
     </option>
   </component>
@@ -112,10 +174,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2091" />
-    <option name="y" value="125" />
-    <option name="width" value="1588" />
-    <option name="height" value="768" />
+    <option name="x" value="32" />
+    <option name="y" value="96" />
+    <option name="width" value="1936" />
+    <option name="height" value="1019" />
   </component>
   <component name="ProjectId" id="1QzYCGezi90M02XnOTM56XT7sP2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -135,6 +197,9 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,15 +216,19 @@
               <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
               <item name="exercise2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MaxABSBetweenLeftAndRight" type="462c0819:PsiDirectoryNode" />
+              <item name="ZUOSHEN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ZUOSHEN" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -172,8 +241,8 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15323994" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
-    <property name="SearchEverywhereHistoryKey" value="String&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/String.java&#10;Str&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/String.java&#10;StringBui&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;StringB&#9;PSI&#9;JAVA://javafx.beans.binding.StringBinding&#10;Ob&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/Object.java&#10;HashSet&#9;PSI&#9;JAVA://java.util.HashSet&#10;Arrays&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Arrays.java&#10;ArrayList&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/ArrayList.java&#10;Integer&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/Integer.java&#10;Comparator&#9;PSI&#9;JAVA://java.util.Comparator&#10;Collections&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Collections.java&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;LinkedBlockingQ&#9;PSI&#9;JAVA://java.util.concurrent.LinkedBlockingQueue&#10;CyclicB&#9;PSI&#9;JAVA://java.util.concurrent.CyclicBarrier&#10;FutureTask&#9;PSI&#9;JAVA://java.util.concurrent.FutureTask&#10;CallAble&#9;PSI&#9;JAVA://java.util.concurrent.Callable&#10;Sc&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Scanner.java&#10;Queue&#9;PSI&#9;JAVA://java.util.Queue&#10;Deq&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Deque.java&#10;Scanner&#9;PSI&#9;JAVA://java.util.Scanner&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;State&#9;PSI&#9;JAVA://java.lang.Thread.State&#10;Reentrant&#9;FILE&#9;file://E:/Idea_work/exercise2/src/JUC/ReadWriteDemo/ReentrantReadWriteDemo.java&#10;AtomicIn&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger&#10;Stack&#9;PSI&#9;JAVA://java.util.Stack&#10;StringBu&#9;PSI&#9;JAVA://java.lang.StringBuffer&#10;CopyOnW&#9;PSI&#9;JAVA://java.util.concurrent.CopyOnWriteArrayList&#10;Map&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Map.java&#10;Array&#9;PSI&#9;JAVA://java.sql.Array&#10;HashM&#9;PSI&#9;JAVA://java.util.HashMap&#10;hashSet&#9;PSI&#9;JAVA://java.util.HashSet&#10;Atomic&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicBoolean&#10;Proxy&#9;PSI&#9;JAVA://java.lang.reflect.Proxy" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="SearchEverywhereHistoryKey" value="Hash&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/HashMap.java&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;StringBuilder&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/StringBuilder.java&#10;String&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/String.java&#10;LinkedList&#9;PSI&#9;JAVA://java.util.LinkedList&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;PriorityQ&#9;PSI&#9;JAVA://java.util.PriorityQueue&#10;Arrays&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Arrays.java&#10;HashMap&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/HashMap.java&#10;Str&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/String.java&#10;StringBui&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;StringB&#9;PSI&#9;JAVA://javafx.beans.binding.StringBinding&#10;Ob&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/Object.java&#10;HashSet&#9;PSI&#9;JAVA://java.util.HashSet&#10;Comparator&#9;PSI&#9;JAVA://java.util.Comparator&#10;Collections&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Collections.java&#10;LinkedBlockingQ&#9;PSI&#9;JAVA://java.util.concurrent.LinkedBlockingQueue&#10;CyclicB&#9;PSI&#9;JAVA://java.util.concurrent.CyclicBarrier&#10;FutureTask&#9;PSI&#9;JAVA://java.util.concurrent.FutureTask&#10;CallAble&#9;PSI&#9;JAVA://java.util.concurrent.Callable&#10;Sc&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Scanner.java&#10;Queue&#9;PSI&#9;JAVA://java.util.Queue&#10;Deq&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Deque.java&#10;Scanner&#9;PSI&#9;JAVA://java.util.Scanner&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;State&#9;PSI&#9;JAVA://java.lang.Thread.State&#10;Reentrant&#9;FILE&#9;file://E:/Idea_work/exercise2/src/JUC/ReadWriteDemo/ReentrantReadWriteDemo.java&#10;AtomicIn&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger&#10;Stack&#9;PSI&#9;JAVA://java.util.Stack&#10;StringBu&#9;PSI&#9;JAVA://java.lang.StringBuffer&#10;CopyOnW&#9;PSI&#9;JAVA://java.util.concurrent.CopyOnWriteArrayList&#10;Map&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Map.java&#10;Array&#9;PSI&#9;JAVA://java.sql.Array&#10;HashM&#9;PSI&#9;JAVA://java.util.HashMap&#10;hashSet&#9;PSI&#9;JAVA://java.util.HashSet&#10;Atomic&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicBoolean&#10;Proxy&#9;PSI&#9;JAVA://java.lang.reflect.Proxy" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -204,15 +273,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.maxGap">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.PrintPermutation">
+    <configuration name="Cow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ZUOSHEN.MaxABSBetweenLeftAndRight.Sort.*" />
+          <option name="PATTERN" value="ZUOSHEN.动态规划.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ZUOSHEN.MaxABSBetweenLeftAndRight.Sort.BubbleSort" />
+      <option name="MAIN_CLASS_NAME" value="ZUOSHEN.动态规划.Cow" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -224,14 +293,14 @@
       <module name="exercise2" />
       <envs />
     </configuration>
-    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Hanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ZUOSHEN.MaxABSBetweenLeftAndRight.Sort.*" />
+          <option name="PATTERN" value="ZUOSHEN.动态规划.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ZUOSHEN.MaxABSBetweenLeftAndRight.Sort.HeapSort" />
+      <option name="MAIN_CLASS_NAME" value="ZUOSHEN.动态规划.Hanoi" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -243,14 +312,14 @@
       <module name="exercise2" />
       <envs />
     </configuration>
-    <configuration name="MaxABSBetweenLeftAndRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="PrintPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ZUOSHEN.MaxABSBetweenLeftAndRight.*" />
+          <option name="PATTERN" value="ZUOSHEN.动态规划.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ZUOSHEN.MaxABSBetweenLeftAndRight.MaxABSBetweenLeftAndRight" />
+      <option name="MAIN_CLASS_NAME" value="ZUOSHEN.动态规划.PrintPermutation" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -262,14 +331,33 @@
       <module name="exercise2" />
       <envs />
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="PrintSub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ZUOSHEN.MaxABSBetweenLeftAndRight.Sort.*" />
+          <option name="PATTERN" value="ZUOSHEN.动态规划.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ZUOSHEN.MaxABSBetweenLeftAndRight.Sort.QuickSort" />
+      <option name="MAIN_CLASS_NAME" value="ZUOSHEN.动态规划.PrintSub" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="exercise2" />
+      <envs />
+    </configuration>
+    <configuration name="TrieTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ZUOSHEN.MaxABSBetweenLeftAndRight.第五课.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ZUOSHEN.MaxABSBetweenLeftAndRight.第五课.TrieTree" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -295,40 +383,21 @@
       <module name="exercise2" />
       <envs />
     </configuration>
-    <configuration name="maxGap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ZUOSHEN.MaxABSBetweenLeftAndRight.Sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ZUOSHEN.MaxABSBetweenLeftAndRight.Sort.maxGap" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="exercise2" />
-      <envs />
-    </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MaxABSBetweenLeftAndRight" />
-      <item index="2" class="java.lang.String" itemvalue="Application.QuickSort" />
-      <item index="3" class="java.lang.String" itemvalue="Application.BubbleSort" />
-      <item index="4" class="java.lang.String" itemvalue="Application.HeapSort" />
-      <item index="5" class="java.lang.String" itemvalue="Application.maxGap" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TrieTree" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Hanoi" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PrintSub" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Cow" />
+      <item index="5" class="java.lang.String" itemvalue="Application.PrintPermutation" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.maxGap" />
-        <item index="1" class="java.lang.String" itemvalue="Application.HeapSort" />
-        <item index="2" class="java.lang.String" itemvalue="Application.QuickSort" />
-        <item index="3" class="java.lang.String" itemvalue="Application.BubbleSort" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MaxABSBetweenLeftAndRight" />
+        <item index="0" class="java.lang.String" itemvalue="Application.PrintPermutation" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Cow" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PrintSub" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Hanoi" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TrieTree" />
       </list>
     </recent_temporary>
   </component>
@@ -522,7 +591,32 @@
       <workItem from="1574658425493" duration="732000" />
       <workItem from="1574689289847" duration="3371000" />
       <workItem from="1574750009854" duration="2921000" />
-      <workItem from="1574829446917" duration="2483000" />
+      <workItem from="1574829446917" duration="3291000" />
+      <workItem from="1574915130837" duration="9886000" />
+      <workItem from="1574995972687" duration="7103000" />
+      <workItem from="1575036148541" duration="2190000" />
+      <workItem from="1575078495671" duration="5324000" />
+      <workItem from="1575118751367" duration="334000" />
+      <workItem from="1575169795443" duration="6389000" />
+      <workItem from="1575261994727" duration="21000" />
+      <workItem from="1575436792787" duration="3610000" />
+      <workItem from="1575512363561" duration="3313000" />
+      <workItem from="1575521343382" duration="2291000" />
+      <workItem from="1575599745497" duration="2400000" />
+      <workItem from="1575894610124" duration="150000" />
+      <workItem from="1575894779678" duration="10000" />
+      <workItem from="1575894906424" duration="616000" />
+      <workItem from="1575900539905" duration="1242000" />
+      <workItem from="1575977496334" duration="1702000" />
+      <workItem from="1576062955062" duration="3800000" />
+      <workItem from="1576148882661" duration="2819000" />
+      <workItem from="1576293760297" duration="3149000" />
+      <workItem from="1576473618439" duration="2211000" />
+      <workItem from="1576475878853" duration="10000" />
+      <workItem from="1576550293085" duration="6064000" />
+      <workItem from="1576642339054" duration="1402000" />
+      <workItem from="1576667894757" duration="1809000" />
+      <workItem from="1576722574249" duration="7367000" />
     </task>
     <task id="LOCAL-00001" summary="2019.08.04">
       <created>1564907845490</created>
@@ -678,36 +772,46 @@
       <option name="project" value="LOCAL" />
       <updated>1574831914999</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="2019.11.27">
+      <created>1574831937257</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1574831937257</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="176953000" />
+    <option name="totallyTimeSpent" value="252973000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32791728" sideWeight="0.50420755" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32752994" sideWeight="0.50420755" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Word Book" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34494016" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3264418" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34167573" sideWeight="0.49719495" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20021763" sideWeight="0.49719495" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.52584934" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19616205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31236672" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.49579242" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -717,7 +821,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2486911" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3264418" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -825,384 +928,376 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="22" />
+      <option name="time" value="26" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Gof/responsibilityChain/PurchaseRequest.java">
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/第三课/CatDogQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/responsibilityChain/Approver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="73" lean-forward="false" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JUC/DeadLockDemo/DeadLockDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="37" column="58" lean-forward="false" selection-start-line="37" selection-start-column="58" selection-end-line="37" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/responsibilityChain/DepartmentApprover.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/responsibilityChain/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-773">
-          <caret line="374" column="26" lean-forward="true" selection-start-line="374" selection-start-column="26" selection-end-line="374" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/com/sun/org/apache/xpath/internal/operations/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JUC/GCOverheadDemo/GCOverheadDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructure/stack/ArrayStackDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/ComparableTimSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8371">
-          <caret line="297" column="6" lean-forward="true" selection-start-line="297" selection-start-column="6" selection-end-line="297" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/sd/singleton/StudentComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="980" column="64" lean-forward="false" selection-start-line="980" selection-start-column="64" selection-end-line="980" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="113" column="6" lean-forward="true" selection-start-line="113" selection-start-column="6" selection-end-line="113" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="477" column="17" lean-forward="true" selection-start-line="477" selection-start-column="17" selection-end-line="477" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JUC/Directbuffermemory/DirectBufferMemory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="3028" column="0" lean-forward="false" selection-start-line="3028" selection-start-column="0" selection-end-line="3028" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JUC/MyThreadPool/MyThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JUC/MetaspaceOOMDemo.java" />
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/Throwable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="486" column="54" lean-forward="true" selection-start-line="486" selection-start-column="54" selection-end-line="486" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ideaLibSources/cglib-2.2-sources.jar!/net/sf/cglib/proxy/Callback.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="26" column="17" lean-forward="false" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ideaLibSources/cglib-2.2-sources.jar!/net/sf/cglib/proxy/Enhancer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="199" column="32" lean-forward="true" selection-start-line="199" selection-start-column="32" selection-end-line="199" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JUC/MetaspaceOOM/MetaspaceOOMDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3938">
-          <caret line="41" column="43" lean-forward="false" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JUC/ReadWriteDemo/ReentrantReadWriteDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="53" column="33" lean-forward="false" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JUC/demo6/GCDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="50" lean-forward="false" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/PaperFolding/PaperFolding.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/findOneLessValueIndex/FindOneLessValueIndex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="38" lean-forward="false" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1257">
-          <caret line="337" column="48" lean-forward="false" selection-start-line="337" selection-start-column="48" selection-end-line="337" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="218" column="21" lean-forward="false" selection-start-line="218" selection-start-column="21" selection-end-line="218" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="79" column="64" lean-forward="true" selection-start-line="79" selection-start-column="64" selection-end-line="79" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/javafx-src.zip!/javafx/beans/binding/StringBinding.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="60" column="22" lean-forward="false" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+        <state relative-caret-position="-990">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="jar://E:/jdk1.8/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="3788" column="12" lean-forward="false" selection-start-line="3788" selection-start-column="12" selection-end-line="3788" selection-end-column="12" />
-          <folding>
-            <element signature="e#177013#177014#0" expanded="false" />
-            <element signature="e#177054#177055#0" expanded="false" />
-            <element signature="e#177353#177354#0" expanded="false" />
-            <element signature="e#177410#177411#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="91">
+          <caret line="3852" column="27" lean-forward="true" selection-start-line="3852" selection-start-column="27" selection-end-line="3852" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/System.java">
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/第三课/RandomPool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="492" column="30" lean-forward="false" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
+        <state relative-caret-position="-187">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/AbstractStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="762" column="23" lean-forward="true" selection-start-line="762" selection-start-column="23" selection-end-line="762" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/MaxABSBetweenLeftAndRight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1452">
-          <caret line="68" column="39" lean-forward="false" selection-start-line="68" selection-start-column="39" selection-end-line="69" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="2858" column="10" lean-forward="true" selection-start-line="2858" selection-start-column="10" selection-end-line="2858" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="246" column="0" lean-forward="true" selection-start-line="246" selection-start-column="0" selection-end-line="246" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="382" column="74" lean-forward="true" selection-start-line="382" selection-start-column="74" selection-end-line="382" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/InsertSort/InsertSort.java" />
-    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/Sort/SelectSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/Sort/InsertSort.java">
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/第三课/FindNumberSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
-          <folding />
+          <caret line="23" column="51" lean-forward="true" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/Math.java">
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/第三课/Array_to_Stack_Queue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="763" column="19" lean-forward="true" selection-start-line="763" selection-start-column="19" selection-end-line="763" selection-end-column="19" />
+        <state relative-caret-position="396">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/Sort/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/第三课/SmallerEqualBigger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="35" lean-forward="false" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-          <folding>
-            <element signature="e#949#950#0" expanded="false" />
-            <element signature="e#981#982#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="98">
+          <caret line="80" column="42" lean-forward="false" selection-start-line="80" selection-start-column="42" selection-end-line="80" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/第三课/IsPalindromeList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="94" column="8" lean-forward="false" selection-start-line="94" selection-start-column="8" selection-end-line="94" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/第三课/ZigZagPrintMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="42" lean-forward="false" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/第三课/TwoListCommons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/第三课/PrintMatrixSpiralOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/第三课/FindFirstIntersectNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="134" column="20" lean-forward="false" selection-start-line="134" selection-start-column="20" selection-end-line="134" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/第三课/ReverseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="48" column="21" lean-forward="true" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/第三课/CopyListWithRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="70" column="70" lean-forward="false" selection-start-line="70" selection-start-column="70" selection-end-line="70" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="54" column="28" lean-forward="true" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/第四课/MadianQuick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="93" column="5" lean-forward="true" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="jar://E:/jdk1.8/src.zip!/java/util/Vector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="27" column="7" lean-forward="false" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        <state relative-caret-position="187">
+          <caret line="151" column="65" lean-forward="true" selection-start-line="151" selection-start-column="65" selection-end-line="151" selection-end-column="65" />
         </state>
       </provider>
     </entry>
     <entry file="jar://E:/jdk1.8/src.zip!/java/util/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="48" column="27" lean-forward="false" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27126">
+          <caret line="1332" column="19" lean-forward="false" selection-start-line="1332" selection-start-column="19" selection-end-line="1332" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/第四课/LessMoney.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="37" column="12" lean-forward="false" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/第四课/FindOneLessValueIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/第四课/DescendantNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/第四课/IOP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="88" column="69" lean-forward="false" selection-start-line="88" selection-start-column="69" selection-end-line="88" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="107" column="1" lean-forward="true" selection-start-line="107" selection-start-column="1" selection-end-line="107" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31">
+          <caret line="143" column="17" lean-forward="false" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="48" column="24" lean-forward="false" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+          <caret line="192" column="35" lean-forward="true" selection-start-line="192" selection-start-column="35" selection-end-line="192" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/application/Array_to_Stack_Queue.java">
+    <entry file="jar://E:/jdk1.8/src.zip!/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="172">
+          <caret line="47" column="67" lean-forward="true" selection-start-line="47" selection-start-column="67" selection-end-line="47" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="241" column="13" lean-forward="true" selection-start-line="241" selection-start-column="13" selection-end-line="241" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="245" column="46" lean-forward="true" selection-start-line="245" selection-start-column="46" selection-end-line="245" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/第四课/Islands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/图/BFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/图/DFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="137" column="23" lean-forward="true" selection-start-line="137" selection-start-column="23" selection-end-line="137" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/第四课/PreInPostTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="50" column="29" lean-forward="false" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/图/TopologySort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/图/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/图/Kruskal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-181">
+          <caret line="53" column="44" lean-forward="true" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="54" column="29" lean-forward="false" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/图/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/图/Prim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/第四课/UnionFind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/图/Edge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/图/GraphGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/第四课/BestArrange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/MaxABSBetweenLeftAndRight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/第四课/PageFolding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/图/TrieTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/Sort/maxGap.java">
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/动态规划/PrintPermutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="37" column="25" lean-forward="false" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1289#1290#0" expanded="true" />
-            <element signature="e#1342#1343#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/Sort/BucketSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="32" column="14" lean-forward="false" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
-          <folding>
-            <element signature="e#738#739#0" expanded="true" />
-            <element signature="e#770#771#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/Sort/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-          <folding>
-            <element signature="e#1510#1511#0" expanded="true" />
-            <element signature="e#1542#1543#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/Sort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="e#1548#1549#0" expanded="true" />
-            <element signature="e#1580#1581#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/Sort/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="28" column="50" lean-forward="false" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+        <state relative-caret-position="875">
+          <caret line="35" column="39" lean-forward="true" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/动态规划/Cow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+          <folding>
+            <element signature="e#727#728#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/动态规划/PrintSub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/动态规划/Hanoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="71" lean-forward="true" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
+          <folding>
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

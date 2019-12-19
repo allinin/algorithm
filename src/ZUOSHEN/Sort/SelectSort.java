@@ -1,4 +1,4 @@
-package ZUOSHEN.MaxABSBetweenLeftAndRight.Sort;
+package ZUOSHEN.Sort;
 
 public class SelectSort {
 

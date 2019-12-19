@@ -1,4 +1,4 @@
-package ZUOSHEN.MaxABSBetweenLeftAndRight.application;
+package ZUOSHEN.第三课;
 
 public class Array_to_Stack_Queue {
 

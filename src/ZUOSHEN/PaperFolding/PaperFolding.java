@@ -1,4 +1,4 @@
-package ZUOSHEN.MaxABSBetweenLeftAndRight.PaperFolding;
+package ZUOSHEN.PaperFolding;
 
 public class PaperFolding {
     public static void printAllFolds(int N) {

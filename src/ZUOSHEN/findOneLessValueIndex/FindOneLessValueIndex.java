@@ -1,4 +1,4 @@
-package ZUOSHEN.MaxABSBetweenLeftAndRight.findOneLessValueIndex;
+package ZUOSHEN.findOneLessValueIndex;
 
 public class FindOneLessValueIndex {
 
