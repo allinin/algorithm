@@ -1,5 +1,8 @@
-package ZUOSHEN.动态规划;
+package ZUOSHEN.动态规划与递归;
 
+/**
+ * d打印N层汉诺塔从最左边移动到最右边的全部过程
+ */
 public class Hanoi {
 
     public static void hanio(int n){

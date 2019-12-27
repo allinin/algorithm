@@ -1,5 +1,8 @@
-package ZUOSHEN.动态规划;
+package ZUOSHEN.动态规划与递归;
 
+/**
+ * 打印一个字符串的全部排列（可以出现重复的排列）
+ */
 public class PrintPermutation {
 
     public static void printAllPermutations1(String str){
@@ -10,10 +13,10 @@ public class PrintPermutation {
     public static void process1(char[] str,int i)
     {
         if(i==str.length-1)
-    {
-        System.out.println(String.valueOf(str));
-        return;
-    }
+        {
+            System.out.println(String.valueOf(str));
+            return;
+        }
         for(int j=i;j<str.length;j++)
         {
             swap(str,i,j);

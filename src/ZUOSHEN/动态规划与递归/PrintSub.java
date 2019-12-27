@@ -1,5 +1,8 @@
-package ZUOSHEN.动态规划;
+package ZUOSHEN.动态规划与递归;
 
+/**
+ * 打印一个字符串的去全部子序列，包括空字符串
+ */
 public class PrintSub {
 
     //i表示字符串中字符的位置

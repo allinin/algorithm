@@ -1,7 +1,10 @@
-package ZUOSHEN.第四课;
+package ZUOSHEN.树;
 
 import java.util.Stack;
 
+/**
+ * 树的前序，中序后序遍历的非递归实现
+ */
 public class PreInPostTree {      //非递归的方式实现树的前序，中序，后序遍历
 
 
