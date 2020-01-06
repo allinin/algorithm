@@ -12,9 +12,9 @@ public class MergeSort {
     public static void mergerSort(int[] arr,int start ,int end)
     {
         int mid=start+((end-start)>>1);
-        mergerSort(arr,start,mid);
-        mergerSort(arr,mid+1,end);
-        merger(arr,start,mid,end);
+        mergerSort(arr,start,mid);//左半部分
+        mergerSort(arr,mid+1,end);//右半部分
+        merger(arr,start,mid,end);//总体merge
 
     }
 

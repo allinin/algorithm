@@ -2,6 +2,9 @@ package ZUOSHEN.第三课;
 
 import java.util.HashMap;
 
+/**
+ * 实现链表的拷贝
+ */
 public class CopyListWithRandom {
 
     public static class Node {

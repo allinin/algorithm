@@ -40,7 +40,7 @@ public class Manacher {
             }
             max = Math.max(max, pArr[i]);//因为pArr[i]是回文半径，所以这里不需要/2
         }
-        return max - 1;
+        return max - 1;//自己举个例子看看
     }
     public static void main(String[] args) {
         String str1 = "aqwqab";

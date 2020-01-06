@@ -42,7 +42,7 @@ public class KMP {
         next[0] = -1;
         next[1] = 0;
         int pos = 2;
-        int cn = 0;//cn表示跳到的位置,cn初始值=next[pos-1]==next[1]==0
+        int cn = 0;//cn表示跳到的位置,cn初始值=next[pos-1]==next[1]==0,同时cn的初始值也表示了pos-1位置的最长相同前后缀。
         while (pos < next.length) {
             if (ms[pos - 1] == ms[cn]) {
                 next[pos++] = ++cn;

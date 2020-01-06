@@ -1,4 +1,4 @@
-package ZUOSHEN.高频面试题;
+package ZUOSHEN.高频面试题.数组问题;
 
 import java.util.HashMap;
 
@@ -21,7 +21,7 @@ public class LongestSubarray2 {
         for(int i=0;i<arr.length;i++)
         {
             sum+=arr[i];
-            if(map.containsValue(sum-k))
+            if(map.containsKey(sum-k))
             {
                 len=Math.max(len,i-map.get(sum-k));
             }

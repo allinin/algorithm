@@ -1,9 +1,9 @@
-package ZUOSHEN.高频面试题;
+package ZUOSHEN.高频面试题.数组问题;
 
 /**
  * @author zbl
  * @version 1.0
- * @content: 给定义全是整数的数组，请返回累加和为给定值k的最长子数组的长度
+ * @content: 给定义全是正数的数组，请返回累加和为给定值k的最长子数组的长度
  * @date 2019/12/26 12:45
  */
 public class LongestSubarraySolution {
