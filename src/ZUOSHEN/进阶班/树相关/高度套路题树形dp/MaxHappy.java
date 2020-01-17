@@ -21,7 +21,7 @@ public class MaxHappy {
         }
     }
 
-    //每个人来的活跃度与不来的活跃度
+    //构建成树形结构后，来的活跃度与不来的活跃度
     public static class ReturnType{
         public int lai_huo;
         public int bu_lai_huo;

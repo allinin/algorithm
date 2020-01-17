@@ -1,10 +1,6 @@
 <component name="libraryTable">
   <library name="core-3.3.0 (2)">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/src/lib/core-3.3.0.jar!/" />
-      <root url="jar://$PROJECT_DIR$/src/lib/javase-3.1.0.jar!/" />
-      <root url="jar://$PROJECT_DIR$/src/lib/QRCode-3.0.0.jar!/" />
-    </CLASSES>
+    <CLASSES />
     <JAVADOC />
     <SOURCES />
   </library>

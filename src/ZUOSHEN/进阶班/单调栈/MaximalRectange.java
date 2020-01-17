@@ -1,8 +1,5 @@
 package ZUOSHEN.进阶班.单调栈;
 
-import ZUOSHEN.第四课.MadianQuick;
-import org.omg.PortableInterceptor.INACTIVE;
-
 import java.util.Stack;
 
 /**
