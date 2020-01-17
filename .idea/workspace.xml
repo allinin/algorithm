@@ -4,100 +4,8 @@
     <bookmark url="file://$PROJECT_DIR$/src/ZUOSHEN/高频面试题/数组问题/LongestSubarray2.java" line="55" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6329ee68-ffa6-4618-9554-444eef268ab1" name="Default Changelist" comment="2020.01.06">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/前缀树应用/Max_EOR好题.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/动态规划与递归/CoinsWay.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/树相关/IsBSTAndCBT.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/树相关/IsCBT.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/结构设计/ExpressionCompute.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/结构设计/LFU.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/结构设计/LRU.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/七_头条题/AllTimesMinToMax.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/七_头条题/RightConner.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/七_头条题/RussianDollEnvelopes.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/七_头条题/SDEandPM.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/九TOP_K问题/TopKTime2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/九TOP_K问题/TopkTime1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/五/CardsInLine.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/八数组子序列问题/LongestIncrSubqueue.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/六大量运用优先级队列/Problem1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/六大量运用优先级队列/Problem2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/六大量运用优先级队列/Problem3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/六大量运用优先级队列/Problem4.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/六大量运用优先级队列/Problem5.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/六大量运用优先级队列/Problem6.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/六大量运用优先级队列/Problem7.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/动态规划与递归/CardsInLine.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/动态规划与递归/Problem4.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/动态规划与递归/Problem5.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/动态规划与递归/Problem6.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/core_3_3_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/core_3_3_0.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/core_3_3_0__2_.xml" afterPath="$PROJECT_DIR$/.idea/libraries/core_3_3_0__2_.xml" />
+    <list default="true" id="6329ee68-ffa6-4618-9554-444eef268ab1" name="Default Changelist" comment="2020.01.17">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/MaxABSBetweenLeftAndRight/MaxABSBetweenLeftAndRight.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/MaxABSBetweenLeftAndRight/MaxABSBetweenLeftAndRight.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/PaperFolding/PaperFolding.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/PaperFolding/PaperFolding.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/Sort/BubbleSort.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/Sort/BubbleSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/Sort/BucketSort.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/Sort/BucketSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/Sort/HeapSort.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/Sort/HeapSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/Sort/InsertSort.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/Sort/InsertSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/Sort/MergeSort.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/Sort/MergeSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/Sort/QuickSort.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/Sort/QuickSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/Sort/SelectSort.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/Sort/SelectSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/Sort/maxGap.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/Sort/maxGap.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/findOneLessValueIndex/FindOneLessValueIndex.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/findOneLessValueIndex/FindOneLessValueIndex.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/moris/MorisTraversal.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/moris/MorisTraversal.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/动态规划与递归/CardsInLine.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/动态规划与递归/CardsInLine.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/动态规划与递归/Cow.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/动态规划与递归/Cow.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/动态规划与递归/Hanoi.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/动态规划与递归/Hanoi.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/动态规划与递归/MinPath.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/动态规划与递归/MinPath.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/动态规划与递归/MoneyProblem.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/动态规划与递归/MoneyProblem.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/动态规划与递归/PrintPermutation.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/动态规划与递归/PrintPermutation.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/动态规划与递归/PrintSub.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/动态规划与递归/PrintSub.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/图/BFS.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/BFS.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/图/DFS.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/DFS.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/图/Edge.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/Edge.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/图/Graph.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/Graph.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/图/GraphGenerator.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/GraphGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/图/Kruskal.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/Kruskal.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/图/Node.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/Node.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/图/Prim.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/Prim.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/图/TopologySort.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/TopologySort.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/图/TrieTree.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/TrieTree.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/并查集/Islands.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/并查集/Islands.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/并查集/TarjanAndDisjoinSetsForLCA.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/并查集/TarjanAndDisjoinSetsForLCA.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/并查集/UnionFind.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/并查集/UnionFind.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/树/CompleteTreeNodeNumber.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/树/CompleteTreeNodeNumber.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/树/IsBSTAndCBT.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/树/IsBSTAndCBT.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/树/IsBalancedTree.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/树/IsBalancedTree.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/树/PreInPostTree.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/树/PreInPostTree.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/树/SerializeAndReconstructTree.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/树/SerializeAndReconstructTree.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/第三课/Array_to_Stack_Queue.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/Array_to_Stack_Queue.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/第三课/CatDogQueue.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/CatDogQueue.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/第三课/CopyListWithRandom.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/CopyListWithRandom.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/第三课/FindFirstIntersectNode.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/FindFirstIntersectNode.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/第三课/FindNumberSortedArray.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/FindNumberSortedArray.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/第三课/GetMinStack.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/GetMinStack.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/第三课/IsPalindromeList.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/IsPalindromeList.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/第三课/PrintMatrixSpiralOrder.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/PrintMatrixSpiralOrder.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/第三课/RandomPool.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/RandomPool.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/第三课/ReverseList.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/ReverseList.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/第三课/SmallerEqualBigger.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/SmallerEqualBigger.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/第三课/StackAndQueueConvert.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/StackAndQueueConvert.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/第三课/TwoListCommons.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/TwoListCommons.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/第三课/ZigZagPrintMatrix.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/ZigZagPrintMatrix.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/第四课/BestArrange.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/BestArrange.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/第四课/DescendantNode.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/DescendantNode.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/第四课/FindOneLessValueIndex.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/FindOneLessValueIndex.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/第四课/IOP.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/IOP.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/第四课/Islands.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/Islands.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/第四课/LessMoney.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/LessMoney.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/第四课/MadianQuick.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/MadianQuick.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/第四课/PageFolding.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/PageFolding.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/第四课/UnionFind.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/UnionFind.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/单调栈/MaximalRectange.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/单调栈/MaximalRectange.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/树相关/高度套路题树形dp/MaxHappy.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/树相关/高度套路题树形dp/MaxHappy.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/CopyList.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/CopyList.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/五/Problem5.java" afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/五/Problem5.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -810,7 +718,7 @@
       <workItem from="1578644799145" duration="4800000" />
       <workItem from="1578799364546" duration="26944000" />
       <workItem from="1579142647230" duration="11153000" />
-      <workItem from="1579228670979" duration="9769000" />
+      <workItem from="1579228670979" duration="9820000" />
     </task>
     <task id="LOCAL-00001" summary="2019.08.04">
       <created>1564907845490</created>
@@ -994,11 +902,18 @@
       <option name="project" value="LOCAL" />
       <updated>1578289863428</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="2020.01.17">
+      <created>1579257690981</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1579257690981</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="526162000" />
+    <option name="totallyTimeSpent" value="526213000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1023,7 +938,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.095756255" sideWeight="0.48347548" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.095756255" sideWeight="0.48347548" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.52584934" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19989339" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -1129,7 +1044,8 @@
     <MESSAGE value="2019.12.20" />
     <MESSAGE value="2019.12.27" />
     <MESSAGE value="2020.01.06" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.01.06" />
+    <MESSAGE value="2020.01.17" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.01.17" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1332,6 +1248,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
