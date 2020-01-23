@@ -56,6 +56,43 @@ public class CoinsWay {
         }
         return process2(arr,0,aim);
     }
+    //根据conis1改动态规划
+    public static int coins3(int[] arr,int aim){
+        if(arr==null || arr.length==0 || aim<0){
+            return 0;
+        }
+        int[][]dp=new int[arr.length+1][aim+1];
+        for(int i=0;i<arr.length+1;i++){
+            dp[i][0]=1;
+        }
+        for(int i=arr.length-1;i>=0;i--){
+            for(int j=1;j<=aim;j++){
+               int m=0;
+               while(j-arr[i]*m>=0){
+                   dp[i][j]+=dp[i+1][j-arr[i]*m++];
+               }
+            }
+
+        }
+        return dp[0][aim];
+    }
+    //二维数组的动态规划优化为一维数组的动态规划
+    public static int coins5(int[] arr, int aim) {
+        if (arr == null || arr.length == 0 || aim < 0) {
+            return 0;
+        }
+        int[] dp = new int[aim + 1];
+        for (int j = 0; arr[0] * j <= aim; j++) {
+            dp[arr[0] * j] = 1;
+        }
+        for (int i = 1; i < arr.length; i++) {
+            for (int j = 1; j <= aim; j++) {
+                dp[j] += j - arr[i] >= 0 ? dp[j - arr[i]] : 0;
+            }
+        }
+        return dp[aim];
+    }
+
 
     public static void main(String[] args) {
         int[] coins = { 10, 5, 1, 25 };
@@ -74,31 +111,31 @@ public class CoinsWay {
         end = System.currentTimeMillis();
         System.out.println("cost time : " + (end - start) + "(ms)");
         start = System.currentTimeMillis();
-        System.out.println(coinsOther(coins, aim));
-        end = System.currentTimeMillis();
-        System.out.println("cost time : " + (end - start) + "(ms)");
-
-        aim = 20000;
-
-        start = System.currentTimeMillis();
-        System.out.println(coins2(coins, aim));
-        end = System.currentTimeMillis();
-        System.out.println("cost time : " + (end - start) + "(ms)");
-
-        start = System.currentTimeMillis();
         System.out.println(coins3(coins, aim));
         end = System.currentTimeMillis();
         System.out.println("cost time : " + (end - start) + "(ms)");
 
-        start = System.currentTimeMillis();
-        System.out.println(coins4(coins, aim));
-        end = System.currentTimeMillis();
-        System.out.println("cost time : " + (end - start) + "(ms)");
-
-        start = System.currentTimeMillis();
-        System.out.println(coins5(coins, aim));
-        end = System.currentTimeMillis();
-        System.out.println("cost time : " + (end - start) + "(ms)");
+//        aim = 20000;
+//
+//        start = System.currentTimeMillis();
+//        System.out.println(coins2(coins, aim));
+//        end = System.currentTimeMillis();
+//        System.out.println("cost time : " + (end - start) + "(ms)");
+//
+//        start = System.currentTimeMillis();
+//        System.out.println(coins3(coins, aim));
+//        end = System.currentTimeMillis();
+//        System.out.println("cost time : " + (end - start) + "(ms)");
+//
+//        start = System.currentTimeMillis();
+//        System.out.println(coins4(coins, aim));
+//        end = System.currentTimeMillis();
+//        System.out.println("cost time : " + (end - start) + "(ms)");
+//
+//        start = System.currentTimeMillis();
+//        System.out.println(coins5(coins, aim));
+//        end = System.currentTimeMillis();
+//        System.out.println("cost time : " + (end - start) + "(ms)");
 
     }
 }
