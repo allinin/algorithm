@@ -4,209 +4,8 @@
     <bookmark url="file://$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongestSubarray2.java" line="55" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6329ee68-ffa6-4618-9554-444eef268ab1" name="Default Changelist" comment="2020.01。23">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/进阶班二/第一章/Problem03_RelocateLinkedList.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/动态规划与递归/MergeStones.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/FindKMajor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/JosepheProblem.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/PointInRectangle.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/PointInTriangle.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/Problem07_CandyProblem.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/Problem08_ShuffleProblem.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/Problem09_FindUpMedian.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/Problem10_FindKthMin.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/Problem11MinWindowLength.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/RandomPool.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/ReceiveAndPrintOrderLine.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/手写HashMap/MyHashMap.java" />
+    <list default="true" id="6329ee68-ffa6-4618-9554-444eef268ab1" name="Default Changelist" comment="2020.02.12">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/MaxABSBetweenLeftAndRight/MaxABSBetweenLeftAndRight.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/MaxABSBetweenLeftAndRight/MaxABSBetweenLeftAndRight.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/PaperFolding/PaperFolding.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/PaperFolding/PaperFolding.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/Sort/BubbleSort.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/Sort/BubbleSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/Sort/BucketSort.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/Sort/BucketSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/Sort/HeapSort.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/Sort/HeapSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/Sort/InsertSort.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/Sort/InsertSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/Sort/MergeSort.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/Sort/MergeSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/Sort/QuickSort.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/Sort/QuickSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/Sort/SelectSort.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/Sort/SelectSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/Sort/maxGap.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/Sort/maxGap.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/findOneLessValueIndex/FindOneLessValueIndex.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/findOneLessValueIndex/FindOneLessValueIndex.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/moris/MorisTraversal.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/moris/MorisTraversal.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/动态规划与递归/CardsInLine.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/动态规划与递归/CardsInLine.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/动态规划与递归/Cow.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/动态规划与递归/Cow.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/动态规划与递归/Hanoi.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/动态规划与递归/Hanoi.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/动态规划与递归/MinPath.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/动态规划与递归/MinPath.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/动态规划与递归/MoneyProblem.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/动态规划与递归/MoneyProblem.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/动态规划与递归/PrintPermutation.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/动态规划与递归/PrintPermutation.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/动态规划与递归/PrintSub.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/动态规划与递归/PrintSub.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/BFS.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/图/BFS.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/DFS.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/图/DFS.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/Edge.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/图/Edge.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/Graph.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/图/Graph.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/GraphGenerator.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/图/GraphGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/Kruskal.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/图/Kruskal.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/Node.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/图/Node.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/Prim.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/图/Prim.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/TopologySort.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/图/TopologySort.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/TrieTree.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/图/TrieTree.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/并查集/Islands.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/并查集/Islands.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/并查集/TarjanAndDisjoinSetsForLCA.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/并查集/TarjanAndDisjoinSetsForLCA.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/并查集/UnionFind.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/并查集/UnionFind.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/树/CompleteTreeNodeNumber.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/树/CompleteTreeNodeNumber.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/树/IsBSTAndCBT.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/树/IsBSTAndCBT.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/树/IsBalancedTree.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/树/IsBalancedTree.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/树/PreInPostTree.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/树/PreInPostTree.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/树/SerializeAndReconstructTree.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/树/SerializeAndReconstructTree.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/Array_to_Stack_Queue.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第三课/Array_to_Stack_Queue.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/CatDogQueue.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第三课/CatDogQueue.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/CopyListWithRandom.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第三课/CopyListWithRandom.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/FindFirstIntersectNode.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第三课/FindFirstIntersectNode.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/FindNumberSortedArray.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第三课/FindNumberSortedArray.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/GetMinStack.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第三课/GetMinStack.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/IsPalindromeList.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第三课/IsPalindromeList.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/PrintMatrixSpiralOrder.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第三课/PrintMatrixSpiralOrder.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/RandomPool.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第三课/RandomPool.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/ReverseList.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第三课/ReverseList.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/SmallerEqualBigger.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第三课/SmallerEqualBigger.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/StackAndQueueConvert.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第三课/StackAndQueueConvert.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/TwoListCommons.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第三课/TwoListCommons.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/ZigZagPrintMatrix.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第三课/ZigZagPrintMatrix.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/BestArrange.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第四课/BestArrange.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/DescendantNode.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第四课/DescendantNode.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/FindOneLessValueIndex.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第四课/FindOneLessValueIndex.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/IOP.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第四课/IOP.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/Islands.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第四课/Islands.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/LessMoney.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第四课/LessMoney.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/MadianQuick.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第四课/MadianQuick.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/PageFolding.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第四课/PageFolding.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/UnionFind.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第四课/UnionFind.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/BFPRT/BFPRT.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/BFPRT/BFPRT.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/KMP/KMP.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/KMP/KMP.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/KMP/ShortestHaveTwice.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/KMP/ShortestHaveTwice.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/KMP/T1SubtreeEqualsT2.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/KMP/T1SubtreeEqualsT2.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/Manacher/Manacher.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/Manacher/Manacher.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/Manacher/ShortestEnd.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/Manacher/ShortestEnd.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/moris/MorisTraversal.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/moris/MorisTraversal.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/前缀树应用/Max_EOR好题.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/前缀树应用/Max_EOR好题.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/动态规划与递归/CardsInLine.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/动态规划与递归/CardsInLine.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/动态规划与递归/CoinsWay.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/动态规划与递归/CoinsWay.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/动态规划与递归/Problem5.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/动态规划与递归/Problem5.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/单调栈/MaxTree.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/单调栈/MaxTree.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/单调栈/MaximalRectange.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/单调栈/MaximalRectange.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/单调栈/MountainsAndFlame.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/单调栈/MountainsAndFlame.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/并查集/Islands.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/并查集/Islands.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/并查集/TarjanAndDisjoinSetsForLCA难.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/并查集/TarjanAndDisjoinSetsForLCA难.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/并查集/UnionFind.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/并查集/UnionFind.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/树相关/Building_Outline.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/树相关/Building_Outline.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/树相关/IsBSTAndCBT.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/树相关/IsBSTAndCBT.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/树相关/IsCBT.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/树相关/IsCBT.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/树相关/高度套路题树形dp/BiggestSubBSTInTree.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/树相关/高度套路题树形dp/BiggestSubBSTInTree.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/树相关/高度套路题树形dp/IsBalancedTree.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/树相关/高度套路题树形dp/IsBalancedTree.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/树相关/高度套路题树形dp/MaxDistanceInTree.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/树相关/高度套路题树形dp/MaxDistanceInTree.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/树相关/高度套路题树形dp/MaxHappy.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/树相关/高度套路题树形dp/MaxHappy.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/滑动窗口/AllLessNumSubArray.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/滑动窗口/AllLessNumSubArray.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/滑动窗口/SlidingWindowMaxArray.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/滑动窗口/SlidingWindowMaxArray.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/结构设计/ExpressionCompute.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/结构设计/ExpressionCompute.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/结构设计/LFU.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/结构设计/LFU.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/结构设计/LRU.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/结构设计/LRU.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/进阶八/JosephusProblem.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/进阶八/JosephusProblem.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/进阶八/LongestSubArraySolution.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/进阶八/LongestSubArraySolution.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/进阶八/LongestSubarrayLessSumSolution.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/进阶八/LongestSubarrayLessSumSolution.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/进阶八/RegularExpressionMatch.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/进阶八/RegularExpressionMatch.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班二/第一章/Palindrome_Number.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班二/第一章/Palindrome_Number.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班二/第一章/PrintUniquePair.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班二/第一章/PrintUniquePair.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班二/第一章/TwoSum.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班二/第一章/TwoSum.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/CardsInLine.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/CardsInLine.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/CopyList.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/CopyList.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/FindFirstIntersectNode.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/FindFirstIntersectNode.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/MaxSum.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/MaxSum.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/MountainsAndFlame.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/MountainsAndFlame.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/ParenthesesProblem.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/ParenthesesProblem.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/ReverseStackUsingRecursive.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/ReverseStackUsingRecursive.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/SmallSum.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/SmallSum.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/七_头条题/AllTimesMinToMax.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/七_头条题/AllTimesMinToMax.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/七_头条题/RightConner.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/七_头条题/RightConner.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/七_头条题/RussianDollEnvelopes.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/七_头条题/RussianDollEnvelopes.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/七_头条题/SDEandPM.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/七_头条题/SDEandPM.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/九TOP_K问题/SmallestUnFormedSum.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/九TOP_K问题/SmallestUnFormedSum.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/九TOP_K问题/TopKSumCrossTwoArrays.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/九TOP_K问题/TopKSumCrossTwoArrays.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/九TOP_K问题/TopKTime2.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/九TOP_K问题/TopKTime2.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/九TOP_K问题/TopkTime1.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/九TOP_K问题/TopkTime1.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/五/CardsInLine.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/五/CardsInLine.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/五/Problem1.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/五/Problem1.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/五/Problem2.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/五/Problem2.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/五/Problem3.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/五/Problem3.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/五/Problem4.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/五/Problem5.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/五/Problem5.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/八数组子序列问题/LongestIncrSubqueue.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/八数组子序列问题/LongestIncrSubqueue.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/六大量运用优先级队列/Problem1.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/六大量运用优先级队列/Problem1.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/六大量运用优先级队列/Problem2.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/六大量运用优先级队列/Problem2.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/六大量运用优先级队列/Problem3.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/六大量运用优先级队列/Problem3.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/六大量运用优先级队列/Problem4.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/六大量运用优先级队列/Problem4.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/六大量运用优先级队列/Problem5.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/六大量运用优先级队列/Problem5.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/六大量运用优先级队列/Problem6.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/六大量运用优先级队列/Problem6.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/六大量运用优先级队列/Problem7.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/六大量运用优先级队列/Problem7.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/动态规划与递归/CardsInLine.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/动态规划与递归/CardsInLine.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/动态规划与递归/Problem4.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/动态规划与递归/Problem4.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/动态规划与递归/Problem5.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/动态规划与递归/Problem5.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/动态规划与递归/Problem6.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/动态规划与递归/Problem6.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十一/Most_XOR.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十一/Most_XOR.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十一/UglyNumber.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十一/UglyNumber.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十京东/Parentheses.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十京东/Parentheses.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十京东/Problem1.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十京东/Problem1.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十京东/ShortestHaveTwice.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十京东/ShortestHaveTwice.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十京东/ShortestMakePalindrome.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十京东/ShortestMakePalindrome.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十京东/SplitNumberToTwoParts.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十京东/SplitNumberToTwoParts.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/数组问题/LongSubArray.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongSubArray.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/数组问题/LongSubarray3.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongSubarray3.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/数组问题/LongestSubarray2.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongestSubarray2.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/数组问题/LongestSubarraySolution.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongestSubarraySolution.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/数组问题/MaxABSBetweenLeftAndRight.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/MaxABSBetweenLeftAndRight.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/数组问题/Most_EOR_没看懂.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/Most_EOR_没看懂.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/数组问题/SubMatrixMaxSum.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/SubMatrixMaxSum.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/数组问题/TwoSubArrayMaxSum.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/TwoSubArrayMaxSum.java" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/数组问题/WaterProblem.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/Dijkstra/DijkstraAlgorithm.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/algorithm/Dijkstra/DijkstraAlgorithm.java" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/Kruskal/KruskalCase.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/algorithm/Kruskal/KruskalCase.java" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/binarysearchnorecursion/BinarySearchNoRecursion.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/algorithm/binarysearchnorecursion/BinarySearchNoRecursion.java" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/dac/hannuota.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/algorithm/dac/hannuota.java" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/dynamic/KnapsackProblem.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/algorithm/dynamic/KnapsackProblem.java" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/floyd/FloydAlgorithm.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/algorithm/floyd/FloydAlgorithm.java" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/greedy/GreedyAlgorithm.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/algorithm/greedy/GreedyAlgorithm.java" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/horse/HorseChessboard.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/algorithm/horse/HorseChessboard.java" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/kmp/KmpDemo.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/algorithm/kmp/KmpDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/prim/PrimAlgorithm.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/algorithm/prim/PrimAlgorithm.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/Graph/Graph.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/Graph/Graph.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/HashTabDemo.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/HashTabDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/list/DoubleLinkedListDemo.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/list/DoubleLinkedListDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/list/Josepfu.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/list/Josepfu.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/list/LinkedListStackDemo.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/list/LinkedListStackDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/list/SingleLinkedListDemo.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/list/SingleLinkedListDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/queue/CircleArrayQueueDemo.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/queue/CircleArrayQueueDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/recursion/MiGong.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/recursion/MiGong.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/recursion/Queen8.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/recursion/Queen8.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/search/BinarySearch.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/search/BinarySearch.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/search/FibonacciSearch.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/search/FibonacciSearch.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/search/InsertValueSearch.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/search/InsertValueSearch.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/sort/BubbleSort.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/sort/BubbleSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/sort/InsertSort.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/sort/InsertSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/sort/MergeSort.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/sort/MergeSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/sort/QuickSort.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/sort/QuickSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/sort/RadixSort.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/sort/RadixSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/sort/SelectSort.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/sort/SelectSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/sort/ShellSort.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/sort/ShellSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/stack/ArrayStackDemo.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/stack/ArrayStackDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/stack/Calculator.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/stack/Calculator.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/stack/ListStackDemo.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/stack/ListStackDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/stack/PolandNotation.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/stack/PolandNotation.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/tree/AVL/AVLDemo.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/tree/AVL/AVLDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/tree/ArrBinaryTreeDemo.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/tree/ArrBinaryTreeDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/tree/BST/BinarySortTreeDemo.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/tree/BST/BinarySortTreeDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/tree/HuffmanCode.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/tree/HuffmanCode.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/tree/ThreadedBinaryTreeDemo/ThreadedBinaryTreeDemo.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/tree/ThreadedBinaryTreeDemo/ThreadedBinaryTreeDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/tree/btree/BinaryTreeDemo.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/tree/btree/BinaryTreeDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/tree/heapTree/HeapSortDemo.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/tree/heapTree/HeapSortDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/tree/huffmantree/HuffmanTree.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/tree/huffmantree/HuffmanTree.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -914,7 +713,7 @@
       <workItem from="1581232230610" duration="8584000" />
       <workItem from="1581320381021" duration="8039000" />
       <workItem from="1581410615146" duration="5211000" />
-      <workItem from="1581471771465" duration="193000" />
+      <workItem from="1581471771465" duration="277000" />
     </task>
     <task id="LOCAL-00001" summary="2019.08.04">
       <created>1564907845490</created>
@@ -1119,11 +918,18 @@
       <option name="project" value="LOCAL" />
       <updated>1579782794184</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="2020.02.12">
+      <created>1581472040831</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1581472040831</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="611729000" />
+    <option name="totallyTimeSpent" value="611813000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1364" height="726" extended-state="0" />
@@ -1258,7 +1064,8 @@
     <MESSAGE value="2020.01.06" />
     <MESSAGE value="2020.01.17" />
     <MESSAGE value="2020.01。23" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.01。23" />
+    <MESSAGE value="2020.02.12" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.02.12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1542,6 +1349,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-260">
           <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1557,6 +1367,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-140">
           <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1564,6 +1375,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="721">
           <caret line="81" column="0" lean-forward="true" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1571,6 +1383,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="52" column="22" lean-forward="false" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
