@@ -1,54 +1,215 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongestSubarray2.java" line="55" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6405e62e-e06b-45d6-8ae7-c170189d547b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/动态规划与递归/CoinsWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班二/第一章/Palindrome_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班二/第一章/PrintUniquePair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班二/第一章/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十一/Most_XOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十一/UglyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十京东/Parentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十京东/Problem1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十京东/ShortestHaveTwice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十京东/ShortestMakePalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十京东/SplitNumberToTwoParts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/BFPRT/BFPRT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/BFPRT/BFPRT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/KMP/KMP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/KMP/KMP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/KMP/ShortestHaveTwice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/KMP/ShortestHaveTwice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/KMP/T1SubtreeEqualsT2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/KMP/T1SubtreeEqualsT2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/Manacher/Manacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/Manacher/Manacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/Manacher/ShortestEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/Manacher/ShortestEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/moris/MorisTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/moris/MorisTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/前缀树应用/Max_EOR好题.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/前缀树应用/Max_EOR好题.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/动态规划与递归/CardsInLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/动态规划与递归/CardsInLine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/动态规划与递归/CoinsWay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/动态规划与递归/Problem5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/动态规划与递归/Problem5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/单调栈/MaxTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/单调栈/MaxTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/单调栈/MaximalRectange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/单调栈/MaximalRectange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/单调栈/MountainsAndFlame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/单调栈/MountainsAndFlame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/并查集/Islands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/并查集/Islands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/并查集/TarjanAndDisjoinSetsForLCA难.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/并查集/TarjanAndDisjoinSetsForLCA难.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/并查集/UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/并查集/UnionFind.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/树相关/Building_Outline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/树相关/Building_Outline.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/树相关/IsBSTAndCBT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/树相关/IsBSTAndCBT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/树相关/IsCBT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/树相关/IsCBT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/树相关/高度套路题树形dp/BiggestSubBSTInTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/树相关/高度套路题树形dp/BiggestSubBSTInTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/树相关/高度套路题树形dp/IsBalancedTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/树相关/高度套路题树形dp/IsBalancedTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/树相关/高度套路题树形dp/MaxDistanceInTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/树相关/高度套路题树形dp/MaxDistanceInTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/树相关/高度套路题树形dp/MaxHappy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/树相关/高度套路题树形dp/MaxHappy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/滑动窗口/AllLessNumSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/滑动窗口/AllLessNumSubArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/滑动窗口/SlidingWindowMaxArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/滑动窗口/SlidingWindowMaxArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/结构设计/ExpressionCompute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/结构设计/ExpressionCompute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/结构设计/LFU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/结构设计/LFU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/结构设计/LRU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/结构设计/LRU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/进阶八/JosephusProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/进阶八/JosephusProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/进阶八/LongestSubArraySolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/进阶八/LongestSubArraySolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/进阶八/LongestSubarrayLessSumSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/进阶八/LongestSubarrayLessSumSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班/进阶八/RegularExpressionMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/进阶八/RegularExpressionMatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/数组问题/LongSubarray3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/数组问题/LongSubarray3.java" afterDir="false" />
+    <list default="true" id="6329ee68-ffa6-4618-9554-444eef268ab1" name="Default Changelist" comment="2020.01。23">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/进阶班二/第一章/Problem03_RelocateLinkedList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/动态规划与递归/MergeStones.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/FindKMajor.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/JosepheProblem.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/PointInRectangle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/PointInTriangle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/Problem07_CandyProblem.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/Problem08_ShuffleProblem.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/Problem09_FindUpMedian.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/Problem10_FindKthMin.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/Problem11MinWindowLength.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/RandomPool.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/ReceiveAndPrintOrderLine.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/手写HashMap/MyHashMap.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/MaxABSBetweenLeftAndRight/MaxABSBetweenLeftAndRight.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/MaxABSBetweenLeftAndRight/MaxABSBetweenLeftAndRight.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/PaperFolding/PaperFolding.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/PaperFolding/PaperFolding.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/Sort/BubbleSort.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/Sort/BubbleSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/Sort/BucketSort.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/Sort/BucketSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/Sort/HeapSort.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/Sort/HeapSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/Sort/InsertSort.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/Sort/InsertSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/Sort/MergeSort.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/Sort/MergeSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/Sort/QuickSort.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/Sort/QuickSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/Sort/SelectSort.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/Sort/SelectSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/Sort/maxGap.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/Sort/maxGap.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/findOneLessValueIndex/FindOneLessValueIndex.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/findOneLessValueIndex/FindOneLessValueIndex.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/moris/MorisTraversal.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/moris/MorisTraversal.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/动态规划与递归/CardsInLine.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/动态规划与递归/CardsInLine.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/动态规划与递归/Cow.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/动态规划与递归/Cow.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/动态规划与递归/Hanoi.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/动态规划与递归/Hanoi.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/动态规划与递归/MinPath.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/动态规划与递归/MinPath.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/动态规划与递归/MoneyProblem.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/动态规划与递归/MoneyProblem.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/动态规划与递归/PrintPermutation.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/动态规划与递归/PrintPermutation.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/动态规划与递归/PrintSub.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/动态规划与递归/PrintSub.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/BFS.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/图/BFS.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/DFS.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/图/DFS.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/Edge.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/图/Edge.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/Graph.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/图/Graph.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/GraphGenerator.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/图/GraphGenerator.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/Kruskal.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/图/Kruskal.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/Node.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/图/Node.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/Prim.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/图/Prim.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/TopologySort.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/图/TopologySort.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/图/TrieTree.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/图/TrieTree.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/并查集/Islands.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/并查集/Islands.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/并查集/TarjanAndDisjoinSetsForLCA.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/并查集/TarjanAndDisjoinSetsForLCA.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/并查集/UnionFind.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/并查集/UnionFind.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/树/CompleteTreeNodeNumber.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/树/CompleteTreeNodeNumber.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/树/IsBSTAndCBT.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/树/IsBSTAndCBT.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/树/IsBalancedTree.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/树/IsBalancedTree.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/树/PreInPostTree.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/树/PreInPostTree.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/树/SerializeAndReconstructTree.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/树/SerializeAndReconstructTree.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/Array_to_Stack_Queue.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第三课/Array_to_Stack_Queue.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/CatDogQueue.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第三课/CatDogQueue.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/CopyListWithRandom.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第三课/CopyListWithRandom.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/FindFirstIntersectNode.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第三课/FindFirstIntersectNode.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/FindNumberSortedArray.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第三课/FindNumberSortedArray.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/GetMinStack.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第三课/GetMinStack.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/IsPalindromeList.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第三课/IsPalindromeList.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/PrintMatrixSpiralOrder.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第三课/PrintMatrixSpiralOrder.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/RandomPool.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第三课/RandomPool.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/ReverseList.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第三课/ReverseList.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/SmallerEqualBigger.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第三课/SmallerEqualBigger.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/StackAndQueueConvert.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第三课/StackAndQueueConvert.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/TwoListCommons.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第三课/TwoListCommons.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第三课/ZigZagPrintMatrix.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第三课/ZigZagPrintMatrix.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/BestArrange.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第四课/BestArrange.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/DescendantNode.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第四课/DescendantNode.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/FindOneLessValueIndex.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第四课/FindOneLessValueIndex.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/IOP.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第四课/IOP.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/Islands.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第四课/Islands.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/LessMoney.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第四课/LessMoney.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/MadianQuick.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第四课/MadianQuick.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/PageFolding.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第四课/PageFolding.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/UnionFind.java" afterPath="$PROJECT_DIR$/src/左神算法/基础班/第四课/UnionFind.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/BFPRT/BFPRT.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/BFPRT/BFPRT.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/KMP/KMP.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/KMP/KMP.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/KMP/ShortestHaveTwice.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/KMP/ShortestHaveTwice.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/KMP/T1SubtreeEqualsT2.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/KMP/T1SubtreeEqualsT2.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/Manacher/Manacher.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/Manacher/Manacher.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/Manacher/ShortestEnd.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/Manacher/ShortestEnd.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/moris/MorisTraversal.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/moris/MorisTraversal.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/前缀树应用/Max_EOR好题.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/前缀树应用/Max_EOR好题.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/动态规划与递归/CardsInLine.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/动态规划与递归/CardsInLine.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/动态规划与递归/CoinsWay.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/动态规划与递归/CoinsWay.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/动态规划与递归/Problem5.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/动态规划与递归/Problem5.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/单调栈/MaxTree.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/单调栈/MaxTree.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/单调栈/MaximalRectange.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/单调栈/MaximalRectange.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/单调栈/MountainsAndFlame.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/单调栈/MountainsAndFlame.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/并查集/Islands.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/并查集/Islands.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/并查集/TarjanAndDisjoinSetsForLCA难.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/并查集/TarjanAndDisjoinSetsForLCA难.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/并查集/UnionFind.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/并查集/UnionFind.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/树相关/Building_Outline.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/树相关/Building_Outline.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/树相关/IsBSTAndCBT.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/树相关/IsBSTAndCBT.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/树相关/IsCBT.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/树相关/IsCBT.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/树相关/高度套路题树形dp/BiggestSubBSTInTree.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/树相关/高度套路题树形dp/BiggestSubBSTInTree.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/树相关/高度套路题树形dp/IsBalancedTree.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/树相关/高度套路题树形dp/IsBalancedTree.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/树相关/高度套路题树形dp/MaxDistanceInTree.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/树相关/高度套路题树形dp/MaxDistanceInTree.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/树相关/高度套路题树形dp/MaxHappy.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/树相关/高度套路题树形dp/MaxHappy.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/滑动窗口/AllLessNumSubArray.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/滑动窗口/AllLessNumSubArray.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/滑动窗口/SlidingWindowMaxArray.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/滑动窗口/SlidingWindowMaxArray.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/结构设计/ExpressionCompute.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/结构设计/ExpressionCompute.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/结构设计/LFU.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/结构设计/LFU.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/结构设计/LRU.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/结构设计/LRU.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/进阶八/JosephusProblem.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/进阶八/JosephusProblem.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/进阶八/LongestSubArraySolution.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/进阶八/LongestSubArraySolution.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/进阶八/LongestSubarrayLessSumSolution.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/进阶八/LongestSubarrayLessSumSolution.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班一/进阶八/RegularExpressionMatch.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/进阶八/RegularExpressionMatch.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班二/第一章/Palindrome_Number.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班二/第一章/Palindrome_Number.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班二/第一章/PrintUniquePair.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班二/第一章/PrintUniquePair.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/进阶班二/第一章/TwoSum.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班二/第一章/TwoSum.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/CardsInLine.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/CardsInLine.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/CopyList.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/CopyList.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/FindFirstIntersectNode.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/FindFirstIntersectNode.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/MaxSum.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/MaxSum.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/MountainsAndFlame.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/MountainsAndFlame.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/ParenthesesProblem.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/ParenthesesProblem.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/ReverseStackUsingRecursive.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/ReverseStackUsingRecursive.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/SmallSum.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/SmallSum.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/七_头条题/AllTimesMinToMax.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/七_头条题/AllTimesMinToMax.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/七_头条题/RightConner.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/七_头条题/RightConner.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/七_头条题/RussianDollEnvelopes.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/七_头条题/RussianDollEnvelopes.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/七_头条题/SDEandPM.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/七_头条题/SDEandPM.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/九TOP_K问题/SmallestUnFormedSum.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/九TOP_K问题/SmallestUnFormedSum.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/九TOP_K问题/TopKSumCrossTwoArrays.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/九TOP_K问题/TopKSumCrossTwoArrays.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/九TOP_K问题/TopKTime2.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/九TOP_K问题/TopKTime2.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/九TOP_K问题/TopkTime1.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/九TOP_K问题/TopkTime1.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/五/CardsInLine.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/五/CardsInLine.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/五/Problem1.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/五/Problem1.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/五/Problem2.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/五/Problem2.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/五/Problem3.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/五/Problem3.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/五/Problem4.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/五/Problem5.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/五/Problem5.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/八数组子序列问题/LongestIncrSubqueue.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/八数组子序列问题/LongestIncrSubqueue.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/六大量运用优先级队列/Problem1.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/六大量运用优先级队列/Problem1.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/六大量运用优先级队列/Problem2.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/六大量运用优先级队列/Problem2.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/六大量运用优先级队列/Problem3.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/六大量运用优先级队列/Problem3.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/六大量运用优先级队列/Problem4.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/六大量运用优先级队列/Problem4.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/六大量运用优先级队列/Problem5.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/六大量运用优先级队列/Problem5.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/六大量运用优先级队列/Problem6.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/六大量运用优先级队列/Problem6.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/六大量运用优先级队列/Problem7.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/六大量运用优先级队列/Problem7.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/动态规划与递归/CardsInLine.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/动态规划与递归/CardsInLine.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/动态规划与递归/Problem4.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/动态规划与递归/Problem4.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/动态规划与递归/Problem5.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/动态规划与递归/Problem5.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/动态规划与递归/Problem6.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/动态规划与递归/Problem6.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十一/Most_XOR.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十一/Most_XOR.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十一/UglyNumber.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十一/UglyNumber.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十京东/Parentheses.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十京东/Parentheses.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十京东/Problem1.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十京东/Problem1.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十京东/ShortestHaveTwice.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十京东/ShortestHaveTwice.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十京东/ShortestMakePalindrome.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十京东/ShortestMakePalindrome.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十京东/SplitNumberToTwoParts.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/十京东/SplitNumberToTwoParts.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/数组问题/LongSubArray.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongSubArray.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/数组问题/LongSubarray3.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongSubarray3.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/数组问题/LongestSubarray2.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongestSubarray2.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/数组问题/LongestSubarraySolution.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongestSubarraySolution.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/数组问题/MaxABSBetweenLeftAndRight.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/MaxABSBetweenLeftAndRight.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/数组问题/Most_EOR_没看懂.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/Most_EOR_没看懂.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/数组问题/SubMatrixMaxSum.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/SubMatrixMaxSum.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/数组问题/TwoSubArrayMaxSum.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/TwoSubArrayMaxSum.java" />
+      <change beforePath="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/数组问题/WaterProblem.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/Dijkstra/DijkstraAlgorithm.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/algorithm/Dijkstra/DijkstraAlgorithm.java" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/Kruskal/KruskalCase.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/algorithm/Kruskal/KruskalCase.java" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/binarysearchnorecursion/BinarySearchNoRecursion.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/algorithm/binarysearchnorecursion/BinarySearchNoRecursion.java" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/dac/hannuota.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/algorithm/dac/hannuota.java" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/dynamic/KnapsackProblem.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/algorithm/dynamic/KnapsackProblem.java" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/floyd/FloydAlgorithm.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/algorithm/floyd/FloydAlgorithm.java" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/greedy/GreedyAlgorithm.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/algorithm/greedy/GreedyAlgorithm.java" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/horse/HorseChessboard.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/algorithm/horse/HorseChessboard.java" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/kmp/KmpDemo.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/algorithm/kmp/KmpDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/prim/PrimAlgorithm.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/algorithm/prim/PrimAlgorithm.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/Graph/Graph.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/Graph/Graph.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/HashTabDemo.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/HashTabDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/list/DoubleLinkedListDemo.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/list/DoubleLinkedListDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/list/Josepfu.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/list/Josepfu.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/list/LinkedListStackDemo.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/list/LinkedListStackDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/list/SingleLinkedListDemo.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/list/SingleLinkedListDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/queue/CircleArrayQueueDemo.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/queue/CircleArrayQueueDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/recursion/MiGong.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/recursion/MiGong.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/recursion/Queen8.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/recursion/Queen8.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/search/BinarySearch.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/search/BinarySearch.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/search/FibonacciSearch.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/search/FibonacciSearch.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/search/InsertValueSearch.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/search/InsertValueSearch.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/sort/BubbleSort.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/sort/BubbleSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/sort/InsertSort.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/sort/InsertSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/sort/MergeSort.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/sort/MergeSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/sort/QuickSort.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/sort/QuickSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/sort/RadixSort.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/sort/RadixSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/sort/SelectSort.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/sort/SelectSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/sort/ShellSort.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/sort/ShellSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/stack/ArrayStackDemo.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/stack/ArrayStackDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/stack/Calculator.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/stack/Calculator.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/stack/ListStackDemo.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/stack/ListStackDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/stack/PolandNotation.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/stack/PolandNotation.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/tree/AVL/AVLDemo.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/tree/AVL/AVLDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/tree/ArrBinaryTreeDemo.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/tree/ArrBinaryTreeDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/tree/BST/BinarySortTreeDemo.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/tree/BST/BinarySortTreeDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/tree/HuffmanCode.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/tree/HuffmanCode.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/tree/ThreadedBinaryTreeDemo/ThreadedBinaryTreeDemo.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/tree/ThreadedBinaryTreeDemo/ThreadedBinaryTreeDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/tree/btree/BinaryTreeDemo.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/tree/btree/BinaryTreeDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/tree/heapTree/HeapSortDemo.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/tree/heapTree/HeapSortDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/tree/huffmantree/HuffmanTree.java" afterPath="$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/tree/huffmantree/HuffmanTree.java" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +220,78 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="PointInTriangle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/PointInTriangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+              <folding>
+                <element signature="e#1823#1824#0" expanded="true" />
+                <element signature="e#1857#1858#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JosepheProblem.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/JosepheProblem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="640">
+              <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+              <folding>
+                <element signature="e#258#259#0" expanded="true" />
+                <element signature="e#299#300#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindKMajor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/FindKMajor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1720">
+              <caret line="89" column="43" lean-forward="false" selection-start-line="89" selection-start-column="43" selection-end-line="89" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem07_CandyProblem.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/Problem07_CandyProblem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="37" lean-forward="false" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem08_ShuffleProblem.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/Problem08_ShuffleProblem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyHashMap.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/手写HashMap/MyHashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -79,12 +312,86 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/进阶班/树相关/IsCBT.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/进阶班/moris/MorisTraversal.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/基础班/moris/MorisTraversal.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/进阶班/结构设计/ExpressionCompute.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/动态规划与递归/Problem4.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/动态规划与递归/CardsInLine.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/动态规划与递归/Problem5.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/六大量运用优先级队列/Problem6.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/动态规划与递归/Problem6.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/IOP.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/六大量运用优先级队列/Problem7.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/基础班/第四课/DescendantNode.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/七_头条题/RightConner.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/七_头条题/AllTimesMinToMax.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/七_头条题/SDEandPM.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/进阶班/前缀树应用/Max_EOR.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/进阶班/前缀树应用/Max_EOR好题.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/数组子序列问题/LongestIncrSubqueue.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/七_头条题/RussianDollEnvelopes.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/八数组子序列问题/LongestIncrSubqueue.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/九TOP_K问题/TopkTime1.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/九TOP_K问题/TopKTime2.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/进阶班/动态规划与递归/CoinsWay.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/进阶班/动态规划与递归/Problem5.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/进阶班/动态规划与递归/CardsInLine.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/九TOP_K问题/TopKSumCrossTwoArrays.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/九TOP_K问题/SmallestUnFormedSum.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/进阶班/数组相关/LongestSubArraySolution.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/进阶班/数组相关/LongestSubarrayLessSumSolution.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/进阶班/进阶八/LongestSubarrayLessSumSolution.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/进阶班/进阶八/JosephusProblem.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/进阶班/进阶八/RegularExpressionMatch.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十二十三/PointInRectangle.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十二十三/PointInTriangle.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十二十三/JosepheProblem.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十二十三/FindKMajor.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十二十三/RandomPool.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十二十三/ReceiveAndPrintOrderLine.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十二十三/CandyProblem.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十二十三/Solution.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/数组问题/Solution.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/数组问题/MergeStones.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/动态规划与递归/MergeStones.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十二十三/Problem07_CandyProblem.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十二十三/Problem09_FindUpMedian.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十二十三/Problem08_ShuffleProblem.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十二十三/Problem10_FindKthMin.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十二十三/Problem11MinWindowLength.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/进阶班二/第一章/TwoSum.java" />
+        <option value="$PROJECT_DIR$/src/ZUOSHEN/进阶班二/第一章/Problem03_RelocateLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/Problem08_ShuffleProblem.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="mavenHome" value="E:/apache-maven-3.5.3" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1364" />
+    <option name="height" value="726" />
   </component>
   <component name="ProjectId" id="1QzYCGezi90M02XnOTM56XT7sP2" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -112,17 +419,52 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="手写HashMap" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="Laun&#9;PSI&#9;JAVA://sun.misc.Launcher&#10;ClassLoader&#9;PSI&#9;JAVA://java.lang.ClassLoader&#10;Unsafe&#9;PSI&#9;JAVA://sun.misc.Unsafe&#10;LockSup&#9;PSI&#9;JAVA://java.util.concurrent.locks.LockSupport&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;String&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/AbstractStringBuilder.java&#10;HashM&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/HashMap.java&#10;StringBuil&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;sou&#9;ACTION&#9;Spy-js.JumpToSource&#10;Map&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Map.java&#10;TreeM&#9;PSI&#9;JAVA://java.util.TreeMap&#10;TreeMap&#9;PSI&#9;JAVA://java.util.TreeMap&#10;Link&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/LinkedList.java&#10;Properties&#9;PSI&#9;JAVA://java.util.Properties&#10;Hash&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/HashMap.java&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;StringBuilder&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/StringBuilder.java&#10;LinkedList&#9;PSI&#9;JAVA://java.util.LinkedList&#10;PriorityQ&#9;PSI&#9;JAVA://java.util.PriorityQueue&#10;Arrays&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Arrays.java&#10;HashMap&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/HashMap.java&#10;Str&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/String.java&#10;StringBui&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;StringB&#9;PSI&#9;JAVA://javafx.beans.binding.StringBinding&#10;Ob&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/Object.java&#10;HashSet&#9;PSI&#9;JAVA://java.util.HashSet&#10;Comparator&#9;PSI&#9;JAVA://java.util.Comparator&#10;Collections&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Collections.java&#10;LinkedBlockingQ&#9;PSI&#9;JAVA://java.util.concurrent.LinkedBlockingQueue&#10;CyclicB&#9;PSI&#9;JAVA://java.util.concurrent.CyclicBarrier&#10;FutureTask&#9;PSI&#9;JAVA://java.util.concurrent.FutureTask&#10;CallAble&#9;PSI&#9;JAVA://java.util.concurrent.Callable&#10;Sc&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Scanner.java&#10;Queue&#9;PSI&#9;JAVA://java.util.Queue&#10;Deq&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Deque.java&#10;Scanner&#9;PSI&#9;JAVA://java.util.Scanner&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;State&#9;PSI&#9;JAVA://java.lang.Thread.State&#10;Reentrant&#9;FILE&#9;file://E:/Idea_work/exercise2/src/JUC/ReadWriteDemo/ReentrantReadWriteDemo.java&#10;AtomicIn&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger&#10;Stack&#9;PSI&#9;JAVA://java.util.Stack&#10;StringBu&#9;PSI&#9;JAVA://java.lang.StringBuffer&#10;CopyOnW&#9;PSI&#9;JAVA://java.util.concurrent.CopyOnWriteArrayList&#10;Array&#9;PSI&#9;JAVA://java.sql.Array&#10;hashSet&#9;PSI&#9;JAVA://java.util.HashSet&#10;Atomic&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicBoolean&#10;Proxy&#9;PSI&#9;JAVA://java.lang.reflect.Proxy" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -132,6 +474,7 @@
     <property name="project.structure.proportion" value="0.15323994" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="SearchEverywhereHistoryKey" value="Map&#9;PSI&#9;JAVA://java.util.Map&#10;indexFor&#9;PSI&#9;JAVA://java.util.WeakHashMap#indexFor&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;ArrayList&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/ArrayList.java&#10;Laun&#9;PSI&#9;JAVA://sun.misc.Launcher&#10;ClassLoader&#9;PSI&#9;JAVA://java.lang.ClassLoader&#10;Unsafe&#9;PSI&#9;JAVA://sun.misc.Unsafe&#10;LockSup&#9;PSI&#9;JAVA://java.util.concurrent.locks.LockSupport&#10;String&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/AbstractStringBuilder.java&#10;HashM&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/HashMap.java&#10;StringBuil&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;sou&#9;ACTION&#9;Spy-js.JumpToSource&#10;TreeM&#9;PSI&#9;JAVA://java.util.TreeMap&#10;TreeMap&#9;PSI&#9;JAVA://java.util.TreeMap&#10;Link&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/LinkedList.java&#10;Properties&#9;PSI&#9;JAVA://java.util.Properties&#10;Hash&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/HashMap.java&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;StringBuilder&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/StringBuilder.java&#10;LinkedList&#9;PSI&#9;JAVA://java.util.LinkedList&#10;PriorityQ&#9;PSI&#9;JAVA://java.util.PriorityQueue&#10;Arrays&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Arrays.java&#10;Str&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/String.java&#10;StringBui&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;StringB&#9;PSI&#9;JAVA://javafx.beans.binding.StringBinding&#10;Ob&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/Object.java&#10;HashSet&#9;PSI&#9;JAVA://java.util.HashSet&#10;Comparator&#9;PSI&#9;JAVA://java.util.Comparator&#10;Collections&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Collections.java&#10;LinkedBlockingQ&#9;PSI&#9;JAVA://java.util.concurrent.LinkedBlockingQueue&#10;CyclicB&#9;PSI&#9;JAVA://java.util.concurrent.CyclicBarrier&#10;FutureTask&#9;PSI&#9;JAVA://java.util.concurrent.FutureTask&#10;CallAble&#9;PSI&#9;JAVA://java.util.concurrent.Callable&#10;Sc&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Scanner.java&#10;Queue&#9;PSI&#9;JAVA://java.util.Queue&#10;Deq&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Deque.java&#10;Scanner&#9;PSI&#9;JAVA://java.util.Scanner&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;State&#9;PSI&#9;JAVA://java.lang.Thread.State&#10;Reentrant&#9;FILE&#9;file://E:/Idea_work/exercise2/src/JUC/ReadWriteDemo/ReentrantReadWriteDemo.java&#10;AtomicIn&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger&#10;Stack&#9;PSI&#9;JAVA://java.util.Stack&#10;StringBu&#9;PSI&#9;JAVA://java.lang.StringBuffer&#10;CopyOnW&#9;PSI&#9;JAVA://java.util.concurrent.CopyOnWriteArrayList&#10;Array&#9;PSI&#9;JAVA://java.sql.Array&#10;hashSet&#9;PSI&#9;JAVA://java.util.HashSet&#10;Atomic&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicBoolean&#10;Proxy&#9;PSI&#9;JAVA://java.lang.reflect.Proxy" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -152,115 +495,155 @@
       <recent name="E:\Idea_work\exercise2\src\org\sd\mediator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UglyNumber">
-    <configuration name="Most_XOR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ZUOSHEN.高频面试题.十一.Most_XOR" />
-      <module name="exercise2" />
-      <extension name="coverage">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Problem03_RelocateLinkedList">
+    <configuration name="MergeStones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ZUOSHEN.高频面试题.十一.*" />
+          <option name="PATTERN" value="左神算法.高频面试题.动态规划与递归.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <option name="MAIN_CLASS_NAME" value="左神算法.高频面试题.动态规划与递归.MergeStones" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="exercise2" />
+      <envs />
     </configuration>
-    <configuration name="PrintUniquePair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ZUOSHEN.进阶班二.第一章.PrintUniquePair" />
-      <module name="exercise2" />
-      <extension name="coverage">
+    <configuration name="Problem03_RelocateLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ZUOSHEN.进阶班二.第一章.*" />
+          <option name="PATTERN" value="左神算法.进阶班二.第一章.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <option name="MAIN_CLASS_NAME" value="左神算法.进阶班二.第一章.Problem03_RelocateLinkedList" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="exercise2" />
+      <envs />
     </configuration>
-    <configuration name="ShortestEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ZUOSHEN.进阶班一.Manacher.ShortestEnd" />
-      <module name="exercise2" />
-      <extension name="coverage">
+    <configuration name="Problem08_ShuffleProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ZUOSHEN.进阶班一.Manacher.*" />
+          <option name="PATTERN" value="左神算法.高频面试题.十二十三.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <option name="MAIN_CLASS_NAME" value="左神算法.高频面试题.十二十三.Problem08_ShuffleProblem" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="exercise2" />
+      <envs />
     </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ZUOSHEN.进阶班二.第一章.TwoSum" />
-      <module name="exercise2" />
-      <extension name="coverage">
+    <configuration name="Problem09_FindUpMedian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ZUOSHEN.进阶班二.第一章.*" />
+          <option name="PATTERN" value="左神算法.高频面试题.十二十三.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <option name="MAIN_CLASS_NAME" value="左神算法.高频面试题.十二十三.Problem09_FindUpMedian" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="exercise2" />
+      <envs />
     </configuration>
-    <configuration name="UglyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ZUOSHEN.高频面试题.十一.UglyNumber" />
-      <module name="exercise2" />
-      <extension name="coverage">
+    <configuration name="Problem11MinWindowLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ZUOSHEN.高频面试题.十一.*" />
+          <option name="PATTERN" value="左神算法.高频面试题.十二十三.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <option name="MAIN_CLASS_NAME" value="左神算法.高频面试题.十二十三.Problem11MinWindowLength" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="exercise2" />
+      <envs />
     </configuration>
     <configuration name="Unnamed" type="Application" factoryName="Application">
-      <module name="exercise2" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" value="-Dcar.type=energy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="exercise2" />
+      <envs />
     </configuration>
-    <list>
-      <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.ShortestEnd" />
-      <item itemvalue="Application.TwoSum" />
-      <item itemvalue="Application.PrintUniquePair" />
-      <item itemvalue="Application.Most_XOR" />
-      <item itemvalue="Application.UglyNumber" />
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Application.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MergeStones" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Problem09_FindUpMedian" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Problem08_ShuffleProblem" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Problem11MinWindowLength" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Problem03_RelocateLinkedList" />
     </list>
     <recent_temporary>
-      <list>
-        <item itemvalue="Application.UglyNumber" />
-        <item itemvalue="Application.Most_XOR" />
-        <item itemvalue="Application.PrintUniquePair" />
-        <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.ShortestEnd" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Problem03_RelocateLinkedList" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Problem11MinWindowLength" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Problem08_ShuffleProblem" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Problem09_FindUpMedian" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MergeStones" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6405e62e-e06b-45d6-8ae7-c170189d547b" name="Default Changelist" comment="" />
+      <changelist id="6329ee68-ffa6-4618-9554-444eef268ab1" name="Default Changelist" comment="" />
       <created>1560304125217</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -525,13 +908,13 @@
       <workItem from="1580098283198" duration="2518000" />
       <workItem from="1580201483025" duration="7206000" />
       <workItem from="1580369300961" duration="1871000" />
-      <workItem from="1580437851180" duration="18000" />
-      <workItem from="1580439061289" duration="4000" />
-      <workItem from="1580462733229" duration="3748000" />
-      <workItem from="1580542431147" duration="4641000" />
-      <workItem from="1580628039666" duration="11999000" />
-      <workItem from="1580714406867" duration="5257000" />
-      <workItem from="1580800516856" duration="152000" />
+      <workItem from="1580890820595" duration="3723000" />
+      <workItem from="1580981222466" duration="3012000" />
+      <workItem from="1581065764121" duration="15747000" />
+      <workItem from="1581232230610" duration="8584000" />
+      <workItem from="1581320381021" duration="8039000" />
+      <workItem from="1581410615146" duration="5211000" />
+      <workItem from="1581471771465" duration="193000" />
     </task>
     <task id="LOCAL-00001" summary="2019.08.04">
       <created>1564907845490</created>
@@ -739,6 +1122,87 @@
     <option name="localTasksCounter" value="30" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="611729000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="1" width="1364" height="726" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20565833" sideWeight="0.5165245" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Word Book" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24448217" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09168082" sideWeight="0.48347548" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5255354" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27223927" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.49579242" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24810892" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Byte Code Viewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3261944" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="jclasslib" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.64826024" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20565833" sideWeight="0.5165245" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Word Book" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24840085" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27856365" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3264418" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.034820456" sideWeight="0.48347548" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.52584934" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.195629" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.49579242" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -758,12 +1222,21 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2019.08.04" />
@@ -787,56 +1260,360 @@
     <MESSAGE value="2020.01。23" />
     <option name="LAST_COMMIT_MESSAGE" value="2020.01。23" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="1829" y="119" key="FileChooserDialogImpl" timestamp="1580437876951">
-      <screen x="1366" y="0" width="1366" height="728" />
-    </state>
-    <state x="1829" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1580437876951" />
-    <state width="1323" height="26" key="GridCell.Tab.0.bottom" timestamp="1580731666193">
-      <screen x="1366" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="26" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1580731666193" />
-    <state width="1323" height="26" key="GridCell.Tab.0.center" timestamp="1580731666192">
-      <screen x="1366" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="26" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1580731666192" />
-    <state width="1323" height="26" key="GridCell.Tab.0.left" timestamp="1580731666192">
-      <screen x="1366" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="26" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1580731666192" />
-    <state width="1323" height="26" key="GridCell.Tab.0.right" timestamp="1580731666192">
-      <screen x="1366" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="26" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1580731666192" />
-    <state x="1770" y="105" width="582" height="524" key="StructurePopup" timestamp="1580647405037">
-      <screen x="1366" y="0" width="1366" height="728" />
-    </state>
-    <state x="1770" y="105" width="582" height="524" key="StructurePopup/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1580647405037" />
-    <state x="1712" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580721796971">
-      <screen x="1366" y="0" width="1366" height="728" />
-    </state>
-    <state x="1712" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1580721796971" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/org/sd/mediator/President.java</url>
           <line>16</line>
+          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Gof/proxy/dynamicProxy/Client.java</url>
           <line>6</line>
+          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十京东/ShortestHaveTwice.java</url>
-          <line>45</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
       </breakpoints>
+      <option name="time" value="46" />
     </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>Math.max</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/进阶班/前缀树应用/Max_EOR好题.java" />
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/动态规划与递归/Problem6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/进阶班/动态规划与递归/CardsInLine.java" />
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/动态规划与递归/Problem4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/进阶班/动态规划与递归/Problem5.java" />
+    <entry file="file://$PROJECT_DIR$/src/左神算法/基础班/Sort/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/九TOP_K问题/TopKSumCrossTwoArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1900">
+          <caret line="137" column="19" lean-forward="true" selection-start-line="137" selection-start-column="19" selection-end-line="137" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongestSubarraySolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/进阶班/进阶八/LongestSubArraySolution.java" />
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/进阶班/动态规划与递归/CoinsWay.java" />
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/九TOP_K问题/SmallestUnFormedSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-420">
+          <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1340">
+          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/jre/lib/rt.jar!/sun/misc/Launcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="214" column="84" lean-forward="false" selection-start-line="214" selection-start-column="84" selection-end-line="214" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/韩顺平算法与数据结构/datastructure/list/Josepfu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2060">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/进阶班/进阶八/LongestSubarrayLessSumSolution.java" />
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/进阶班/进阶八/JosephusProblem.java" />
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/进阶班/进阶八/RegularExpressionMatch.java" />
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/十一/UglyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/八数组子序列问题/LongestIncrSubqueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="10" lean-forward="false" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/十京东/ShortestMakePalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/动态规划与递归/Problem5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/FindFirstIntersectNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/动态规划与递归/CardsInLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/十京东/SplitNumberToTwoParts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/十一/Most_XOR.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/PointInRectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/RandomPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="43" column="48" lean-forward="true" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/FindKMajor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1720">
+          <caret line="89" column="43" lean-forward="false" selection-start-line="89" selection-start-column="43" selection-end-line="89" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/ReceiveAndPrintOrderLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="65" column="14" lean-forward="true" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZUOSHEN/高频面试题/十二十三/Solution.java" />
+    <entry file="jar://E:/jdk1.8/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="500" column="49" lean-forward="true" selection-start-line="500" selection-start-column="49" selection-end-line="500" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/util/WeakHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="50" column="2" lean-forward="false" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="101" column="16" lean-forward="true" selection-start-line="101" selection-start-column="16" selection-end-line="101" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="752" column="7" lean-forward="true" selection-start-line="752" selection-start-column="7" selection-end-line="752" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/Problem07_CandyProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="37" lean-forward="false" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/JosepheProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding>
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/PointInTriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding>
+            <element signature="e#1823#1824#0" expanded="true" />
+            <element signature="e#1857#1858#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/Problem09_FindUpMedian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="39" column="26" lean-forward="false" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="424" column="28" lean-forward="false" selection-start-line="424" selection-start-column="28" selection-end-line="424" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/Problem11MinWindowLength.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="53" column="17" lean-forward="false" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/进阶班二/第一章/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-260">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/Problem10_FindKthMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="30" column="15" lean-forward="false" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/进阶班二/第一章/PrintUniquePair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/进阶班二/第一章/Problem03_RelocateLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="721">
+          <caret line="81" column="0" lean-forward="true" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/动态规划与递归/MergeStones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="52" column="22" lean-forward="false" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/韩顺平算法与数据结构/algorithm/binarysearchnorecursion/BinarySearchNoRecursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JUC/Demo5/ArrayListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/基础班/findOneLessValueIndex/FindOneLessValueIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/十二十三/Problem08_ShuffleProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/手写HashMap/MyHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
