@@ -22,5 +22,6 @@
     <orderEntry type="library" name="core-3.1.0" level="project" />
     <orderEntry type="library" name="javax.mail" level="project" />
     <orderEntry type="library" name="asm-commons" level="project" />
+    <orderEntry type="library" name="guava-25.1-jre" level="project" />
   </component>
 </module>
