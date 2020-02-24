@@ -4,15 +4,8 @@
     <bookmark url="file://$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongestSubarray2.java" line="55" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6329ee68-ffa6-4618-9554-444eef268ab1" name="Default Changelist" comment="2020.02.23">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/进阶班二/第五章/Code_01_Valid_Expression.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/进阶班二/第五章/Code_02_Max_Damage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/进阶班二/第五章/Code_03_Min_Gold.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/进阶班二/第五章/Code_04_Decompress_String.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/进阶班二/第五章/Code_05_ExpressionNumber.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/进阶班二/第五章/Code_06_Perfect_Rectangle.java" />
+    <list default="true" id="6329ee68-ffa6-4618-9554-444eef268ab1" name="Default Changelist" comment="2020.02.24">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/左神算法/进阶班二/第四章/Code_05_MaxOneBorderSize.java" afterPath="$PROJECT_DIR$/src/左神算法/进阶班二/第四章/Code_05_MaxOneBorderSize.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -724,7 +717,7 @@
       <workItem from="1582273360832" duration="8941000" />
       <workItem from="1582358419441" duration="6143000" />
       <workItem from="1582440775204" duration="3058000" />
-      <workItem from="1582531323558" duration="3396000" />
+      <workItem from="1582531323558" duration="3418000" />
     </task>
     <task id="LOCAL-00001" summary="2019.08.04">
       <created>1564907845490</created>
@@ -950,15 +943,21 @@
       <option name="project" value="LOCAL" />
       <updated>1582443832396</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="2020.02.24">
+      <created>1582534922244</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1582534922244</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="705596000" />
+    <option name="totallyTimeSpent" value="705618000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -978,8 +977,8 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.03294893" sideWeight="0.48347548" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.03294893" sideWeight="0.48347548" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5255354" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18835099" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1061,7 +1060,14 @@
               <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
                 <collection />
               </option>
-              <option name="COLUMN_ORDER" />
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
             </State>
           </value>
         </entry>
@@ -1093,7 +1099,8 @@
     <MESSAGE value="2020.01。23" />
     <MESSAGE value="2020.02.12" />
     <MESSAGE value="2020.02.23" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.02.23" />
+    <MESSAGE value="2020.02.24" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.02.24" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
