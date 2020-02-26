@@ -19,4 +19,60 @@ package 左神算法.进阶班二.第五章;
  * @date 2020/2/24 16:03
  */
 public class Code_02_Max_Damage {
+
+    //递归的方式
+    public static int getMax(int[] arr,int sum){
+        return process(arr,0,sum);
+    }
+
+    //arr中都是正数，表示可以选取数组中index位置及其之后的元素
+    public static int process(int[] arr,int index,int sum){
+
+        if(sum<0)
+            return -1;
+        if(index==arr.length){
+            return sum==0 ? 1:-1;
+        }
+
+        int nonInclu=process(arr,index+1,sum);//不选取当前位置的值
+        int inclu=arr[index]*process(arr,index+1,sum-arr[index]);//选取当前位置的值
+        return Math.max(inclu,nonInclu);
+    }
+
+
+    //动态规划的方式
+    public static int maxDamage(int[] arr,int sum){
+        if(arr==null || arr.length==0)
+            return 0;
+        int[][] dp=new int[arr.length+1][sum+1];
+        dp[arr.length][0]=1;
+        for(int i=1;i<=sum;i++){
+            dp[arr.length][i]=-1;
+        }
+        for(int i=arr.length-1;i>=0;i--){
+            for(int j=0;j<=sum;j++){
+                int noInclu=dp[i+1][j];
+                int only=j-arr[i]==0 ?arr[i]:0;
+                int inclu=j-arr[i]>0 ? arr[i]*dp[i+1][j-arr[i]]:0;
+                dp[i][j]=Math.max(only,Math.max(noInclu,inclu));
+            }
+        }
+        return dp[0][sum];
+    }
+
+    public static void printMatrix(int[][] dp) {
+        for (int i = 0; i < dp.length; i++) {
+            for (int j = 0; j < dp[0].length; j++) {
+                System.out.print(dp[i][j] + " ");
+            }
+            System.out.println();
+        }
+    }
+
+    public static void main(String[] args) {
+        int[] arr = { 1, 2, 3, 4, 5 };
+        int threshold = 11;
+        System.out.println(maxDamage(arr, threshold));
+        System.out.println(getMax(arr,threshold));
+    }
 }
