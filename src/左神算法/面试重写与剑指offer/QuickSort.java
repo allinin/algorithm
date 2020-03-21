@@ -1,4 +1,4 @@
-package 左神算法.面试重写;
+package 左神算法.面试重写与剑指offer;
 
 import java.util.Arrays;
 
@@ -6,41 +6,49 @@ import java.util.Arrays;
  * @author zbl
  * @version 1.0
  * @content:
- * 再次实现归并排序
- * @date 2020/3/19 20:44
+ * 重写quickSort,重点都是partation的过程
+ * @date 2020/3/19 20:55
  */
-public class MergeSort {
+public class QuickSort {
 
-    public static void mergeSort(int[] arr){
+    public static void quickSort(int[] arr){
         if(arr==null || arr.length<2)
             return;
-        mergeSort(arr,0,arr.length-1);
+        quickSort(arr,0,arr.length-1);
     }
-    private static void mergeSort(int[] arr,int start,int end){
-        if(start==end)
-            return;
-        int mid=start+((end-start)>>1); //注意这里运算符的优先级
-        mergeSort(arr,start,mid);
-        mergeSort(arr,mid+1,end);
-        merge(arr,start,end,mid);
+
+    private static void quickSort(int[] arr, int start, int end) {
+        if(start<end){
+            swap(arr,start+(int)(Math.random()*(end-start+1)),end);//随机快速排序
+
+            int[] res=partation(arr,start,end);
+            quickSort(arr,start,res[0]-1);
+            quickSort(arr,res[1]+1,end);
+        }
     }
-    private static void merge(int[]arr,int start,int end,int mid){
-        int[]help=new int[end-start+1];
-        int p1=start;
-        int p2=mid+1;
-        int index=0;
-        while(p1<=mid && p2<=end){
-            help[index++]=arr[p1]<=arr[p2] ? arr[p1++]:arr[p2++];
+    private static int[] partation(int[] arr,int start,int end){
+
+        int left=start-1;
+        int right=end;
+        int i=start;
+        while(i<right){
+            if(arr[i]<arr[end]){
+                swap(arr,i++,++left);
+            }else if(arr[i]>arr[end]){
+
+                swap(arr,i,--right);
+            }else{
+                i++;
+            }
         }
-        while(p1<=mid){
-            help[index++]=arr[p1++];
-        }
-        while(p2<=end){
-            help[index++]=arr[p2++];
-        }
-        for(int i=0;i<help.length;i++){
-            arr[start+i]=help[i];
-        }
+        swap(arr,end,right);
+        return new int[]{left+1,right};//返回第一个相等元素的位置以及最后一个相等元素的位置
+    }
+
+    public static void swap(int[] arr,int i,int l){
+        int temp=arr[i];
+        arr[i]=arr[l];
+        arr[l]=temp;
     }
 
     // for test
@@ -108,7 +116,7 @@ public class MergeSort {
         for (int i = 0; i < testTime; i++) {
             int[] arr1 = generateRandomArray(maxSize, maxValue);
             int[] arr2 = copyArray(arr1);
-            mergeSort(arr1);
+            quickSort(arr1,0,arr1.length-1);
             comparator(arr2);
             if (!isEqual(arr1, arr2)) {
                 succeed = false;
@@ -119,11 +127,10 @@ public class MergeSort {
         }
         System.out.println(succeed ? "Nice!" : "Fucking fucked!");
 
-        int[] arr = generateRandomArray(maxSize, maxValue);
+        int[] arr = generateRandomArray(50, 100);
         printArray(arr);
-        mergeSort(arr);
+        quickSort(arr);
         printArray(arr);
 
     }
-
 }
