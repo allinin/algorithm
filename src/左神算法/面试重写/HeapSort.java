@@ -1,45 +1,58 @@
-package 左神算法.基础班.Sort;
+package 左神算法.面试重写;
 
 import java.util.Arrays;
 
-public class MergeSort {
+/**
+ * @author zbl
+ * @version 1.0
+ * @content:
+ * @date 2020/3/20 8:05
+ */
+public class HeapSort {
 
-    public static void mergeSort(int[] arr) {
-        if (arr == null || arr.length < 2) {
+    public static void heapSort(int[] arr){
+        if(arr==null || arr.length<2)
             return;
+        for(int i=0;i<arr.length;i++){
+            heapInsert(arr,i);
         }
-        mergeSort(arr, 0, arr.length - 1);
-    }
-
-    public static void mergeSort(int[] arr, int l, int r) {
-        if (l == r) {
-            return;
-        }
-        int mid = l + ((r - l) >> 1);
-        mergeSort(arr, l, mid);
-        mergeSort(arr, mid + 1, r);
-        merge(arr, l, mid, r);
-    }
-
-    public static void merge(int[] arr, int l, int m, int r) {
-        int[] help = new int[r - l + 1];
-        int i = 0;
-        int p1 = l;
-        int p2 = m + 1;
-        while (p1 <= m && p2 <= r) {
-            help[i++] = arr[p1] < arr[p2] ? arr[p1++] : arr[p2++];
-        }
-        while (p1 <= m) {
-            help[i++] = arr[p1++];
-        }
-        while (p2 <= r) {
-            help[i++] = arr[p2++];
-        }
-        for (i = 0; i < help.length; i++) {
-            arr[l + i] = help[i];
+        int len=arr.length-1;
+        swap(arr,0,len--);
+        while(len>0){
+            heapify(arr,0,len);
+            swap(arr,0,len--);
         }
     }
 
+    private static void heapInsert(int[] arr,int index){
+
+        while(arr[index]>arr[(index-1)/2]){
+            swap(arr,index,(index-1)/2);
+            index=(index-1)/2;
+        }
+    }
+
+    private static void heapify(int[] arr,int start,int len){
+        int left=start*2+1;
+        int maxIndex=0;
+        while(left<=len){
+            maxIndex=(left+1)<=len && (arr[left]<arr[left+1]) ? left+1:left;
+            if(arr[maxIndex]<=arr[start]){
+                break;
+            }else{
+                swap(arr,start,maxIndex);
+                start=maxIndex;
+                left=2*start+1;
+            }
+        }
+
+    }
+
+    private static void swap(int[] arr, int l, int r) {
+        int temp=arr[l];
+        arr[l]=arr[r];
+        arr[r]=temp;
+    }
     // for test
     public static void comparator(int[] arr) {
         Arrays.sort(arr);
@@ -105,12 +118,10 @@ public class MergeSort {
         for (int i = 0; i < testTime; i++) {
             int[] arr1 = generateRandomArray(maxSize, maxValue);
             int[] arr2 = copyArray(arr1);
-            mergeSort(arr1);
+            heapSort(arr1);
             comparator(arr2);
             if (!isEqual(arr1, arr2)) {
                 succeed = false;
-                printArray(arr1);
-                printArray(arr2);
                 break;
             }
         }
@@ -118,8 +129,9 @@ public class MergeSort {
 
         int[] arr = generateRandomArray(maxSize, maxValue);
         printArray(arr);
-        mergeSort(arr);
+        heapSort(arr);
         printArray(arr);
+
 
     }
 }

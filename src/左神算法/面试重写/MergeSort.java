@@ -1,42 +1,45 @@
-package 左神算法.基础班.Sort;
+package 左神算法.面试重写;
 
 import java.util.Arrays;
 
+/**
+ * @author zbl
+ * @version 1.0
+ * @content:
+ * 再次实现归并排序
+ * @date 2020/3/19 20:44
+ */
 public class MergeSort {
 
-    public static void mergeSort(int[] arr) {
-        if (arr == null || arr.length < 2) {
+    public static void mergeSort(int[] arr){
+        if(arr==null || arr.length<2)
             return;
-        }
-        mergeSort(arr, 0, arr.length - 1);
+        mergeSort(arr,0,arr.length-1);
     }
-
-    public static void mergeSort(int[] arr, int l, int r) {
-        if (l == r) {
+    private static void mergeSort(int[] arr,int start,int end){
+        if(start==end)
             return;
-        }
-        int mid = l + ((r - l) >> 1);
-        mergeSort(arr, l, mid);
-        mergeSort(arr, mid + 1, r);
-        merge(arr, l, mid, r);
+        int mid=start+((end-start)>>1); //注意这里运算符的优先级
+        mergeSort(arr,start,mid);
+        mergeSort(arr,mid+1,end);
+        merge(arr,start,end,mid);
     }
-
-    public static void merge(int[] arr, int l, int m, int r) {
-        int[] help = new int[r - l + 1];
-        int i = 0;
-        int p1 = l;
-        int p2 = m + 1;
-        while (p1 <= m && p2 <= r) {
-            help[i++] = arr[p1] < arr[p2] ? arr[p1++] : arr[p2++];
+    private static void merge(int[]arr,int start,int end,int mid){
+        int[]help=new int[end-start+1];
+        int p1=start;
+        int p2=mid+1;
+        int index=0;
+        while(p1<=mid && p2<=end){
+            help[index++]=arr[p1]<=arr[p2] ? arr[p1++]:arr[p2++];
         }
-        while (p1 <= m) {
-            help[i++] = arr[p1++];
+        while(p1<=mid){
+            help[index++]=arr[p1++];
         }
-        while (p2 <= r) {
-            help[i++] = arr[p2++];
+        while(p2<=end){
+            help[index++]=arr[p2++];
         }
-        for (i = 0; i < help.length; i++) {
-            arr[l + i] = help[i];
+        for(int i=0;i<help.length;i++){
+            arr[start+i]=help[i];
         }
     }
 
@@ -122,4 +125,5 @@ public class MergeSort {
         printArray(arr);
 
     }
+
 }

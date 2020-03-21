@@ -92,7 +92,9 @@ class Singleton5
 class Singleton6
 {
     private static volatile Singleton6 instance;
-    private Singleton6(){}
+    private Singleton6(){
+
+    }
     //提供了一个静态的共有方法，加入了双重检查，解决了线程安全问题，同时解决了懒加载问题，保证了效率，推荐
     public static Singleton6 getInstance(){
         if(instance==null)
