@@ -3,8 +3,8 @@ package Gof.Singleton;
 public class SingletonTest {
     public static void main(String[] args) {
 
-        SingleTon2 instance1= SingleTon2.getInstance();
-        SingleTon2 instance2=SingleTon2.getInstance();
+        Singleton7 instance1= Singleton7.getInstance();
+        Singleton7 instance2=Singleton7.getInstance();
         System.out.println(instance1.hashCode());
         System.out.println(instance2.hashCode());
         Singleton8 s1=Singleton8.INSTACNE;
@@ -107,20 +107,28 @@ class Singleton6
         }
         return instance;
     }
-}
-//静态内部类
-class Singleton7
-{
-     private static volatile Singleton7 instance;
-private Singleton7(){}
-     private static class SingletonInstance{
-    private static final Singleton7 INSTANCE =new Singleton7();
+
+
+
 }
 
-    public static Singleton7 getInstance()
-    {
+
+//静态内部类
+class Singleton7 {
+    private Singleton7() {
+
+    }
+
+    private static class SingletonInstance {
+
+        private static final Singleton7 INSTANCE = new Singleton7();//final可以不加
+
+    }
+
+    public static Singleton7 getInstance() {
         return SingletonInstance.INSTANCE;
     }
+
 }
 
 //枚举

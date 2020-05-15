@@ -28,6 +28,7 @@ public class QuickSort {
 //             quickSort(arr, p[1] + 1, r);
 //         }
 
+
      }
 
     //partition的过程，将原来的
@@ -50,6 +51,8 @@ public class QuickSort {
       }
       swap(arr,more,r);//将划分值提到大于区间的最前面
       return new int[]{less+1,more};//返回划分值在数组中的第一次出现的位置以及最后一次出现的位置
+
+
     }
     //异或的方式实现两个变量值交换
     public static void swap(int[]arr,int i,int j)

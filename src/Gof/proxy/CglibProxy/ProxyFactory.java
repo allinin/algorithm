@@ -18,7 +18,7 @@ public class ProxyFactory implements MethodInterceptor {
         //创建一个工具类
         Enhancer enhancer = new Enhancer();
         //设置父类,即代理目标
-         enhancer.setSuperclass(target.getClass());
+        enhancer.setSuperclass(target.getClass());
         //设置单一回调对象，在调用中拦截目标方法的调用
         enhancer.setCallback(this);
         //创建子类对象，即代理对象

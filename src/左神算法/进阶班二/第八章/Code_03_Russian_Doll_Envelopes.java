@@ -66,7 +66,8 @@ public class Code_03_Russian_Doll_Envelopes{
                 m=(l+r)/2;
                 if(dots[i].h>ens[m]){
                     l=m+1;
-                }else{   //找到在ens数组中最接近dots[i].h的值的位置。
+                }else{   //找到在ens数组中最接近dots[i].h的值的位置,即：第一个大于等于dots[i].h的位置
+                                                                  // ，然后替换这个位置的值
                     r=m-1;
                 }
             }

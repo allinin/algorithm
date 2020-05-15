@@ -5,6 +5,7 @@ public class Client {
         ITeacherDao target =new TeacherDao();
         ITeacherDao proxyInstance= (ITeacherDao) new ProxyFactory(target).getProxyInstance();
         proxyInstance.teach("ddd");
+        proxyInstance.lesson("语文");
     }
 
 }

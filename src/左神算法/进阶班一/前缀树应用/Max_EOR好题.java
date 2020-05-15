@@ -74,12 +74,12 @@ public class Max_EOR好题 {
     public static class NumTrie{
         public Node head=new Node();
 
-        //传入0-i的异或和
+        //传入0-i的异或和。num：表示arr中0-i的异或和。这个函数的作用是将arr中0-i的异或和存入前缀树。
         public void add(int num){
             Node cur=head;
             for(int move=31;move>=0;move--){
                 int path=(num>>move) & 1;//判断num每一位的值，0/1
-                cur.nexts[path]=cur.nexts[path]==null ? new Node():cur.nexts[path];
+                cur.nexts[path]=cur.nexts[path]==null ? new Node():cur.nexts[path];//判断cur.nexts[i]是否有值。
                 cur=cur.nexts[path];
             }
         }
