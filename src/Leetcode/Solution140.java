@@ -58,7 +58,7 @@ public class Solution140 {
         list.add("and");
         list.add("sand");
         list.add("dog");
-        System.out.println(wordBreak(str,list));
+        //System.out.println(wordBreak(str,list));
 
     }
 }

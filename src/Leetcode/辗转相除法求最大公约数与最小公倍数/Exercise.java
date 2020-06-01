@@ -1,4 +1,4 @@
-package Leetcode.最大公约数与最小公倍数;
+package Leetcode.辗转相除法求最大公约数与最小公倍数;
 
 /**
  * @author zbl
