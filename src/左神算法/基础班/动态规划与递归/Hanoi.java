@@ -12,7 +12,7 @@ public class Hanoi {
         }
     }
 
-    public static void process(int n,String from,String to,String help)
+    public static void process(int n,String from,String to,String help)//注意这里有个表示数量的变量
     {
         if(n==1)
         {

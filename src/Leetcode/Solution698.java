@@ -56,6 +56,7 @@ public class Solution698 {
         return false;
     }
 
+
     public static void main(String[] args) {
         int[] arr={5,2,5,5,5,5,5,5,5,5,5,5,5,5,5,3};
         int k=15;
