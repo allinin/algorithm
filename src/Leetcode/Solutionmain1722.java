@@ -1,50 +1,60 @@
-package 左神算法.进阶班二.第一章;
+package Leetcode;
 
 import java.util.*;
 
 /**
  * @author zbl
  * @version 1.0
- * @content: 给定两个单词beginWord和endWord，还有一本词典是list类型。
-找到所有从beginWord变到endWord的最短转换路径，变动的规则是：
-1，一次只能变一个位置的字符
-2，每一个转换后的word一定要在list中
-3，初始时list中没有beginWord这个词
-比如
+ * @content:给定字典中的两个词，长度相等。写一个方法，把一个词转换成另一个词， 但是一次只能改变一个字符。每一步得到的新词都必须能在字典中找到。
+
+编写一个程序，返回一个可能的转换序列。如有多个可能的转换序列，你可以返回任何一个。
+
+示例 1:
+
+输入:
+beginWord = "hit",
+endWord = "cog",
+wordList = ["hot","dot","dog","lot","log","cog"]
+
+输出:
+["hit","hot","dot","lot","log","cog"]
+
+示例 2:
+
+输入:
 beginWord = "hit"
 endWord = "cog"
-wordList = ["hot","dot","dog","lot","log","cog"]
-返回：
-[
-["hit","hot","dot","dog","cog"],
-["hit","hot","lot","log","cog"]
-]
-注意：
-1，返回值的类型为List<List<String>>
-2，如果不存在转化路径请返回空链表（不是null）
-3，所有的词一定都是相同长度的
-4，所有词都是小写的a~z
-5，在list中没有重复的词
-6，beginWord和endWord都不是空字符串或者null
- * @date 2020/2/13 16:43
+wordList = ["hot","dot","dog","lot","log"]
+
+输出: []
+
+解释: endWord "cog" 不在字典中，所以不存在符合要求的转换序列。
+
+来源：力扣（LeetCode）
+链接：https://leetcode-cn.com/problems/word-transformer-lcci
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+ * @date 2020/6/10 18:55
  */
-public class Problem06_Word_Ladder {
+public class Solutionmain1722 {
 
-
-    public static List<List<String>> findLadders(String beginWord,
-                                                 String endWord, List<String> wordList) {
+    public List<String> res=new ArrayList<>();
+    public List<String> findLadders(String beginWord, String endWord, List<String> wordList) {
+        if(!wordList.contains(endWord)){
+            return new ArrayList<>();
+        }
         wordList.add(beginWord);
-        HashMap<String, ArrayList<String>> nexts = getNexts(wordList);
-        HashMap<String, Integer> distances = getDistances(beginWord, nexts);
-        LinkedList<String> pathList = new LinkedList<>();
-        List<List<String>> res = new ArrayList<>();
-        getShortestPaths(beginWord, endWord, nexts, distances, pathList, res);
+        HashMap<String,List<String>> map=getNexts(wordList);
+        HashMap<String,Integer> distances=getDistances(beginWord,map);
+        getShortestPaths(beginWord,endWord,map,distances,new LinkedList<>());
         return res;
+
+
     }
+
     //返回每个单词的邻居
-    public static HashMap<String, ArrayList<String>> getNexts(List<String> words) {
+    public  HashMap<String, List<String>> getNexts(List<String> words) {
         Set<String> dict = new HashSet<>(words);
-        HashMap<String, ArrayList<String>> nexts = new HashMap<>();
+        HashMap<String, List<String>> nexts = new HashMap<>();
         for (int i = 0; i < words.size(); i++) {
             nexts.put(words.get(i), new ArrayList<>());
         }
@@ -55,7 +65,7 @@ public class Problem06_Word_Ladder {
     }
     //dict是将原来的list字典变换成set结构的，HashSet的增删改查都可以看做O(1);
     //返回的是与word差别一个字母的单词的集合
-    private static ArrayList<String> getNext(String word, Set<String> dict) {
+    private  ArrayList<String> getNext(String word, Set<String> dict) {
         ArrayList<String> res = new ArrayList<String>();
         char[] chs = word.toCharArray();
         for (char cur = 'a'; cur <= 'z'; cur++) {//代价：26*chs.length
@@ -73,8 +83,8 @@ public class Problem06_Word_Ladder {
         return res;
     }
 
-    public static HashMap<String, Integer> getDistances(String begin,
-                                                        HashMap<String, ArrayList<String>> nexts) {
+    public  HashMap<String, Integer> getDistances(String begin,
+                                                  HashMap<String, List<String>> nexts) {
         HashMap<String, Integer> distances = new HashMap<>();
         distances.put(begin, 0);
         Queue<String> queue = new LinkedList<String>();
@@ -96,21 +106,24 @@ public class Problem06_Word_Ladder {
 
 
     //最终求解的答案在输入参数中的递归
-    private static void getShortestPaths(String cur, String end,
-                                         HashMap<String, ArrayList<String>> nexts,
-                                         HashMap<String, Integer> distances, LinkedList<String> solution,
-                                         List<List<String>> res) {
+    private  boolean getShortestPaths(String cur, String end,
+                                      HashMap<String, List<String>> nexts,
+                                      HashMap<String, Integer> distances, LinkedList<String> solution
+    ) {
         solution.add(cur);
         if (end.equals(cur)) {
-            res.add(new LinkedList<String>(solution));
+            res=new LinkedList<String>(solution);
+            return true;
         } else {
             for (String next : nexts.get(cur)) {//cur的所有后代，搜索的过程又运用了深度优先遍历dfs
                 if (distances.get(next) == distances.get(cur) + 1) {
-                    getShortestPaths(next, end, nexts, distances, solution, res);
+                    if(getShortestPaths(next, end, nexts, distances, solution))
+                        return true;
                     solution.pollLast();//弹出solution最后的值，深度优先遍历dfs
                 }
             }
         }
+        return false;
 
     }
 }
