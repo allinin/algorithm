@@ -1,66 +1,52 @@
-package 左神算法.基础班.Sort;
+package 算法重写练习.排序;
 
 import java.util.Arrays;
 
+/**
+ * @author zbl
+ * @version 1.0
+ * @content:
+ * @date 2020/6/28 23:51
+ */
 public class QuickSort {
 
-    public static void quickSort(int[] arr) {
-        if (arr == null || arr.length < 2) {
-            return;
+
+    public static void quickSort(int[] nums){
+         if(nums==null || nums.length==0)
+             return;
+         quickSort(nums,0,nums.length-1);
+    }
+
+
+    private static void quickSort(int[] nums,int left,int right){
+        if(left<right){
+            swap(nums,left+(int)(Math.random()*(right-left+1)),right);//随机快速排序
+            int[] res=partitation(nums,left,right);
+            quickSort(nums,left,res[0]-1);
+            quickSort(nums,res[1]+1,right);
         }
-        quickSort(arr, 0, arr.length - 1);
+    }
+    //以right位置的值为标准进行大小比较
+    private static int[] partitation(int[] nums,int left,int right){
+        int l=left-1,r=right;
+        while(left<r){
+            if(nums[left]<nums[right]){
+               swap(nums,left++,++l);
+            }else if(nums[left]>nums[right]){
+                swap(nums,left,--r);
+            }else{
+                left++;
+            }
+        }
+        swap(nums,right,r);
+        return new int[]{l+1,r};//返回排序后nums中left-right范围中第一个等于最后一个数的索引以及最后一个等于等于最后一个数的索引
+
     }
 
-    public static void quickSort(int[] arr,int l,int r)
-     {
-
-         if(l<r)
-         {
-             swap(arr,l+(int)(Math.random()*(r-l+1)),r);//随机快速排序
-             int[] p=partition(arr,l,r);
-             quickSort(arr,l,p[0]-1);
-             quickSort(arr,p[1]+1,r);
-         }
-//         if (l < r) {
-//             swap(arr, l + (int) (Math.random() * (r - l + 1)), r);
-//             int[] p = partition(arr, l, r);
-//             quickSort(arr, l, p[0] - 1);
-//             quickSort(arr, p[1] + 1, r);
-//         }
-
-
-     }
-
-    //partition的过程，将原来的
-    public static int [] partition(int[] arr ,int l,int r)
-    {
-      int less=l-1;
-      int more=r;
-
-      while(l<more)
-      {
-          if(arr[l]<arr[r])
-          {
-              swap(arr,++less,l++); //当前值小于最后的那个划分值
-
-          }else if(arr[l]>arr[r])
-          {
-              swap(arr,--more,l);//当前值大于最后的那个划分值
-          }else {
-              l++;//相等直接跳过
-          }
-      }
-      swap(arr,more,r);//将划分值提到大于区间的最前面
-      return new int[]{less+1,more};//返回划分值在数组中的第一次出现的位置以及最后一次出现的位置
-
-
-    }
-    //异或的方式实现两个变量值交换
-    public static void swap(int[]arr,int i,int j)
-    {
-        int tmp = arr[i];
-        arr[i] = arr[j];
-        arr[j] = tmp;
+    private static void swap(int[] nums,int l,int r){
+         int tmp=nums[l];
+         nums[l]=nums[r];
+         nums[r]=tmp;
     }
 
     // for test
@@ -144,5 +130,9 @@ public class QuickSort {
         quickSort(arr);
         printArray(arr);
 
+
+
     }
+
+
 }

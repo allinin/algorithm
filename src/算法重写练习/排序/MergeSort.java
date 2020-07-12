@@ -1,67 +1,54 @@
-package 左神算法.基础班.Sort;
+package 算法重写练习.排序;
 
 import java.util.Arrays;
 
-public class QuickSort {
+/**
+ * @author zbl
+ * @version 1.0
+ * @content:
+ * @date 2020/6/28 23:34
+ */
+public class MergeSort {
 
-    public static void quickSort(int[] arr) {
-        if (arr == null || arr.length < 2) {
+    public static void mergeSort(int[] nums){
+        if(nums==null || nums.length<2)
             return;
+        mergeSort(nums,0,nums.length-1);
+
+
+    }
+
+    private static void mergeSort(int[] nums,int left,int right){
+        if(left<right){
+            int mid=(left+right)>>>1;
+            mergeSort(nums,left,mid);
+            mergeSort(nums,mid+1,right);
+            merge(nums,left,right);
         }
-        quickSort(arr, 0, arr.length - 1);
     }
 
-    public static void quickSort(int[] arr,int l,int r)
-     {
+    private static void merge(int[] nums,int left,int right){
+        int len=right-left+1;
+        int mid=(left+right)>>>1;
+        int [] help=new int[len];
+        int l=left,r=mid+1;
+        int index=0;
+        while(l<=mid && r<=right){
+            help[index++]=nums[l]<=nums[r] ? nums[l++] : nums[r++];
 
-         if(l<r)
-         {
-             swap(arr,l+(int)(Math.random()*(r-l+1)),r);//随机快速排序
-             int[] p=partition(arr,l,r);
-             quickSort(arr,l,p[0]-1);
-             quickSort(arr,p[1]+1,r);
-         }
-//         if (l < r) {
-//             swap(arr, l + (int) (Math.random() * (r - l + 1)), r);
-//             int[] p = partition(arr, l, r);
-//             quickSort(arr, l, p[0] - 1);
-//             quickSort(arr, p[1] + 1, r);
-//         }
-
-
-     }
-
-    //partition的过程，将原来的
-    public static int [] partition(int[] arr ,int l,int r)
-    {
-      int less=l-1;
-      int more=r;
-
-      while(l<more)
-      {
-          if(arr[l]<arr[r])
-          {
-              swap(arr,++less,l++); //当前值小于最后的那个划分值
-
-          }else if(arr[l]>arr[r])
-          {
-              swap(arr,--more,l);//当前值大于最后的那个划分值
-          }else {
-              l++;//相等直接跳过
-          }
-      }
-      swap(arr,more,r);//将划分值提到大于区间的最前面
-      return new int[]{less+1,more};//返回划分值在数组中的第一次出现的位置以及最后一次出现的位置
-
-
+        }
+        while(l<=mid){
+            help[index++]=nums[l++];
+        }
+        while(r<=right){
+            help[index++]=nums[r++];
+        }
+        index=0;
+        for(int i=0;i<len;i++){
+            nums[i+left]=help[i];
+        }
     }
-    //异或的方式实现两个变量值交换
-    public static void swap(int[]arr,int i,int j)
-    {
-        int tmp = arr[i];
-        arr[i] = arr[j];
-        arr[j] = tmp;
-    }
+
 
     // for test
     public static void comparator(int[] arr) {
@@ -128,7 +115,7 @@ public class QuickSort {
         for (int i = 0; i < testTime; i++) {
             int[] arr1 = generateRandomArray(maxSize, maxValue);
             int[] arr2 = copyArray(arr1);
-            quickSort(arr1,0,arr1.length-1);
+            mergeSort(arr1);
             comparator(arr2);
             if (!isEqual(arr1, arr2)) {
                 succeed = false;
@@ -139,9 +126,9 @@ public class QuickSort {
         }
         System.out.println(succeed ? "Nice!" : "Fucking fucked!");
 
-        int[] arr = generateRandomArray(50, 100);
+        int[] arr = generateRandomArray(maxSize, maxValue);
         printArray(arr);
-        quickSort(arr);
+        mergeSort(arr);
         printArray(arr);
 
     }

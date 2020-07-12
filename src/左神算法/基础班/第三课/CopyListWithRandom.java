@@ -19,6 +19,14 @@ public class CopyListWithRandom {
 
     //放入一个hashmap，找对应关系
     public static Node copyListWithRand1(Node head){
+        //借助map进行复制
+        if(head==null)
+            return null;
+        if( head.next==null) {
+            Node newHead= new Node(head.value);
+            newHead.rand=head.rand!=null ? newHead:null;
+        }
+
         HashMap<Node,Node>map=new HashMap<>();
         Node cur=head;
         while(cur!=null)

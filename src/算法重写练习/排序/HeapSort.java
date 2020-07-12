@@ -1,67 +1,71 @@
-package 左神算法.基础班.Sort;
+package 算法重写练习.排序;
 
 import java.util.Arrays;
 
-public class QuickSort {
+/**
+ * @author zbl
+ * @version 1.0
+ * @content:
+ * @date 2020/6/28 19:28
+ */
+public class HeapSort {
 
-    public static void quickSort(int[] arr) {
-        if (arr == null || arr.length < 2) {
-            return;
+    //从小到大实现堆排序
+
+    public static void heapSort(int[] nums){
+        if(nums==null || nums.length<2) return ;
+
+        int n=nums.length;
+        for(int i=0;i<n;i++){
+            heapInsert(nums,i);
         }
-        quickSort(arr, 0, arr.length - 1);
+        swap(nums,0,--n);
+        while(n>0){
+            heapify(nums,0,n);
+            swap(nums,0,--n);
+        }
+
+
+    }
+    //从小到大实现堆排序的部分一：构建大根堆的过程。在数组中，从后往前
+    private static void heapInsert(int[] nums,int index){
+
+        while(nums[(index-1)/2]<nums[index]){
+            swap(nums,index,(index-1)/2);
+            index=(index-1)/2;
+        }
     }
 
-    public static void quickSort(int[] arr,int l,int r)
-     {
+    //从前往后，heapify的过程,size:代表数组参与heapify的长度大小
+    private static void heapify(int [] nums,int index,int size){
+         int left=index*2+1;//左孩子
+         while(left<size){
+             int largest=left+1<size && nums[left]<nums[left+1] ? left+1 : left;//largest记录左右孩子最大值的坐标
+             largest=nums[largest]<=nums[index] ? index : largest;
+             if(largest==index){
+                 break;
+             }else{
+                 swap(nums,largest,index);
+                 index=largest;
+                 left=index*2+1;
+             }
 
-         if(l<r)
-         {
-             swap(arr,l+(int)(Math.random()*(r-l+1)),r);//随机快速排序
-             int[] p=partition(arr,l,r);
-             quickSort(arr,l,p[0]-1);
-             quickSort(arr,p[1]+1,r);
          }
-//         if (l < r) {
-//             swap(arr, l + (int) (Math.random() * (r - l + 1)), r);
-//             int[] p = partition(arr, l, r);
-//             quickSort(arr, l, p[0] - 1);
-//             quickSort(arr, p[1] + 1, r);
-//         }
-
-
-     }
-
-    //partition的过程，将原来的
-    public static int [] partition(int[] arr ,int l,int r)
-    {
-      int less=l-1;
-      int more=r;
-
-      while(l<more)
-      {
-          if(arr[l]<arr[r])
-          {
-              swap(arr,++less,l++); //当前值小于最后的那个划分值
-
-          }else if(arr[l]>arr[r])
-          {
-              swap(arr,--more,l);//当前值大于最后的那个划分值
-          }else {
-              l++;//相等直接跳过
-          }
-      }
-      swap(arr,more,r);//将划分值提到大于区间的最前面
-      return new int[]{less+1,more};//返回划分值在数组中的第一次出现的位置以及最后一次出现的位置
-
-
     }
-    //异或的方式实现两个变量值交换
-    public static void swap(int[]arr,int i,int j)
-    {
-        int tmp = arr[i];
-        arr[i] = arr[j];
-        arr[j] = tmp;
+
+    //通过异或运算实现交换数组中说的两个值
+    private static void swap(int[] nums,int i,int j){
+//        nums[i]=nums[i]^nums[j];
+////        nums[j]=nums[j]^nums[i];
+////        nums[i]=nums[i]^nums[j];
+        int tmp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = tmp;
     }
+
+
+
+
 
     // for test
     public static void comparator(int[] arr) {
@@ -128,21 +132,24 @@ public class QuickSort {
         for (int i = 0; i < testTime; i++) {
             int[] arr1 = generateRandomArray(maxSize, maxValue);
             int[] arr2 = copyArray(arr1);
-            quickSort(arr1,0,arr1.length-1);
+            heapSort(arr1);
             comparator(arr2);
             if (!isEqual(arr1, arr2)) {
                 succeed = false;
-                printArray(arr1);
-                printArray(arr2);
                 break;
             }
         }
         System.out.println(succeed ? "Nice!" : "Fucking fucked!");
 
-        int[] arr = generateRandomArray(50, 100);
+        int[] arr = generateRandomArray(maxSize, maxValue);
         printArray(arr);
-        quickSort(arr);
+        heapSort(arr);
         printArray(arr);
+        int[]nums={-2,2,1,3,4,-4,5,0};
+        swap(nums,0,5);
+        System.out.println(nums[0]);
 
     }
+
+
 }
