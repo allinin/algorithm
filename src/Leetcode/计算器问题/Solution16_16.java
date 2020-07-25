@@ -74,8 +74,9 @@ public class Solution16_16 {
         return res;
     }
 
+
     public static void main(String[] args) {
-        String s="1-1+1";
+        String s="3/2";
         System.out.println(calculate(s));
     }
 }
