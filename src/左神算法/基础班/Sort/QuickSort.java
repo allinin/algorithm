@@ -31,7 +31,7 @@ public class QuickSort {
 
      }
 
-    //partition的过程，将原来的
+    //partition的过程，因为上面的方法中，以及进行了随机快排，这里选择最后元素的值作为划分依据
     public static int [] partition(int[] arr ,int l,int r)
     {
       int less=l-1;
@@ -58,9 +58,12 @@ public class QuickSort {
     //异或的方式实现两个变量值交换
     public static void swap(int[]arr,int i,int j)
     {
-        int tmp = arr[i];
-        arr[i] = arr[j];
-        arr[j] = tmp;
+        if(i!=j){ //只有当i!=j的时候才能使用
+            int tmp = arr[i];
+            arr[i] = arr[j];
+            arr[j] = tmp;
+        }
+
     }
 
     // for test
