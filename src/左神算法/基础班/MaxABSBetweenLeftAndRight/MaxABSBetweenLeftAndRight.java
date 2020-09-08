@@ -2,6 +2,15 @@ package 左神算法.基础班.MaxABSBetweenLeftAndRight;
 
 import java.util.Random;
 
+/**
+ * 已知一个整型数组arr，数组长度为size且size大于2，arr有size-1种 可以划分成左右两部分的方案。
+ * 比如： arr = {3, 2, 3, 4, 1, 2} 第1种划分左部分为[3]，右部分为[2, 3, 4, 1, 2] 第2种划分左部分为[3, 2]，
+ * 右部分为[3, 4, 1, 2] 第3种划分左部分为[3, 2, 3]，右部分为[4, 1, 2] 第4种划分左部分为[3, 2, 3, 4]，
+ * 右部分为[1, 2] 第5种划分左部分为[3, 2, 3, 4, 1]，右部分为[2] 每一种划分下，左部分都有最大值记为max_left，
+ * 右部分都有最大值记 为max_right。 求|max_left-max_right|(左部分最大值与左部分最大值之差的绝对值)，
+ * 最大是多少？ 要求：时间复杂度为O(N)，额外空间复杂度O(1)。
+ */
+
 public class MaxABSBetweenLeftAndRight {
 
     public static int maxABS1(int[] array)
@@ -24,27 +33,26 @@ public class MaxABSBetweenLeftAndRight {
     }
 
     public static int ABS2(int[] array){
-        int res=Integer.MIN_VALUE;
-        int[]larr=new int[array.length];
-        larr[0]=array[0];
-        int[]rarr=new int[array.length];
-        rarr[array.length-1]=array[array.length-1];
-        for(int i=1;i<array.length;i++)
-        {
-            larr[i]=Math.max(array[i],larr[i-1]);
-        }
-        for(int i=array.length-2;i>=0;i--)
-        {
-            rarr[i]=Math.max(rarr[i+1],array[i]);
-        }
-        for(int i=0;i<array.length-1;i++)
-        {
-            res=Math.max(res,Math.abs(larr[i]-rarr[i+1]));
-        }
-        return res;
+       int res=Integer.MIN_VALUE;
+       int n=array.length;
+       int[] leftmax=new int[n];//i以左部分的最大值
+       int[] rightmax=new int[n];//i以后的部分的最大值
+       leftmax[0]=array[0];
+       rightmax[n-1]=array[n-1];
+       for(int i=1;i<n;i++){
+           leftmax[i]=Math.max(array[i],leftmax[i-1]);
+       }
+       for(int i=array.length-2;i>=0;i--){
+           rightmax[i]=Math.max(array[i],rightmax[i+1]);
+       }
+       for(int i=0;i<n-1;i++){
+           res=Math.max(res,Math.abs(leftmax[i]-rightmax[i+1]));
+       }
+       return res;
 
     }
 
+    //全局最大值一定在左半部分或者右半部分，左半部分的最大值一定>=arr[0],右半部分的最大值一定>=arr[n-1]
     public static int ABS3(int[] arr)
     {
         int max=Integer.MIN_VALUE;

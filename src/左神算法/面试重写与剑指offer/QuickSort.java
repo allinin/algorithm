@@ -17,39 +17,40 @@ public class QuickSort {
         quickSort(arr,0,arr.length-1);
     }
 
-    private static void quickSort(int[] arr, int start, int end) {
-        if(start<end){
-            swap(arr,start+(int)(Math.random()*(end-start+1)),end);//随机快速排序
+    private static void quickSort(int[] arr,int left,int right){
+        if(left<right){
+            //随机快排
+            swap(arr,left+(int)(Math.random()*(right-left+1)),right);
+            int[] ans=partation(arr,left,right);
+            quickSort(arr,left,ans[0]-1);
+            quickSort(arr,ans[1]+1,right);
 
-            int[] res=partation(arr,start,end);
-            quickSort(arr,start,res[0]-1);
-            quickSort(arr,res[1]+1,end);
         }
     }
-    private static int[] partation(int[] arr,int start,int end){
-
-        int left=start-1;
-        int right=end;
-        int i=start;
-        while(i<right){
-            if(arr[i]<arr[end]){
-                swap(arr,i++,++left);
-            }else if(arr[i]>arr[end]){
-
-                swap(arr,i,--right);
+    //以right位置的数为标准进行partation
+    private static int[] partation(int[] arr,int left,int right){
+        int less=left-1;
+        int more=right;
+        while(left<more){
+            if(arr[left]<arr[right]){
+                swap(arr,++less,left++);
+            }else if(arr[left]>arr[right]){
+                swap(arr,--more,left);
             }else{
-                i++;
+                left++;
             }
         }
-        swap(arr,end,right);
-        return new int[]{left+1,right};//返回第一个相等元素的位置以及最后一个相等元素的位置
+        swap(arr,more,right);
+        return new int[]{less+1,more};
     }
 
-    public static void swap(int[] arr,int i,int l){
-        int temp=arr[i];
-        arr[i]=arr[l];
-        arr[l]=temp;
+    private static void swap(int[] arr,int left,int right){
+        int tmp=arr[left];
+        arr[left]=arr[right];
+        arr[right]=tmp;
     }
+
+
 
     // for test
     public static void comparator(int[] arr) {

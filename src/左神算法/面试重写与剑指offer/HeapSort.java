@@ -10,18 +10,19 @@ import java.util.Arrays;
  */
 public class HeapSort {
 
+    //从小到大排序
     public static void heapSort(int[] arr){
-        if(arr==null || arr.length<2)
-            return;
-        for(int i=0;i<arr.length;i++){
-            heapInsert(arr,i);
-        }
-        int len=arr.length-1;
-        swap(arr,0,len--);
-        while(len>0){
-            heapify(arr,0,len);
-            swap(arr,0,len--);
-        }
+       if(arr==null || arr.length<2)
+           return;
+       int n=arr.length;
+       for(int i=0;i<n;i++){
+           heapInsert(arr,i);
+       }
+       swap(arr,0,--n);
+       while(n>0){
+           heapify(arr,0,n);
+           swap(arr,0,--n);
+       }
     }
 
     private static void heapInsert(int[] arr,int index){
@@ -32,21 +33,19 @@ public class HeapSort {
         }
     }
 
-    private static void heapify(int[] arr,int start,int len){
+    private static void heapify(int[] arr,int start,int end){
         int left=start*2+1;
-        int maxIndex=0;
-        while(left<=len){
-            maxIndex=(left+1)<=len && (arr[left]<arr[left+1]) ? left+1:left;
-            if(arr[maxIndex]<=arr[start]){
+        while(left<end){
+            int indexMax=left+1<end && arr[left+1]>arr[left] ? left+1:left;
+            if(arr[start]>arr[indexMax])
                 break;
-            }else{
-                swap(arr,start,maxIndex);
-                start=maxIndex;
-                left=2*start+1;
-            }
+            swap(arr,start,indexMax);
+            start=indexMax;
+            left=start*2+1;
         }
-
     }
+
+
 
     private static void swap(int[] arr, int l, int r) {
         int temp=arr[l];

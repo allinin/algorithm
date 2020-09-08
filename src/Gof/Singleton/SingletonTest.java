@@ -97,16 +97,16 @@ class Singleton6
     }
     //提供了一个静态的共有方法，加入了双重检查，解决了线程安全问题，同时解决了懒加载问题，保证了效率，推荐
     public static Singleton6 getInstance(){
-        if(instance==null)
+    if(instance==null)
+    {
+        synchronized (Singleton6.class)
         {
-            synchronized (Singleton6.class)
-            {
-                if(instance==null)
-                    instance=new Singleton6();
-            }
+            if(instance==null)
+                instance=new Singleton6();
         }
-        return instance;
     }
+    return instance;
+}
 
 
 

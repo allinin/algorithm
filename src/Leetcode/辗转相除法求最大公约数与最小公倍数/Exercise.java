@@ -22,6 +22,8 @@ public class Exercise {
             b=tmp;
         }
         return a;
+
+
     }
     //求a与b的最小公倍数
     public int getMin(int a,int b){
