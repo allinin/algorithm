@@ -85,13 +85,9 @@ public class LongestIncrSubqueue {
     }
 
     public static void main(String[] args) {
-      for(int i=0;i<100000;i++){
-            int [] arr=  generateRandomArray(10);
-            if(getLongestIncrSubqueue1(arr)!=getLongestIncrSub(arr))
-            System.out.println("fuck"+i);
-
-        }
-
 
     }
+
+
+
 }

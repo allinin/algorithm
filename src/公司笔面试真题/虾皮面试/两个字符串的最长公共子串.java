@@ -44,7 +44,8 @@ public class 两个字符串的最长公共子串 {
     }
 
     public static void main(String[] args) {
-        String res=process("abractyeyt","dgdsaeactyey");
-        System.out.println(res);
+        //String res=process("abractyeyt","dgdsaeactyey");
+        //System.out.println(res);
+
     }
 }

@@ -16,7 +16,6 @@ public class Solution57 {
         int n=intervals.length;
         List<int[]> list=new ArrayList<>();
         int index=0;
-
         int max=Integer.MIN_VALUE;
         while(index<n){
             int[] help=new int[2];
