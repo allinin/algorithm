@@ -2,17 +2,12 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="jar://E:/jdk1.8/src.zip!/java/util/PriorityQueue.java" />
-    <bookmark url="jar://E:/jdk1.8/src.zip!/java/lang/String.java" line="95" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6329ee68-ffa6-4618-9554-444eef268ab1" name="Default Changelist" comment="2020.9.14">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/子序列问题/LCS.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/WaterProblem.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/算法重写练习/排序/ErFen.java" />
+    <list default="true" id="6329ee68-ffa6-4618-9554-444eef268ab1" name="Default Changelist" comment="2020.9.26">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/树/Solution129.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/数组/Solution57.java" afterPath="$PROJECT_DIR$/src/Leetcode/数组/Solution57.java" />
-      <change beforePath="$PROJECT_DIR$/src/公司笔面试真题/虾皮面试/两个字符串的最长公共子串.java" afterPath="$PROJECT_DIR$/src/公司笔面试真题/虾皮面试/两个字符串的最长公共子串.java" />
-      <change beforePath="$PROJECT_DIR$/src/左神算法/高频面试题/八数组子序列问题/LongestIncrSubqueue.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/八数组子序列问题/LongestIncrSubqueue.java" />
+      <change beforePath="$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongSubarray3.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongSubarray3.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,20 +38,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="两个字符串的最长公共子串.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/公司笔面试真题/虾皮面试/两个字符串的最长公共子串.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LCS.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Leetcode/子序列问题/LCS.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
+            <state relative-caret-position="0">
               <caret line="23" column="54" lean-forward="false" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
               <folding />
             </state>
@@ -66,18 +51,8 @@
       <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
         <entry file="jar://E:/jdk1.8/src.zip!/java/util/ArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7520">
-              <caret line="411" column="5" lean-forward="false" selection-start-line="411" selection-start-column="5" selection-end-line="411" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongestIncrSubqueue.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/八数组子序列问题/LongestIncrSubqueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
-              <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+            <state relative-caret-position="20">
+              <caret line="452" column="6" lean-forward="false" selection-start-line="452" selection-start-column="6" selection-end-line="452" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -86,24 +61,36 @@
       <file leaf-file-name="LongSubarray3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongSubarray3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+            <state relative-caret-position="0">
+              <caret line="0" column="24" lean-forward="true" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LongestSubarray2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongestSubarray2.java">
+      <file leaf-file-name="StringBuilder.java" pinned="false" current-in-tab="false">
+        <entry file="jar://E:/jdk1.8/src.zip!/java/lang/StringBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="20">
+              <caret line="93" column="48" lean-forward="false" selection-start-line="93" selection-start-column="48" selection-end-line="93" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LongestSubarraySolution.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Collections.java" pinned="false" current-in-tab="false">
+        <entry file="jar://E:/jdk1.8/src.zip!/java/util/Collections.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="84" column="17" lean-forward="false" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LongestSubarraySolution.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongestSubarraySolution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -145,9 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/公司笔试真题/猿辅导/Solution2.java" />
-        <option value="$PROJECT_DIR$/src/公司笔试真题/猿辅导/Solution3.java" />
-        <option value="$PROJECT_DIR$/src/公司笔试真题/猿辅导/二零_3/Solution1.java" />
         <option value="$PROJECT_DIR$/src/公司笔试真题/猿辅导/二零_3/Solution3.java" />
         <option value="$PROJECT_DIR$/src/公司笔试真题/猿辅导/二零_1/Solution3.java" />
         <option value="$PROJECT_DIR$/src/公司笔试真题/猿辅导/二零_1/Solution2.java" />
@@ -196,6 +180,9 @@
         <option value="$PROJECT_DIR$/src/公司笔面试真题/虾皮面试/两个字符串的最长公共子串.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/子序列问题/LCS.java" />
         <option value="$PROJECT_DIR$/src/左神算法/高频面试题/八数组子序列问题/LongestIncrSubqueue.java" />
+        <option value="$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongSubarray3.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/树/Solution129.java" />
+        <option value="G:/idea_leetcode/leetcode/editor/cn/[1]两数之和.java" />
       </list>
     </option>
   </component>
@@ -219,8 +206,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="-22" />
+    <option name="y" value="262" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -266,8 +253,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
@@ -284,38 +269,14 @@
             </path>
             <path>
               <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="左神算法" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="左神算法" type="462c0819:PsiDirectoryNode" />
-              <item name="进阶班一" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="左神算法" type="462c0819:PsiDirectoryNode" />
-              <item name="高频面试题" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -328,8 +289,8 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15323994" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="SearchEverywhereHistoryKey" value="ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;LinkedList&#9;PSI&#9;JAVA://java.util.LinkedList&#10;Thread&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/Thread.java&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections&#10;StringBuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;String&#9;PSI&#9;JAVA://java.lang.String&#10;Character&#9;PSI&#9;JAVA://java.lang.Character&#10;Collection&#9;PSI&#9;JAVA://java.util.Collection&#10;Random&#9;PSI&#9;JAVA://java.util.Random&#10;Proxy&#9;PSI&#9;JAVA://java.lang.reflect.Proxy&#10;Class&#9;PSI&#9;JAVA://java.lang.Class&#10;Semaphore&#9;PSI&#9;JAVA://java.util.concurrent.Semaphore&#10;Formatter&#9;PSI&#9;JAVA://java.util.Formatter&#10;Stack&#9;PSI&#9;JAVA://java.util.Stack&#10;Hash&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/HashMap.java&#10;Blocking&#9;PSI&#9;JAVA://JUC.blockingqueue.BlockingQueueDemo&#10;Arra&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Arrays.java&#10;Str&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/String.java&#10;Arrays&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Arrays.java&#10;PriorityQ&#9;PSI&#9;JAVA://java.util.PriorityQueue&#10;List&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/List.java&#10;in&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/Integer.java&#10;HashSet&#9;PSI&#9;JAVA://java.util.HashSet&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;Colle&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Collections.java&#10;Map&#9;PSI&#9;JAVA://java.util.Map&#10;System&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/System.java&#10;Priority&#9;PSI&#9;JAVA://java.util.PriorityQueue&#10;FutureT&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/concurrent/FutureTask.java&#10;Callable&#9;PSI&#9;JAVA://java.util.concurrent.Callable&#10;Runnablef&#9;PSI&#9;JAVA://java.util.concurrent.RunnableFuture&#10;FutureTask&#9;PSI&#9;JAVA://java.util.concurrent.FutureTask&#10;Math&#9;PSI&#9;JAVA://java.lang.Math&#10;BigInteger&#9;PSI&#9;JAVA://java.math.BigInteger&#10;Arr&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Arrays.java&#10;Excep&#9;PSI&#9;JAVA://java.lang.Exception&#10;Pair&#9;PSI&#9;JAVA://javafx.util.Pair&#10;character&#9;PSI&#9;JAVA://java.lang.Character&#10;Array&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/ArrayList.java&#10;Threa&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/ThreadLocal.java&#10;LinkedHashMap&#9;PSI&#9;JAVA://java.util.LinkedHashMap&#10;ArrayDeque&#9;PSI&#9;JAVA://java.util.ArrayDeque&#10;ThreadLocal&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;S&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/ref/SoftReference.java&#10;SoftRe&#9;PSI&#9;JAVA://java.lang.ref.SoftReference&#10;Future&#9;PSI&#9;JAVA://java.util.concurrent.Future&#10;ArrayLi&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/ArrayList.java&#10;Inte&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/Integer.java&#10;Con&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+    <property name="SearchEverywhereHistoryKey" value="Object&#9;PSI&#9;JAVA://java.lang.Object&#10;Collections&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Collections.java&#10;StringBu&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/StringBuilder.java&#10;StringB&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/StringBuilder.java&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;LinkedList&#9;PSI&#9;JAVA://java.util.LinkedList&#10;Thread&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/Thread.java&#10;StringBuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;String&#9;PSI&#9;JAVA://java.lang.String&#10;Character&#9;PSI&#9;JAVA://java.lang.Character&#10;Collection&#9;PSI&#9;JAVA://java.util.Collection&#10;Random&#9;PSI&#9;JAVA://java.util.Random&#10;Proxy&#9;PSI&#9;JAVA://java.lang.reflect.Proxy&#10;Class&#9;PSI&#9;JAVA://java.lang.Class&#10;Semaphore&#9;PSI&#9;JAVA://java.util.concurrent.Semaphore&#10;Formatter&#9;PSI&#9;JAVA://java.util.Formatter&#10;Stack&#9;PSI&#9;JAVA://java.util.Stack&#10;Hash&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/HashMap.java&#10;Blocking&#9;PSI&#9;JAVA://JUC.blockingqueue.BlockingQueueDemo&#10;Arra&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Arrays.java&#10;Str&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/String.java&#10;Arrays&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Arrays.java&#10;PriorityQ&#9;PSI&#9;JAVA://java.util.PriorityQueue&#10;List&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/List.java&#10;in&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/Integer.java&#10;HashSet&#9;PSI&#9;JAVA://java.util.HashSet&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;Colle&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Collections.java&#10;Map&#9;PSI&#9;JAVA://java.util.Map&#10;System&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/System.java&#10;Priority&#9;PSI&#9;JAVA://java.util.PriorityQueue&#10;FutureT&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/concurrent/FutureTask.java&#10;Callable&#9;PSI&#9;JAVA://java.util.concurrent.Callable&#10;Runnablef&#9;PSI&#9;JAVA://java.util.concurrent.RunnableFuture&#10;FutureTask&#9;PSI&#9;JAVA://java.util.concurrent.FutureTask&#10;Math&#9;PSI&#9;JAVA://java.lang.Math&#10;BigInteger&#9;PSI&#9;JAVA://java.math.BigInteger&#10;Arr&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Arrays.java&#10;Excep&#9;PSI&#9;JAVA://java.lang.Exception&#10;Pair&#9;PSI&#9;JAVA://javafx.util.Pair&#10;character&#9;PSI&#9;JAVA://java.lang.Character&#10;Array&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/ArrayList.java&#10;Threa&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/ThreadLocal.java&#10;LinkedHashMap&#9;PSI&#9;JAVA://java.util.LinkedHashMap&#10;ArrayDeque&#9;PSI&#9;JAVA://java.util.ArrayDeque&#10;ThreadLocal&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;S&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/ref/SoftReference.java&#10;SoftRe&#9;PSI&#9;JAVA://java.lang.ref.SoftReference&#10;Future&#9;PSI&#9;JAVA://java.util.concurrent.Future" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -362,7 +323,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LongestIncrSubqueue">
+  <component name="RunManager" selected="Application.Solution129">
     <configuration name="两个字符串的最长公共子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -371,25 +332,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="公司笔面试真题.虾皮面试.两个字符串的最长公共子串" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="exercise2" />
-      <envs />
-    </configuration>
-    <configuration name="ErFen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="算法重写练习.排序.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="算法重写练习.排序.ErFen" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -458,6 +400,25 @@
       <module name="exercise2" />
       <envs />
     </configuration>
+    <configuration name="Solution129" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.树.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Leetcode.树.Solution129" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="exercise2" />
+      <envs />
+    </configuration>
     <configuration name="Solution85" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -493,19 +454,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ErFen" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Solution85" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="4" class="java.lang.String" itemvalue="Application.LCS" />
-      <item index="5" class="java.lang.String" itemvalue="Application.LongestIncrSubqueue" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Solution85" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="3" class="java.lang.String" itemvalue="Application.LCS" />
+      <item index="4" class="java.lang.String" itemvalue="Application.LongestIncrSubqueue" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Solution129" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.LongestIncrSubqueue" />
-        <item index="1" class="java.lang.String" itemvalue="Application.LCS" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Solution85" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ErFen" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Solution129" />
+        <item index="1" class="java.lang.String" itemvalue="Application.LongestIncrSubqueue" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LCS" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Solution85" />
       </list>
     </recent_temporary>
   </component>
@@ -889,14 +850,14 @@
       <workItem from="1599984810407" duration="5459000" />
       <workItem from="1600179371646" duration="7657000" />
       <workItem from="1600419870199" duration="9247000" />
-      <workItem from="1601106825213" duration="296000" />
-    </task>
-    <task id="LOCAL-00001" summary="2019.08.04">
-      <created>1564907845490</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1564907845490</updated>
+      <workItem from="1601106825213" duration="935000" />
+      <workItem from="1603091092323" duration="2758000" />
+      <workItem from="1603518623568" duration="1798000" />
+      <workItem from="1603960324521" duration="811000" />
+      <workItem from="1604036076122" duration="3003000" />
+      <workItem from="1604131876524" duration="1433000" />
+      <workItem from="1604208970743" duration="3121000" />
+      <workItem from="1604295577672" duration="1211000" />
     </task>
     <task id="LOCAL-00002" summary="2019.08.04">
       <created>1564908088084</created>
@@ -1234,11 +1195,18 @@
       <option name="project" value="LOCAL" />
       <updated>1600092035880</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="2020.9.26">
+      <created>1601126186035</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1601126186036</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1386477000" />
+    <option name="totallyTimeSpent" value="1401251000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1251,10 +1219,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23612623" sideWeight="0.16257995" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25353646" sideWeight="0.10181237" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Word Book" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1269,11 +1238,12 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.171926" sideWeight="0.8086354" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33623505" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.171926" sideWeight="0.83742005" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20895523" sideWeight="0.5" order="15" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2959739" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18550107" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12426667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18715996" sideWeight="0.49579242" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1284,7 +1254,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24810892" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Byte Code Viewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25353646" sideWeight="0.4978678" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25353646" sideWeight="0.89818764" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="jclasslib" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.64826024" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -1334,7 +1304,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2019.09.27" />
     <MESSAGE value="2019.10.10" />
     <MESSAGE value="2019.11.07" />
     <MESSAGE value="2019.11.27" />
@@ -1359,7 +1328,8 @@
     <MESSAGE value="2020.8.01" />
     <MESSAGE value="2020.9.08" />
     <MESSAGE value="2020.9.14" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.9.14" />
+    <MESSAGE value="2020.9.26" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.9.26" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1515,7 +1485,7 @@
           <option name="timeStamp" value="189" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="194" />
+      <option name="time" value="197" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -1545,55 +1515,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/左神算法/基础班/Sort/自己补充_链表排序/ListQuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/proxy/CglibProxy/ProxyFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JUC/美团笔试题/类似问题/Exercise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-227">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/reflect/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2640">
-          <caret line="169" column="12" lean-forward="false" selection-start-line="169" selection-start-column="12" selection-end-line="169" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="145" column="0" lean-forward="true" selection-start-line="145" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/公司笔面试真题/网易/二一/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="59" column="9" lean-forward="true" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JUC/美团笔试题/ProducerAndComsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="68" column="20" lean-forward="false" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Leetcode/Solution8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -1661,13 +1582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="78" column="2" lean-forward="false" selection-start-line="78" selection-start-column="2" selection-end-line="78" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5800">
-          <caret line="329" column="37" lean-forward="false" selection-start-line="329" selection-start-column="37" selection-end-line="329" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -1776,13 +1690,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="217" column="13" lean-forward="true" selection-start-line="217" selection-start-column="13" selection-end-line="217" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/左神算法/基础班/Sort/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
@@ -1816,10 +1723,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
           <caret line="2379" column="52" lean-forward="false" selection-start-line="2379" selection-start-column="52" selection-end-line="2379" selection-end-column="52" />
-          <folding>
-            <element signature="e#94598#94599#0" expanded="false" />
-            <element signature="e#94636#94637#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1838,14 +1741,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongestSubarraySolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Leetcode/子序列问题.java" />
     <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/WaterProblem.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1854,17 +1749,83 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/八数组子序列问题/LongestIncrSubqueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/公司笔面试真题/虾皮面试/两个字符串的最长公共子串.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/idea_leetcode/leetcode/editor/cn/[44]通配符匹配.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/idea_leetcode/leetcode/editor/cn/[23]合并K个升序链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-276">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/idea_leetcode/leetcode/editor/cn/[1]两数之和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/idea_leetcode/leetcode/editor/cn/[25]K 个一组翻转链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="41" column="8" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/树/Solution129.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongestSubarray2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5751">
+          <caret line="62" column="44" lean-forward="true" selection-start-line="62" selection-start-column="44" selection-end-line="62" selection-end-column="44" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gof/visitor/ObjectStructure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Leetcode/子序列问题/LCS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
+        <state relative-caret-position="0">
           <caret line="23" column="54" lean-forward="false" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
           <folding />
         </state>
@@ -1872,32 +1833,42 @@
     </entry>
     <entry file="jar://E:/jdk1.8/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7520">
-          <caret line="411" column="5" lean-forward="false" selection-start-line="411" selection-start-column="5" selection-end-line="411" selection-end-column="5" />
+        <state relative-caret-position="20">
+          <caret line="452" column="6" lean-forward="false" selection-start-line="452" selection-start-column="6" selection-end-line="452" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongSubarray3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="true" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongestSubarray2.java">
+    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/StringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="20">
+          <caret line="93" column="48" lean-forward="false" selection-start-line="93" selection-start-column="48" selection-end-line="93" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/八数组子序列问题/LongestIncrSubqueue.java">
+    <entry file="jar://E:/jdk1.8/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+        <state relative-caret-position="20">
+          <caret line="84" column="17" lean-forward="false" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongestSubarraySolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
           <folding />
         </state>
       </provider>
