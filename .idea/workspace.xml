@@ -4,10 +4,11 @@
     <bookmark url="jar://E:/jdk1.8/src.zip!/java/util/PriorityQueue.java" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6329ee68-ffa6-4618-9554-444eef268ab1" name="Default Changelist" comment="2020.9.26">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/树/Solution129.java" />
+    <list default="true" id="6329ee68-ffa6-4618-9554-444eef268ab1" name="Default Changelist" comment="2020.11.02">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/面试手撕代码/Num2Arab.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/面试手撕代码/StringPlus.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongSubarray3.java" afterPath="$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongSubarray3.java" />
+      <change beforePath="$PROJECT_DIR$/src/剑指offer牛客上没有的题目/GetDuplication.java" afterPath="$PROJECT_DIR$/src/剑指offer牛客上没有的题目/GetDuplication.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,41 +39,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LCS.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Leetcode/子序列问题/LCS.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="23" column="54" lean-forward="false" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
         <entry file="jar://E:/jdk1.8/src.zip!/java/util/ArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="452" column="6" lean-forward="false" selection-start-line="452" selection-start-column="6" selection-end-line="452" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongSubarray3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongSubarray3.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="24" lean-forward="true" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+              <caret line="469" column="54" lean-forward="false" selection-start-line="469" selection-start-column="54" selection-end-line="469" selection-end-column="54" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringBuilder.java" pinned="false" current-in-tab="false">
-        <entry file="jar://E:/jdk1.8/src.zip!/java/lang/StringBuilder.java">
+      <file leaf-file-name="StringPlus.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/面试手撕代码/StringPlus.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="93" column="48" lean-forward="false" selection-start-line="93" selection-start-column="48" selection-end-line="93" selection-end-column="48" />
+            <state relative-caret-position="200">
+              <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Object.java" pinned="false" current-in-tab="false">
+        <entry file="jar://E:/jdk1.8/src.zip!/java/lang/Object.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="110" column="43" lean-forward="false" selection-start-line="110" selection-start-column="43" selection-end-line="110" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cloneable.java" pinned="false" current-in-tab="false">
+        <entry file="jar://E:/jdk1.8/src.zip!/java/lang/Cloneable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="42" column="39" lean-forward="false" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -81,7 +82,7 @@
       <file leaf-file-name="Collections.java" pinned="false" current-in-tab="false">
         <entry file="jar://E:/jdk1.8/src.zip!/java/util/Collections.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
+            <state relative-caret-position="980">
               <caret line="84" column="17" lean-forward="false" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -90,11 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LongestSubarraySolution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LongestSubarraySolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongestSubarraySolution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+            <state relative-caret-position="380">
+              <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -132,9 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/公司笔试真题/猿辅导/二零_3/Solution3.java" />
-        <option value="$PROJECT_DIR$/src/公司笔试真题/猿辅导/二零_1/Solution3.java" />
-        <option value="$PROJECT_DIR$/src/公司笔试真题/猿辅导/二零_1/Solution2.java" />
         <option value="$PROJECT_DIR$/src/左神算法/基础班/Sort/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/公司笔试真题/猿辅导/二零_1/Solution1.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/子序列/Solution392.java" />
@@ -183,6 +181,9 @@
         <option value="$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongSubarray3.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/树/Solution129.java" />
         <option value="G:/idea_leetcode/leetcode/editor/cn/[1]两数之和.java" />
+        <option value="$PROJECT_DIR$/src/剑指offer牛客上没有的题目/GetDuplication.java" />
+        <option value="$PROJECT_DIR$/src/面试手撕代码/Num2Arab.java" />
+        <option value="$PROJECT_DIR$/src/面试手撕代码/StringPlus.java" />
       </list>
     </option>
   </component>
@@ -206,8 +207,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-22" />
-    <option name="y" value="262" />
+    <option name="x" value="-50" />
+    <option name="y" value="112" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -253,7 +254,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -269,13 +270,19 @@
             </path>
             <path>
               <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="面试手撕代码" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -289,8 +296,8 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15323994" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="leetcode.id" />
-    <property name="SearchEverywhereHistoryKey" value="Object&#9;PSI&#9;JAVA://java.lang.Object&#10;Collections&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Collections.java&#10;StringBu&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/StringBuilder.java&#10;StringB&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/StringBuilder.java&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;LinkedList&#9;PSI&#9;JAVA://java.util.LinkedList&#10;Thread&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/Thread.java&#10;StringBuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;String&#9;PSI&#9;JAVA://java.lang.String&#10;Character&#9;PSI&#9;JAVA://java.lang.Character&#10;Collection&#9;PSI&#9;JAVA://java.util.Collection&#10;Random&#9;PSI&#9;JAVA://java.util.Random&#10;Proxy&#9;PSI&#9;JAVA://java.lang.reflect.Proxy&#10;Class&#9;PSI&#9;JAVA://java.lang.Class&#10;Semaphore&#9;PSI&#9;JAVA://java.util.concurrent.Semaphore&#10;Formatter&#9;PSI&#9;JAVA://java.util.Formatter&#10;Stack&#9;PSI&#9;JAVA://java.util.Stack&#10;Hash&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/HashMap.java&#10;Blocking&#9;PSI&#9;JAVA://JUC.blockingqueue.BlockingQueueDemo&#10;Arra&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Arrays.java&#10;Str&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/String.java&#10;Arrays&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Arrays.java&#10;PriorityQ&#9;PSI&#9;JAVA://java.util.PriorityQueue&#10;List&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/List.java&#10;in&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/Integer.java&#10;HashSet&#9;PSI&#9;JAVA://java.util.HashSet&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;Colle&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Collections.java&#10;Map&#9;PSI&#9;JAVA://java.util.Map&#10;System&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/System.java&#10;Priority&#9;PSI&#9;JAVA://java.util.PriorityQueue&#10;FutureT&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/concurrent/FutureTask.java&#10;Callable&#9;PSI&#9;JAVA://java.util.concurrent.Callable&#10;Runnablef&#9;PSI&#9;JAVA://java.util.concurrent.RunnableFuture&#10;FutureTask&#9;PSI&#9;JAVA://java.util.concurrent.FutureTask&#10;Math&#9;PSI&#9;JAVA://java.lang.Math&#10;BigInteger&#9;PSI&#9;JAVA://java.math.BigInteger&#10;Arr&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Arrays.java&#10;Excep&#9;PSI&#9;JAVA://java.lang.Exception&#10;Pair&#9;PSI&#9;JAVA://javafx.util.Pair&#10;character&#9;PSI&#9;JAVA://java.lang.Character&#10;Array&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/ArrayList.java&#10;Threa&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/ThreadLocal.java&#10;LinkedHashMap&#9;PSI&#9;JAVA://java.util.LinkedHashMap&#10;ArrayDeque&#9;PSI&#9;JAVA://java.util.ArrayDeque&#10;ThreadLocal&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;S&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/ref/SoftReference.java&#10;SoftRe&#9;PSI&#9;JAVA://java.lang.ref.SoftReference&#10;Future&#9;PSI&#9;JAVA://java.util.concurrent.Future" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="SearchEverywhereHistoryKey" value="Cloneable&#9;PSI&#9;JAVA://java.lang.Cloneable&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;Objects&#9;PSI&#9;JAVA://java.util.Objects&#10;BufferedReader&#9;PSI&#9;JAVA://java.io.BufferedReader&#10;ArrayList&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/ArrayList.java&#10;String&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/String.java&#10;Collections&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Collections.java&#10;StringBu&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/StringBuilder.java&#10;StringB&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/StringBuilder.java&#10;LinkedList&#9;PSI&#9;JAVA://java.util.LinkedList&#10;Thread&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/Thread.java&#10;StringBuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;Character&#9;PSI&#9;JAVA://java.lang.Character&#10;Collection&#9;PSI&#9;JAVA://java.util.Collection&#10;Random&#9;PSI&#9;JAVA://java.util.Random&#10;Proxy&#9;PSI&#9;JAVA://java.lang.reflect.Proxy&#10;Class&#9;PSI&#9;JAVA://java.lang.Class&#10;Semaphore&#9;PSI&#9;JAVA://java.util.concurrent.Semaphore&#10;Formatter&#9;PSI&#9;JAVA://java.util.Formatter&#10;Stack&#9;PSI&#9;JAVA://java.util.Stack&#10;Hash&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/HashMap.java&#10;Blocking&#9;PSI&#9;JAVA://JUC.blockingqueue.BlockingQueueDemo&#10;Arra&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Arrays.java&#10;Str&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/String.java&#10;Arrays&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Arrays.java&#10;PriorityQ&#9;PSI&#9;JAVA://java.util.PriorityQueue&#10;List&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/List.java&#10;in&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/Integer.java&#10;HashSet&#9;PSI&#9;JAVA://java.util.HashSet&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;Colle&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Collections.java&#10;Map&#9;PSI&#9;JAVA://java.util.Map&#10;System&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/System.java&#10;Priority&#9;PSI&#9;JAVA://java.util.PriorityQueue&#10;FutureT&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/concurrent/FutureTask.java&#10;Callable&#9;PSI&#9;JAVA://java.util.concurrent.Callable&#10;Runnablef&#9;PSI&#9;JAVA://java.util.concurrent.RunnableFuture&#10;FutureTask&#9;PSI&#9;JAVA://java.util.concurrent.FutureTask&#10;Math&#9;PSI&#9;JAVA://java.lang.Math&#10;BigInteger&#9;PSI&#9;JAVA://java.math.BigInteger&#10;Arr&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Arrays.java&#10;Excep&#9;PSI&#9;JAVA://java.lang.Exception&#10;Pair&#9;PSI&#9;JAVA://javafx.util.Pair&#10;character&#9;PSI&#9;JAVA://java.lang.Character&#10;Array&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/ArrayList.java&#10;Threa&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/ThreadLocal.java&#10;LinkedHashMap&#9;PSI&#9;JAVA://java.util.LinkedHashMap&#10;ArrayDeque&#9;PSI&#9;JAVA://java.util.ArrayDeque&#10;ThreadLocal&#9;PSI&#9;JAVA://java.lang.ThreadLocal" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -323,7 +330,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution129">
+  <component name="RunManager" selected="Application.Num2Arab">
     <configuration name="两个字符串的最长公共子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -332,6 +339,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="公司笔面试真题.虾皮面试.两个字符串的最长公共子串" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="exercise2" />
+      <envs />
+    </configuration>
+    <configuration name="GetDuplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="剑指offer牛客上没有的题目.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="剑指offer牛客上没有的题目.GetDuplication" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -381,14 +407,14 @@
       <module name="exercise2" />
       <envs />
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Num2Arab" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="公司笔面试真题.*" />
+          <option name="PATTERN" value="面试手撕代码.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="公司笔面试真题.Main" />
+      <option name="MAIN_CLASS_NAME" value="面试手撕代码.Num2Arab" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -419,25 +445,6 @@
       <module name="exercise2" />
       <envs />
     </configuration>
-    <configuration name="Solution85" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Leetcode.数组.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Leetcode.数组.Solution85" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="exercise2" />
-      <envs />
-    </configuration>
     <configuration name="Unnamed" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -454,19 +461,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Solution85" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="3" class="java.lang.String" itemvalue="Application.LCS" />
-      <item index="4" class="java.lang.String" itemvalue="Application.LongestIncrSubqueue" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Solution129" />
+      <item index="1" class="java.lang.String" itemvalue="Application.LCS" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LongestIncrSubqueue" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Solution129" />
+      <item index="4" class="java.lang.String" itemvalue="Application.GetDuplication" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Num2Arab" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Solution129" />
-        <item index="1" class="java.lang.String" itemvalue="Application.LongestIncrSubqueue" />
-        <item index="2" class="java.lang.String" itemvalue="Application.LCS" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Solution85" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Num2Arab" />
+        <item index="1" class="java.lang.String" itemvalue="Application.GetDuplication" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Solution129" />
+        <item index="3" class="java.lang.String" itemvalue="Application.LongestIncrSubqueue" />
+        <item index="4" class="java.lang.String" itemvalue="Application.LCS" />
       </list>
     </recent_temporary>
   </component>
@@ -857,14 +864,12 @@
       <workItem from="1604036076122" duration="3003000" />
       <workItem from="1604131876524" duration="1433000" />
       <workItem from="1604208970743" duration="3121000" />
-      <workItem from="1604295577672" duration="1211000" />
-    </task>
-    <task id="LOCAL-00002" summary="2019.08.04">
-      <created>1564908088084</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1564908088084</updated>
+      <workItem from="1604295577672" duration="2312000" />
+      <workItem from="1604382850726" duration="2318000" />
+      <workItem from="1604488761474" duration="3769000" />
+      <workItem from="1604757946797" duration="50000" />
+      <workItem from="1604758519226" duration="471000" />
+      <workItem from="1605246041266" duration="7656000" />
     </task>
     <task id="LOCAL-00003" summary="2019.08.04">
       <created>1564908479744</created>
@@ -1202,11 +1207,18 @@
       <option name="project" value="LOCAL" />
       <updated>1601126186036</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="2020.11.02">
+      <created>1604305390401</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1604305390402</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1401251000" />
+    <option name="totallyTimeSpent" value="1416616000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1233,17 +1245,18 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4178455" sideWeight="0.8880484" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.437432" sideWeight="0.8880484" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25353646" sideWeight="0.89818764" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.171926" sideWeight="0.8086354" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33623505" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20895523" sideWeight="0.5" order="15" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3547334" sideWeight="0.8086354" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2959739" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19306667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12426667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18715996" sideWeight="0.49579242" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1254,7 +1267,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24810892" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Byte Code Viewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25353646" sideWeight="0.89818764" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="jclasslib" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.64826024" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -1304,7 +1316,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2019.10.10" />
     <MESSAGE value="2019.11.07" />
     <MESSAGE value="2019.11.27" />
     <MESSAGE value="2019.12.20" />
@@ -1329,7 +1340,8 @@
     <MESSAGE value="2020.9.08" />
     <MESSAGE value="2020.9.14" />
     <MESSAGE value="2020.9.26" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.9.26" />
+    <MESSAGE value="2020.11.02" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.11.02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1485,7 +1497,7 @@
           <option name="timeStamp" value="189" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="197" />
+      <option name="time" value="202" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -1501,6 +1513,11 @@
   <component name="debuggerHistoryManager">
     <expressions id="breakpointCondition">
       <expression>
+        <expression-string>i==2</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>i==3</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -1515,69 +1532,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Solution8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="84" column="22" lean-forward="false" selection-start-line="84" selection-start-column="22" selection-end-line="84" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="5643" column="10" lean-forward="true" selection-start-line="5643" selection-start-column="10" selection-end-line="5643" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/ThreadLocal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="91" column="24" lean-forward="false" selection-start-line="91" selection-start-column="24" selection-end-line="91" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="604" column="7" lean-forward="false" selection-start-line="604" selection-start-column="7" selection-end-line="604" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="74" column="24" lean-forward="false" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/CharSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="61" column="74" lean-forward="false" selection-start-line="61" selection-start-column="74" selection-end-line="61" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="945" column="54" lean-forward="true" selection-start-line="945" selection-start-column="54" selection-end-line="945" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/左神算法/基础班/树/PreInPostTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="65" column="31" lean-forward="false" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/Singleton/SingletonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/jdk1.8/src.zip!/java/util/concurrent/locks/Condition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1719,13 +1673,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="2379" column="52" lean-forward="false" selection-start-line="2379" selection-start-column="52" selection-end-line="2379" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/公司笔面试真题/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/Leetcode/数组/Solution57.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1805,59 +1752,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5751">
-          <caret line="62" column="44" lean-forward="true" selection-start-line="62" selection-start-column="44" selection-end-line="62" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Gof/visitor/ObjectStructure.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Leetcode/子序列问题/LCS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="460">
           <caret line="23" column="54" lean-forward="false" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="452" column="6" lean-forward="false" selection-start-line="452" selection-start-column="6" selection-end-line="452" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongSubarray3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="24" lean-forward="true" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="93" column="48" lean-forward="false" selection-start-line="93" selection-start-column="48" selection-end-line="93" selection-end-column="48" />
-          <folding />
+          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="jar://E:/jdk1.8/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
+        <state relative-caret-position="980">
           <caret line="84" column="17" lean-forward="false" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1867,8 +1785,113 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/左神算法/高频面试题/数组问题/LongestSubarraySolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        <state relative-caret-position="380">
+          <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/io/Closeable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="47" column="31" lean-forward="true" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/AutoCloseable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="57" column="66" lean-forward="false" selection-start-line="57" selection-start-column="66" selection-end-line="57" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/io/Reader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <caret line="123" column="25" lean-forward="true" selection-start-line="123" selection-start-column="25" selection-end-line="124" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="69" column="40" lean-forward="false" selection-start-line="69" selection-start-column="40" selection-end-line="69" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="107" column="51" lean-forward="true" selection-start-line="107" selection-start-column="51" selection-end-line="107" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/Cloneable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="42" column="39" lean-forward="false" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/剑指offer牛客上没有的题目/GetDuplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="29" column="24" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/面试手撕代码/Num2Arab.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="110" column="43" lean-forward="false" selection-start-line="110" selection-start-column="43" selection-end-line="110" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="84" column="46" lean-forward="false" selection-start-line="84" selection-start-column="46" selection-end-line="84" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1940">
+          <caret line="1501" column="15" lean-forward="false" selection-start-line="1501" selection-start-column="15" selection-end-line="1501" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#58481#58482#0" expanded="true" />
+            <element signature="e#58518#58519#0" expanded="true" />
+            <element signature="e#120889#120890#0" expanded="true" />
+            <element signature="e#120932#120933#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="469" column="54" lean-forward="false" selection-start-line="469" selection-start-column="54" selection-end-line="469" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/面试手撕代码/StringPlus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
           <folding />
         </state>
       </provider>
