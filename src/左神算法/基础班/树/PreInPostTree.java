@@ -54,7 +54,7 @@ public class PreInPostTree {      //非递归的方式实现树的前序，中�
         System.out.println();
     }
 
-    public static void  posOrderRecur(Node head) {
+    public static void posOrderRecur(Node head) {
         System.out.print("pos-order: ");
         if (head != null) {
             Stack<Node> s1 = new Stack<Node>();
