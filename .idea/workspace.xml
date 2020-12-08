@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/回溯剪枝/Solution842.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/数组/Solution452.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/Solution42.java" afterPath="$PROJECT_DIR$/src/Leetcode/Solution42.java" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/数组/Solution56.java" afterPath="$PROJECT_DIR$/src/Leetcode/数组/Solution56.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,8 +47,8 @@
       <file leaf-file-name="Class.java" pinned="false" current-in-tab="true">
         <entry file="jar://E:/jdk1.8/src.zip!/java/lang/Class.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="829">
-              <caret line="455" column="35" lean-forward="false" selection-start-line="455" selection-start-column="35" selection-end-line="455" selection-end-column="35" />
+            <state relative-caret-position="269">
+              <caret line="424" column="47" lean-forward="true" selection-start-line="424" selection-start-column="47" selection-end-line="424" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -131,6 +127,13 @@
               <item name="exercise2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="回溯剪枝" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
@@ -361,12 +364,20 @@
       <workItem from="1606710571096" duration="3359000" />
       <workItem from="1607156439823" duration="1992000" />
       <workItem from="1607165640846" duration="142000" />
-      <workItem from="1607400091653" duration="1044000" />
+      <workItem from="1607400091653" duration="1776000" />
     </task>
+    <task id="LOCAL-00001" summary="2020.12.08">
+      <created>1607401717380</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607401717380</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18952000" />
+    <option name="totallyTimeSpent" value="19684000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -415,6 +426,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2020.12.08" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.12.08" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -456,7 +471,7 @@
         <state relative-caret-position="760">
           <caret line="40" column="61" lean-forward="false" selection-start-line="40" selection-start-column="61" selection-end-line="40" selection-end-column="61" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -506,7 +521,7 @@
         <state relative-caret-position="800">
           <caret line="40" column="61" lean-forward="true" selection-start-line="40" selection-start-column="61" selection-end-line="40" selection-end-column="61" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -782,7 +797,7 @@
         <state relative-caret-position="760">
           <caret line="40" column="61" lean-forward="false" selection-start-line="40" selection-start-column="61" selection-end-line="40" selection-end-column="61" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -794,16 +809,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/回溯剪枝/Solution842.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9">
-          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/jdk1.8/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
@@ -812,10 +817,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/回溯剪枝/Solution842.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://E:/jdk1.8/src.zip!/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="829">
-          <caret line="455" column="35" lean-forward="false" selection-start-line="455" selection-start-column="35" selection-end-line="455" selection-end-column="35" />
+        <state relative-caret-position="269">
+          <caret line="424" column="47" lean-forward="true" selection-start-line="424" selection-start-column="47" selection-end-line="424" selection-end-column="47" />
           <folding />
         </state>
       </provider>
