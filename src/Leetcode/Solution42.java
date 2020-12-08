@@ -1,5 +1,7 @@
 package Leetcode;
 
+import java.util.HashMap;
+import java.util.List;
 import java.util.Stack;
 
 /**
@@ -43,11 +45,16 @@ public class Solution42 {
             }
             stack.push(i);
         }
+
         return count;
+
     }
 
     public static void main(String[] args) {
         int [] height={0,1,0,2,1,0,1,3,2,1,2,1};
         System.out.println(trap(height));
     }
+
+
+
 }
