@@ -1,552 +1,1263 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Solution290.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Solution738.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/字符串/Solution649.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/Gof/proxy/dynamicProxy/ProxyFactory.java" afterPath="$PROJECT_DIR$/src/Gof/proxy/dynamicProxy/ProxyFactory.java" />
+    <list default="true" id="6329ee68-ffa6-4618-9554-444eef268ab1" name="Default Changelist" comment="2020.9.26">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/字符串/Solution131.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/数组/Solution937.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/公司笔面试真题/微软/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/后端进阶小专栏/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/左神算法/基础班/树/PreInPostTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/左神算法/基础班/树/PreInPostTree.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
-        <entry file="jar://E:/jdk1.8/src.zip!/java/util/ArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7000">
-              <caret line="385" column="6" lean-forward="false" selection-start-line="385" selection-start-column="6" selection-end-line="385" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="List.java" pinned="false" current-in-tab="false">
-        <entry file="jar://E:/jdk1.8/src.zip!/java/util/List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13960">
-              <caret line="721" column="6" lean-forward="false" selection-start-line="721" selection-start-column="6" selection-end-line="721" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Class.java" pinned="false" current-in-tab="false">
-        <entry file="jar://E:/jdk1.8/src.zip!/java/lang/Class.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6120">
-              <caret line="373" column="23" lean-forward="false" selection-start-line="373" selection-start-column="23" selection-end-line="373" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution649.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Leetcode/字符串/Solution649.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2400">
-              <caret line="121" column="15" lean-forward="false" selection-start-line="121" selection-start-column="15" selection-end-line="121" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ITeacherDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Gof/proxy/dynamicProxy/ITeacherDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution290.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Leetcode/Solution290.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="830">
-              <caret line="104" column="47" lean-forward="false" selection-start-line="104" selection-start-column="47" selection-end-line="104" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution738.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Leetcode/Solution738.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1600">
-              <caret line="80" column="27" lean-forward="false" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
-              <folding>
-                <element signature="e#2128#2129#0" expanded="true" />
-                <element signature="e#2193#2194#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TeacherDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Gof/proxy/dynamicProxy/TeacherDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>find</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\Idea_work\exercise2\src\datastructure</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.5.3" />
+      </MavenGeneralSettings>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/公司笔面试真题/微软/Solution1.java" />
-        <option value="$PROJECT_DIR$/src/Leetcode/数组/Solution452.java" />
-        <option value="$PROJECT_DIR$/src/Leetcode/数组/Solution56.java" />
-        <option value="$PROJECT_DIR$/src/Leetcode/Solution42.java" />
-        <option value="$PROJECT_DIR$/src/Leetcode/Solution842.java" />
-        <option value="$PROJECT_DIR$/src/Leetcode/回溯剪枝/Solution842.java" />
-        <option value="$PROJECT_DIR$/src/Leetcode/字符串/Solution649.java" />
-        <option value="$PROJECT_DIR$/src/Leetcode/Solution738.java" />
-        <option value="$PROJECT_DIR$/src/Gof/proxy/dynamicProxy/ProxyFactory.java" />
-        <option value="$PROJECT_DIR$/src/Leetcode/Solution290.java" />
-      </list>
-    </option>
+  <component name="ProjectId" id="1QzYCGezi90M02XnOTM56XT7sP2" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Duplicates</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
-  </component>
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="AndroidView" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Gof" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="左神算法" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-    </panes>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="Object&#9;PSI&#9;JAVA://java.lang.Object&#10;Collections&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Collections.java&#10;StringBu&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/StringBuilder.java&#10;StringB&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/StringBuilder.java&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;LinkedList&#9;PSI&#9;JAVA://java.util.LinkedList&#10;Thread&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/Thread.java&#10;StringBuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;String&#9;PSI&#9;JAVA://java.lang.String&#10;Character&#9;PSI&#9;JAVA://java.lang.Character&#10;Collection&#9;PSI&#9;JAVA://java.util.Collection&#10;Random&#9;PSI&#9;JAVA://java.util.Random&#10;Proxy&#9;PSI&#9;JAVA://java.lang.reflect.Proxy&#10;Class&#9;PSI&#9;JAVA://java.lang.Class&#10;Semaphore&#9;PSI&#9;JAVA://java.util.concurrent.Semaphore&#10;Formatter&#9;PSI&#9;JAVA://java.util.Formatter&#10;Stack&#9;PSI&#9;JAVA://java.util.Stack&#10;Hash&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/HashMap.java&#10;Blocking&#9;PSI&#9;JAVA://JUC.blockingqueue.BlockingQueueDemo&#10;Arra&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Arrays.java&#10;Str&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/String.java&#10;Arrays&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Arrays.java&#10;PriorityQ&#9;PSI&#9;JAVA://java.util.PriorityQueue&#10;List&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/List.java&#10;in&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/Integer.java&#10;HashSet&#9;PSI&#9;JAVA://java.util.HashSet&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;Colle&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Collections.java&#10;Map&#9;PSI&#9;JAVA://java.util.Map&#10;System&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/System.java&#10;Priority&#9;PSI&#9;JAVA://java.util.PriorityQueue&#10;FutureT&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/concurrent/FutureTask.java&#10;Callable&#9;PSI&#9;JAVA://java.util.concurrent.Callable&#10;Runnablef&#9;PSI&#9;JAVA://java.util.concurrent.RunnableFuture&#10;FutureTask&#9;PSI&#9;JAVA://java.util.concurrent.FutureTask&#10;Math&#9;PSI&#9;JAVA://java.lang.Math&#10;BigInteger&#9;PSI&#9;JAVA://java.math.BigInteger&#10;Arr&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Arrays.java&#10;Excep&#9;PSI&#9;JAVA://java.lang.Exception&#10;Pair&#9;PSI&#9;JAVA://javafx.util.Pair&#10;character&#9;PSI&#9;JAVA://java.lang.Character&#10;Array&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/ArrayList.java&#10;Threa&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/ThreadLocal.java&#10;LinkedHashMap&#9;PSI&#9;JAVA://java.util.LinkedHashMap&#10;ArrayDeque&#9;PSI&#9;JAVA://java.util.ArrayDeque&#10;ThreadLocal&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;S&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/ref/SoftReference.java&#10;SoftRe&#9;PSI&#9;JAVA://java.lang.ref.SoftReference&#10;Future&#9;PSI&#9;JAVA://java.util.concurrent.Future" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="Map&#9;PSI&#9;JAVA://java.util.Map&#10;URL&#9;PSI&#9;JAVA://java.net.URL&#10;Thread&#9;PSI&#9;JAVA://JUC.Demo.ThreadDemo&#10;Class&#9;PSI&#9;JAVA://java.lang.Class&#10;List&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/List.java&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="Debugger_Data_Views_Java" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15323994" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Idea_work\exercise2\src" />
+      <recent name="G:\Idea_work\exercise2\src\ZUOSHEN\进阶班" />
+      <recent name="E:\Idea_work\exercise2\src\lib" />
+      <recent name="E:\Idea_work\exercise2\src" />
+      <recent name="E:\Idea_work\exercise2\lib" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ZUOSHEN.进阶班.动态规划与递归" />
+      <recent name="ZUOSHEN.高频面试题.动态规划与递归" />
+      <recent name="ZUOSHEN.进阶班.树相关" />
+      <recent name="ZUOSHEN.高频面试题.五" />
+      <recent name="ZUOSHEN.进阶班.树相关.高度套路题树形dp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Idea_work\exercise2\src" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Solution290">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
-    </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+  <component name="RunManager" selected="Application.Solution1">
+    <configuration name="LCS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.子序列问题.LCS" />
+      <module name="exercise2" />
+      <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Gof.proxy.dynamicProxy.*" />
+          <option name="PATTERN" value="Leetcode.子序列问题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Gof.proxy.dynamicProxy.Client" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="exercise2" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="Solution290" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+    <configuration name="LongestIncrSubqueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="左神算法.高频面试题.八数组子序列问题.LongestIncrSubqueue" />
+      <module name="exercise2" />
+      <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.*" />
+          <option name="PATTERN" value="左神算法.高频面试题.八数组子序列问题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Solution290" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="exercise2" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="Solution649" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="公司笔面试真题.Main" />
+      <module name="exercise2" />
+      <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.字符串.*" />
+          <option name="PATTERN" value="公司笔面试真题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Leetcode.字符串.Solution649" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="exercise2" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="Solution738" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="公司笔面试真题.微软.Solution1" />
+      <module name="exercise2" />
+      <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.*" />
+          <option name="PATTERN" value="公司笔面试真题.微软.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Solution738" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="exercise2" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="Solution842" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+    <configuration name="Solution129" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.树.Solution129" />
+      <module name="exercise2" />
+      <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.回溯剪枝.*" />
+          <option name="PATTERN" value="Leetcode.树.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Leetcode.回溯剪枝.Solution842" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application">
       <module name="exercise2" />
-      <envs />
+      <option name="VM_PARAMETERS" value="-Dcar.type=energy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Solution842" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Solution649" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Solution738" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Client" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Solution290" />
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.LCS" />
+      <item itemvalue="Application.LongestIncrSubqueue" />
+      <item itemvalue="Application.Solution129" />
+      <item itemvalue="Application.Solution1" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Solution290" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Client" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Solution738" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Solution649" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Solution842" />
+      <list>
+        <item itemvalue="Application.Solution1" />
+        <item itemvalue="Application.Solution129" />
+        <item itemvalue="Application.LongestIncrSubqueue" />
+        <item itemvalue="Application.LCS" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="" />
-      <created>1606035842856</created>
+      <changelist id="6329ee68-ffa6-4618-9554-444eef268ab1" name="Default Changelist" comment="" />
+      <created>1560304125217</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1606035842856</updated>
-      <workItem from="1606035844059" duration="8988000" />
-      <workItem from="1606296209940" duration="640000" />
-      <workItem from="1606481621760" duration="2787000" />
-      <workItem from="1606710571096" duration="3359000" />
-      <workItem from="1607156439823" duration="1992000" />
-      <workItem from="1607165640846" duration="142000" />
-      <workItem from="1607400091653" duration="4348000" />
-      <workItem from="1607685001038" duration="1896000" />
-      <workItem from="1607847497392" duration="806000" />
-      <workItem from="1608006295336" duration="1254000" />
-      <workItem from="1608037005234" duration="313000" />
-      <workItem from="1608100944886" duration="1400000" />
-      <workItem from="1608465566133" duration="3000" />
+      <updated>1560304125217</updated>
+      <workItem from="1560304130289" duration="6534000" />
+      <workItem from="1560400468471" duration="5669000" />
+      <workItem from="1560596339197" duration="1767000" />
+      <workItem from="1560662515069" duration="341000" />
+      <workItem from="1560676017717" duration="1147000" />
+      <workItem from="1560734730622" duration="14000" />
+      <workItem from="1560863254842" duration="957000" />
+      <workItem from="1560910352064" duration="6577000" />
+      <workItem from="1560919306630" duration="60000" />
+      <workItem from="1561114302448" duration="6027000" />
+      <workItem from="1561167788902" duration="21000" />
+      <workItem from="1561276747577" duration="2064000" />
+      <workItem from="1561298835837" duration="1242000" />
+      <workItem from="1561341458443" duration="6454000" />
+      <workItem from="1561376241604" duration="5264000" />
+      <workItem from="1561598806260" duration="1327000" />
+      <workItem from="1561621884677" duration="1344000" />
+      <workItem from="1562070453440" duration="1803000" />
+      <workItem from="1562807245068" duration="850000" />
+      <workItem from="1562833745219" duration="598000" />
+      <workItem from="1563328436502" duration="663000" />
+      <workItem from="1563512380341" duration="7028000" />
+      <workItem from="1563588725122" duration="116000" />
+      <workItem from="1563673020563" duration="1680000" />
+      <workItem from="1563759060781" duration="2925000" />
+      <workItem from="1563845614105" duration="1526000" />
+      <workItem from="1563865746897" duration="251000" />
+      <workItem from="1563932231645" duration="3831000" />
+      <workItem from="1563936698071" duration="17000" />
+      <workItem from="1563946126346" duration="4060000" />
+      <workItem from="1564017313107" duration="4915000" />
+      <workItem from="1564042025571" duration="1836000" />
+      <workItem from="1564045757035" duration="1448000" />
+      <workItem from="1564103891243" duration="3741000" />
+      <workItem from="1564190742402" duration="4469000" />
+      <workItem from="1564212826162" duration="7968000" />
+      <workItem from="1564278701133" duration="4824000" />
+      <workItem from="1564363272032" duration="7337000" />
+      <workItem from="1564450543080" duration="9235000" />
+      <workItem from="1564537473434" duration="4372000" />
+      <workItem from="1564545452201" duration="598000" />
+      <workItem from="1564627405925" duration="1854000" />
+      <workItem from="1564714702215" duration="4634000" />
+      <workItem from="1564797516482" duration="7810000" />
+      <workItem from="1564818369140" duration="529000" />
+      <workItem from="1564885068528" duration="2189000" />
+      <workItem from="1564907237628" duration="2509000" />
+      <workItem from="1565057620356" duration="4043000" />
+      <workItem from="1565076064738" duration="1759000" />
+      <workItem from="1565084314857" duration="750000" />
+      <workItem from="1565092367571" duration="21000" />
+      <workItem from="1565135590284" duration="2010000" />
+      <workItem from="1565149272422" duration="61000" />
+      <workItem from="1565235134322" duration="3654000" />
+      <workItem from="1565514993475" duration="5674000" />
+      <workItem from="1565574007262" duration="1668000" />
+      <workItem from="1566281729211" duration="2963000" />
+      <workItem from="1566310131413" duration="182000" />
+      <workItem from="1566702370552" duration="918000" />
+      <workItem from="1566877131184" duration="169000" />
+      <workItem from="1567341000072" duration="2958000" />
+      <workItem from="1567394642090" duration="2657000" />
+      <workItem from="1567564570062" duration="1664000" />
+      <workItem from="1567573342612" duration="46000" />
+      <workItem from="1567574180150" duration="625000" />
+      <workItem from="1567579323261" duration="877000" />
+      <workItem from="1567606328336" duration="1582000" />
+      <workItem from="1567646794580" duration="11233000" />
+      <workItem from="1567669969507" duration="1896000" />
+      <workItem from="1567681178985" duration="14000" />
+      <workItem from="1567747612487" duration="767000" />
+      <workItem from="1567761176057" duration="48000" />
+      <workItem from="1567761245771" duration="6133000" />
+      <workItem from="1567822890910" duration="603000" />
+      <workItem from="1567859438963" duration="263000" />
+      <workItem from="1567866193750" duration="1070000" />
+      <workItem from="1567908091653" duration="4189000" />
+      <workItem from="1567914951336" duration="2623000" />
+      <workItem from="1567918494475" duration="1088000" />
+      <workItem from="1567993079774" duration="7614000" />
+      <workItem from="1568008280330" duration="20000" />
+      <workItem from="1568008759393" duration="3268000" />
+      <workItem from="1568167036216" duration="9419000" />
+      <workItem from="1568204359743" duration="34000" />
+      <workItem from="1568291542138" duration="904000" />
+      <workItem from="1568341915689" duration="3787000" />
+      <workItem from="1568426271409" duration="4190000" />
+      <workItem from="1568525875807" duration="1570000" />
+      <workItem from="1568599678572" duration="3455000" />
+      <workItem from="1568620017081" duration="13000" />
+      <workItem from="1568774764417" duration="1802000" />
+      <workItem from="1568869099843" duration="2997000" />
+      <workItem from="1569030789380" duration="4698000" />
+      <workItem from="1569035562110" duration="42000" />
+      <workItem from="1569117892191" duration="3371000" />
+      <workItem from="1569128214820" duration="1642000" />
+      <workItem from="1569203944022" duration="4929000" />
+      <workItem from="1569216193850" duration="4045000" />
+      <workItem from="1569227422557" duration="1464000" />
+      <workItem from="1569289345778" duration="3576000" />
+      <workItem from="1569323459669" duration="79000" />
+      <workItem from="1569377009615" duration="3663000" />
+      <workItem from="1569387165555" duration="129000" />
+      <workItem from="1569461273775" duration="2968000" />
+      <workItem from="1569549243676" duration="4110000" />
+      <workItem from="1569564617057" duration="107000" />
+      <workItem from="1569564758082" duration="34000" />
+      <workItem from="1569593519246" duration="139000" />
+      <workItem from="1569650561728" duration="1595000" />
+      <workItem from="1569720652809" duration="8438000" />
+      <workItem from="1569754365307" duration="3089000" />
+      <workItem from="1569819840079" duration="3150000" />
+      <workItem from="1569853594822" duration="376000" />
+      <workItem from="1570271112848" duration="1411000" />
+      <workItem from="1570413107398" duration="669000" />
+      <workItem from="1570414583004" duration="5985000" />
+      <workItem from="1570512593158" duration="1704000" />
+      <workItem from="1570545641719" duration="71000" />
+      <workItem from="1570682298614" duration="2883000" />
+      <workItem from="1570693254413" duration="8131000" />
+      <workItem from="1570848386064" duration="568000" />
+      <workItem from="1570850364916" duration="1278000" />
+      <workItem from="1570859777113" duration="228000" />
+      <workItem from="1570861321323" duration="1638000" />
+      <workItem from="1570934944594" duration="4628000" />
+      <workItem from="1571041995808" duration="1619000" />
+      <workItem from="1571103851411" duration="8061000" />
+      <workItem from="1571126995052" duration="376000" />
+      <workItem from="1571190807375" duration="262000" />
+      <workItem from="1571191094225" duration="143000" />
+      <workItem from="1571191258944" duration="113000" />
+      <workItem from="1571192107232" duration="5717000" />
+      <workItem from="1571310807336" duration="31000" />
+      <workItem from="1571380692866" duration="7076000" />
+      <workItem from="1571449799714" duration="1005000" />
+      <workItem from="1571450836631" duration="10237000" />
+      <workItem from="1571466778867" duration="23000" />
+      <workItem from="1571495416058" duration="475000" />
+      <workItem from="1571556256977" duration="3367000" />
+      <workItem from="1571636736105" duration="1545000" />
+      <workItem from="1571712576411" duration="6967000" />
+      <workItem from="1572068239090" duration="665000" />
+      <workItem from="1572177818588" duration="6295000" />
+      <workItem from="1572229681994" duration="846000" />
+      <workItem from="1572232508981" duration="5703000" />
+      <workItem from="1572399305107" duration="6789000" />
+      <workItem from="1572415442747" duration="2280000" />
+      <workItem from="1572423306206" duration="1066000" />
+      <workItem from="1572485036357" duration="11107000" />
+      <workItem from="1572509364867" duration="17000" />
+      <workItem from="1572578496061" duration="5434000" />
+      <workItem from="1572597357293" duration="611000" />
+      <workItem from="1572659750810" duration="5062000" />
+      <workItem from="1572760622254" duration="727000" />
+      <workItem from="1572762921282" duration="697000" />
+      <workItem from="1572836307906" duration="1865000" />
+      <workItem from="1572919329413" duration="1500000" />
+      <workItem from="1572928623364" duration="1308000" />
+      <workItem from="1573004393414" duration="7078000" />
+      <workItem from="1573095829613" duration="3202000" />
+      <workItem from="1573275041353" duration="885000" />
+      <workItem from="1573283059442" duration="594000" />
+      <workItem from="1573365506251" duration="7386000" />
+      <workItem from="1573448545557" duration="1720000" />
+      <workItem from="1573527101746" duration="1448000" />
+      <workItem from="1573711572243" duration="1618000" />
+      <workItem from="1573713762126" duration="12000" />
+      <workItem from="1574244906337" duration="2513000" />
+      <workItem from="1574318740471" duration="5135000" />
+      <workItem from="1574389228746" duration="2588000" />
+      <workItem from="1574418822836" duration="1040000" />
+      <workItem from="1574420526838" duration="3432000" />
+      <workItem from="1574482694672" duration="4676000" />
+      <workItem from="1574585314777" duration="5776000" />
+      <workItem from="1574658425493" duration="732000" />
+      <workItem from="1574689289847" duration="3371000" />
+      <workItem from="1574750009854" duration="2921000" />
+      <workItem from="1574829446917" duration="3291000" />
+      <workItem from="1574915130837" duration="9886000" />
+      <workItem from="1574995972687" duration="7103000" />
+      <workItem from="1575036148541" duration="2190000" />
+      <workItem from="1575078495671" duration="5324000" />
+      <workItem from="1575118751367" duration="334000" />
+      <workItem from="1575169795443" duration="6389000" />
+      <workItem from="1575261994727" duration="21000" />
+      <workItem from="1575436792787" duration="3610000" />
+      <workItem from="1575512363561" duration="3313000" />
+      <workItem from="1575521343382" duration="2291000" />
+      <workItem from="1575599745497" duration="2400000" />
+      <workItem from="1575894610124" duration="150000" />
+      <workItem from="1575894779678" duration="10000" />
+      <workItem from="1575894906424" duration="616000" />
+      <workItem from="1575900539905" duration="1242000" />
+      <workItem from="1575977496334" duration="1702000" />
+      <workItem from="1576062955062" duration="3800000" />
+      <workItem from="1576148882661" duration="2819000" />
+      <workItem from="1576293760297" duration="3149000" />
+      <workItem from="1576473618439" duration="2211000" />
+      <workItem from="1576475878853" duration="10000" />
+      <workItem from="1576550293085" duration="6064000" />
+      <workItem from="1576642339054" duration="1402000" />
+      <workItem from="1576667894757" duration="1809000" />
+      <workItem from="1576722574249" duration="7445000" />
+      <workItem from="1576819654350" duration="8192000" />
+      <workItem from="1576894390244" duration="3782000" />
+      <workItem from="1576908978862" duration="2618000" />
+      <workItem from="1576935733157" duration="2376000" />
+      <workItem from="1576981102859" duration="11227000" />
+      <workItem from="1577067458793" duration="6043000" />
+      <workItem from="1577152255554" duration="6099000" />
+      <workItem from="1577169648496" duration="27000" />
+      <workItem from="1577241400931" duration="5512000" />
+      <workItem from="1577256266873" duration="235000" />
+      <workItem from="1577256521825" duration="166000" />
+      <workItem from="1577256709400" duration="164000" />
+      <workItem from="1577256894216" duration="254000" />
+      <workItem from="1577257175150" duration="1270000" />
+      <workItem from="1577329330042" duration="323000" />
+      <workItem from="1577329674780" duration="52000" />
+      <workItem from="1577329749022" duration="222000" />
+      <workItem from="1577329991448" duration="176000" />
+      <workItem from="1577330188571" duration="143000" />
+      <workItem from="1577330351199" duration="12850000" />
+      <workItem from="1577359211755" duration="13000" />
+      <workItem from="1577412533829" duration="11568000" />
+      <workItem from="1577499224088" duration="6550000" />
+      <workItem from="1577584597785" duration="10059000" />
+      <workItem from="1577627606014" duration="33000" />
+      <workItem from="1577671165012" duration="11339000" />
+      <workItem from="1577758198833" duration="10877000" />
+      <workItem from="1577844821628" duration="8852000" />
+      <workItem from="1577864879991" duration="100000" />
+      <workItem from="1577930943539" duration="7541000" />
+      <workItem from="1577961375551" duration="45000" />
+      <workItem from="1578016581660" duration="10067000" />
+      <workItem from="1578060685411" duration="2106000" />
+      <workItem from="1578102771108" duration="10184000" />
+      <workItem from="1578190373612" duration="3086000" />
+      <workItem from="1578193523133" duration="6058000" />
+      <workItem from="1578232630599" duration="2127000" />
+      <workItem from="1578276634271" duration="12556000" />
+      <workItem from="1578362505927" duration="8661000" />
+      <workItem from="1578449476420" duration="10763000" />
+      <workItem from="1578535098764" duration="11193000" />
+      <workItem from="1578579442673" duration="10020000" />
+      <workItem from="1578632222771" duration="3765000" />
+      <workItem from="1578636174859" duration="1151000" />
+      <workItem from="1578644799145" duration="4800000" />
+      <workItem from="1578799364546" duration="26944000" />
+      <workItem from="1579142647230" duration="11153000" />
+      <workItem from="1579228670979" duration="10427000" />
+      <workItem from="1579518471447" duration="3428000" />
+      <workItem from="1579598919428" duration="8215000" />
+      <workItem from="1579610284131" duration="778000" />
+      <workItem from="1579782724851" duration="955000" />
+      <workItem from="1579832067509" duration="3157000" />
+      <workItem from="1580089555697" duration="5207000" />
+      <workItem from="1580098283198" duration="2518000" />
+      <workItem from="1580201483025" duration="7206000" />
+      <workItem from="1580369300961" duration="1871000" />
+      <workItem from="1580890820595" duration="3723000" />
+      <workItem from="1580981222466" duration="3012000" />
+      <workItem from="1581065764121" duration="15747000" />
+      <workItem from="1581232230610" duration="8584000" />
+      <workItem from="1581320381021" duration="8039000" />
+      <workItem from="1581410615146" duration="5211000" />
+      <workItem from="1581471771465" duration="320000" />
+      <workItem from="1581472101221" duration="1871000" />
+      <workItem from="1581498246798" duration="602000" />
+      <workItem from="1581567719421" duration="8299000" />
+      <workItem from="1581663421514" duration="5148000" />
+      <workItem from="1581729436018" duration="2671000" />
+      <workItem from="1581762998700" duration="2873000" />
+      <workItem from="1581845516976" duration="6602000" />
+      <workItem from="1581923955740" duration="13478000" />
+      <workItem from="1582018682862" duration="7689000" />
+      <workItem from="1582092069014" duration="15593000" />
+      <workItem from="1582117721780" duration="8000" />
+      <workItem from="1582184060146" duration="7343000" />
+      <workItem from="1582201167403" duration="25000" />
+      <workItem from="1582273360832" duration="8941000" />
+      <workItem from="1582358419441" duration="6143000" />
+      <workItem from="1582440775204" duration="3058000" />
+      <workItem from="1582531323558" duration="3449000" />
+      <workItem from="1582617093939" duration="5617000" />
+      <workItem from="1582679452977" duration="226000" />
+      <workItem from="1582700822836" duration="3775000" />
+      <workItem from="1582765787719" duration="6061000" />
+      <workItem from="1582874717070" duration="7059000" />
+      <workItem from="1582960744570" duration="7033000" />
+      <workItem from="1583040639476" duration="1488000" />
+      <workItem from="1583054548945" duration="7180000" />
+      <workItem from="1583115569131" duration="5781000" />
+      <workItem from="1583198143780" duration="174000" />
+      <workItem from="1583223614186" duration="6309000" />
+      <workItem from="1583308650196" duration="9217000" />
+      <workItem from="1583470981971" duration="4891000" />
+      <workItem from="1583744084051" duration="827000" />
+      <workItem from="1583808838338" duration="2055000" />
+      <workItem from="1584180991730" duration="1853000" />
+      <workItem from="1584537445543" duration="18000" />
+      <workItem from="1584614853712" duration="22642000" />
+      <workItem from="1584866144219" duration="5398000" />
+      <workItem from="1584872157582" duration="17810000" />
+      <workItem from="1585301865003" duration="42255000" />
+      <workItem from="1585706446438" duration="23588000" />
+      <workItem from="1586137374812" duration="14234000" />
+      <workItem from="1586220913047" duration="29454000" />
+      <workItem from="1586702725948" duration="42276000" />
+      <workItem from="1587458152335" duration="5625000" />
+      <workItem from="1587518596354" duration="8018000" />
+      <workItem from="1587785200136" duration="10552000" />
+      <workItem from="1588131747282" duration="3983000" />
+      <workItem from="1588421020400" duration="15168000" />
+      <workItem from="1588557803612" duration="20001000" />
+      <workItem from="1589445836152" duration="135000" />
+      <workItem from="1589517708622" duration="8402000" />
+      <workItem from="1589885455369" duration="7595000" />
+      <workItem from="1590033134963" duration="3164000" />
+      <workItem from="1590651752541" duration="2257000" />
+      <workItem from="1590818429277" duration="6079000" />
+      <workItem from="1590917004561" duration="722000" />
+      <workItem from="1590977097348" duration="4371000" />
+      <workItem from="1591063961050" duration="5628000" />
+      <workItem from="1591159591144" duration="3983000" />
+      <workItem from="1591235108186" duration="13168000" />
+      <workItem from="1591320999810" duration="11134000" />
+      <workItem from="1591430265898" duration="1826000" />
+      <workItem from="1591503686553" duration="10239000" />
+      <workItem from="1591599328143" duration="3689000" />
+      <workItem from="1591677541494" duration="6737000" />
+      <workItem from="1591786508214" duration="1626000" />
+      <workItem from="1591844723982" duration="2001000" />
+      <workItem from="1591931840316" duration="526000" />
+      <workItem from="1591944711786" duration="15989000" />
+      <workItem from="1592288822647" duration="6925000" />
+      <workItem from="1592374505220" duration="1928000" />
+      <workItem from="1592480851344" duration="3826000" />
+      <workItem from="1592535486085" duration="16475000" />
+      <workItem from="1592899004409" duration="1909000" />
+      <workItem from="1592962721522" duration="7054000" />
+      <workItem from="1593354008372" duration="23287000" />
+      <workItem from="1594036283692" duration="7283000" />
+      <workItem from="1594212089322" duration="2594000" />
+      <workItem from="1594305975947" duration="257000" />
+      <workItem from="1594376576602" duration="5743000" />
+      <workItem from="1594615954795" duration="718000" />
+      <workItem from="1594649463915" duration="42000" />
+      <workItem from="1594698376786" duration="161000" />
+      <workItem from="1595127532216" duration="1786000" />
+      <workItem from="1595342108405" duration="1274000" />
+      <workItem from="1595419584253" duration="3058000" />
+      <workItem from="1595663526145" duration="28061000" />
+      <workItem from="1595811042268" duration="39000" />
+      <workItem from="1595852689716" duration="6418000" />
+      <workItem from="1595920703154" duration="626000" />
+      <workItem from="1595933611205" duration="1913000" />
+      <workItem from="1596024797865" duration="8295000" />
+      <workItem from="1596109874363" duration="2876000" />
+      <workItem from="1596207297492" duration="37436000" />
+      <workItem from="1597369856632" duration="1416000" />
+      <workItem from="1597660709450" duration="39143000" />
+      <workItem from="1599567090783" duration="6688000" />
+      <workItem from="1599745554952" duration="1099000" />
+      <workItem from="1599984810407" duration="5459000" />
+      <workItem from="1600179371646" duration="7657000" />
+      <workItem from="1600419870199" duration="9247000" />
+      <workItem from="1601106825213" duration="935000" />
+      <workItem from="1603091092323" duration="2758000" />
+      <workItem from="1603518623568" duration="1798000" />
+      <workItem from="1603960324521" duration="811000" />
+      <workItem from="1604036076122" duration="3003000" />
+      <workItem from="1604131876524" duration="1433000" />
+      <workItem from="1604208970743" duration="3121000" />
+      <workItem from="1604295577672" duration="1211000" />
+      <workItem from="1605339780735" duration="1916000" />
+      <workItem from="1605530328327" duration="117000" />
+      <workItem from="1605532866406" duration="1230000" />
+      <workItem from="1605603109970" duration="638000" />
+      <workItem from="1605607912741" duration="49000" />
+      <workItem from="1605768336907" duration="114000" />
+      <workItem from="1605768989672" duration="615000" />
+      <workItem from="1605938881880" duration="4861000" />
+      <workItem from="1605948132656" duration="38000" />
+      <workItem from="1605948277890" duration="9000" />
+      <workItem from="1605956436340" duration="639000" />
+      <workItem from="1606028007368" duration="5130000" />
     </task>
-    <task id="LOCAL-00001" summary="2020.12.08">
-      <created>1607401717380</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1607401717380</updated>
-    </task>
-    <task id="LOCAL-00002" summary="2020.12.08">
-      <created>1607403477268</created>
+    <task id="LOCAL-00002" summary="2019.08.04">
+      <created>1564908088084</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1607403477268</updated>
+      <updated>1564908088084</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2019.08.04">
+      <created>1564908479744</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1564908479744</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2019.08.05">
+      <created>1565066943935</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565066943935</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2019.08.05">
+      <created>1565077798625</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1565077798625</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2019.08.07">
+      <created>1565148835177</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1565148835178</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2019.08.08">
+      <created>1565247222207</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1565247222207</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2019.08.12">
+      <created>1565575509539</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1565575509539</updated>
+    </task>
+    <task id="LOCAL-00009" summary="2019.08.20">
+      <created>1566282886625</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1566282886625</updated>
+    </task>
+    <task id="LOCAL-00010" summary="2019.08.20">
+      <created>1566310214617</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1566310214617</updated>
+    </task>
+    <task id="LOCAL-00011" summary="2019.08.20">
+      <created>1566877252799</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1566877252800</updated>
+    </task>
+    <task id="LOCAL-00012" summary="2019.09.02">
+      <created>1567401771338</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1567401771338</updated>
+    </task>
+    <task id="LOCAL-00013" summary="2019.09.04">
+      <created>1567573358011</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1567573358011</updated>
+    </task>
+    <task id="LOCAL-00014" summary="2019.09.04">
+      <created>1567658044815</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1567658044815</updated>
+    </task>
+    <task id="LOCAL-00015" summary="2019.09.06">
+      <created>1567779561849</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1567779561849</updated>
+    </task>
+    <task id="LOCAL-00016" summary="2019.09.14">
+      <created>1568429978398</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1568429978398</updated>
+    </task>
+    <task id="LOCAL-00017" summary="2019.09.27">
+      <created>1569564707737</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1569564707737</updated>
+    </task>
+    <task id="LOCAL-00018" summary="2019.09.27">
+      <created>1570418627897</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1570418627897</updated>
+    </task>
+    <task id="LOCAL-00019" summary="2019.10.10">
+      <created>1570704404655</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1570704404655</updated>
+    </task>
+    <task id="LOCAL-00020" summary="2019.10.10">
+      <created>1570848945641</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1570848945642</updated>
+    </task>
+    <task id="LOCAL-00021" summary="2019.11.07">
+      <created>1573095873657</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1573095873657</updated>
+    </task>
+    <task id="LOCAL-00022" summary="2019.11.27">
+      <created>1574831914999</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1574831914999</updated>
+    </task>
+    <task id="LOCAL-00023" summary="2019.11.27">
+      <created>1574831937257</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1574831937257</updated>
+    </task>
+    <task id="LOCAL-00024" summary="2019.12.20">
+      <created>1576735777068</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1576735777068</updated>
+    </task>
+    <task id="LOCAL-00025" summary="2019.12.27">
+      <created>1577412557079</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1577412557079</updated>
+    </task>
+    <task id="LOCAL-00026" summary="2020.01.06">
+      <created>1578289863427</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1578289863428</updated>
+    </task>
+    <task id="LOCAL-00027" summary="2020.01.17">
+      <created>1579257690981</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1579257690981</updated>
+    </task>
+    <task id="LOCAL-00028" summary="2020.01.17">
+      <created>1579257709110</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1579257709110</updated>
+    </task>
+    <task id="LOCAL-00029" summary="2020.01。23">
+      <created>1579782794184</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1579782794184</updated>
+    </task>
+    <task id="LOCAL-00030" summary="2020.02.12">
+      <created>1581472040831</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1581472040831</updated>
+    </task>
+    <task id="LOCAL-00031" summary="2020.02.12">
+      <created>1581472054857</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1581472054857</updated>
+    </task>
+    <task id="LOCAL-00032" summary="2020.02.23">
+      <created>1582443832396</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1582443832396</updated>
+    </task>
+    <task id="LOCAL-00033" summary="2020.02.24">
+      <created>1582534922244</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1582534922244</updated>
+    </task>
+    <task id="LOCAL-00034" summary="2020.02.24">
+      <created>1582534940003</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1582534940004</updated>
+    </task>
+    <task id="LOCAL-00035" summary="2020.02.26">
+      <created>1582705145883</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1582705145883</updated>
+    </task>
+    <task id="LOCAL-00036" summary="2020.03.06">
+      <created>1583472418873</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1583472418873</updated>
+    </task>
+    <task id="LOCAL-00037" summary="2020.03.21">
+      <created>1584761201735</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1584761201735</updated>
+    </task>
+    <task id="LOCAL-00038" summary="2020.03.21">
+      <created>1584775553333</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1584775553333</updated>
+    </task>
+    <task id="LOCAL-00039" summary="2020.05.15">
+      <created>1589517774595</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1589517774595</updated>
+    </task>
+    <task id="LOCAL-00040" summary="2020.06.1">
+      <created>1590995792929</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1590995792929</updated>
+    </task>
+    <task id="LOCAL-00041" summary="2020.06.1">
+      <created>1590995802954</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1590995802954</updated>
+    </task>
+    <task id="LOCAL-00042" summary="2020.06.6">
+      <created>1591430305800</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1591430305800</updated>
+    </task>
+    <task id="LOCAL-00043" summary="2020.06.15">
+      <created>1592231228424</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1592231228424</updated>
+    </task>
+    <task id="LOCAL-00044" summary="2020.06.25">
+      <created>1593053179400</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1593053179400</updated>
+    </task>
+    <task id="LOCAL-00045" summary="2020.7.12">
+      <created>1594558772335</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1594558772335</updated>
+    </task>
+    <task id="LOCAL-00046" summary="2020.7.25">
+      <created>1595665215304</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1595665215304</updated>
+    </task>
+    <task id="LOCAL-00047" summary="2020.8.01">
+      <created>1596261535617</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1596261535617</updated>
+    </task>
+    <task id="LOCAL-00048" summary="2020.9.08">
+      <created>1599571984717</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1599571984718</updated>
+    </task>
+    <task id="LOCAL-00049" summary="2020.9.14">
+      <created>1600092035879</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1600092035880</updated>
+    </task>
+    <task id="LOCAL-00050" summary="2020.9.26">
+      <created>1601126186035</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1601126186036</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27928000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Word Book" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35908598" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21013333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-    </layout>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2020.12.08" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.12.08" />
+    <MESSAGE value="2019.10.10" />
+    <MESSAGE value="2019.11.07" />
+    <MESSAGE value="2019.11.27" />
+    <MESSAGE value="2019.12.20" />
+    <MESSAGE value="2019.12.27" />
+    <MESSAGE value="2020.01.06" />
+    <MESSAGE value="2020.01.17" />
+    <MESSAGE value="2020.01。23" />
+    <MESSAGE value="2020.02.12" />
+    <MESSAGE value="2020.02.23" />
+    <MESSAGE value="2020.02.24" />
+    <MESSAGE value="2020.02.26" />
+    <MESSAGE value="2020.03.06" />
+    <MESSAGE value="2020.03.21" />
+    <MESSAGE value="2020.05.15" />
+    <MESSAGE value="2020.06.1" />
+    <MESSAGE value="2020.06.6" />
+    <MESSAGE value="2020.06.15" />
+    <MESSAGE value="2020.06.25" />
+    <MESSAGE value="2020.7.12" />
+    <MESSAGE value="2020.7.25" />
+    <MESSAGE value="2020.8.01" />
+    <MESSAGE value="2020.9.08" />
+    <MESSAGE value="2020.9.14" />
+    <MESSAGE value="2020.9.26" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.9.26" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="501" y="185" key="FileChooserDialogImpl" timestamp="1605947801068">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="501" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1605947801068" />
+    <state width="1398" height="164" key="GridCell.Tab.0.bottom" timestamp="1606034080347">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="164" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1606034080347" />
+    <state width="1398" height="164" key="GridCell.Tab.0.center" timestamp="1606034080346">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="164" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1606034080346" />
+    <state width="1398" height="164" key="GridCell.Tab.0.left" timestamp="1606034080346">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="164" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1606034080346" />
+    <state width="1398" height="164" key="GridCell.Tab.0.right" timestamp="1606034080346">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="164" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1606034080346" />
+    <state width="1398" height="283" key="GridCell.Tab.1.bottom" timestamp="1606033000880">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="283" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1606033000880" />
+    <state width="1398" height="283" key="GridCell.Tab.1.center" timestamp="1606033000880">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="283" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1606033000880" />
+    <state width="1398" height="283" key="GridCell.Tab.1.left" timestamp="1606033000880">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="283" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1606033000880" />
+    <state width="1398" height="283" key="GridCell.Tab.1.right" timestamp="1606033000880">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="283" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1606033000880" />
+    <state x="222" y="75" key="SettingsEditor" timestamp="1605939055913">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="222" y="75" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1605939055913" />
+    <state x="454" y="183" width="591" height="524" key="StructurePopup" timestamp="1605947252123">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="454" y="183" width="591" height="524" key="StructurePopup/0.0.1440.860@0.0.1440.860" timestamp="1605947252123" />
+    <state width="620" height="446" key="SwitcherDM" timestamp="1605938894508">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="620" height="446" key="SwitcherDM/0.0.1440.860@0.0.1440.860" timestamp="1605938894508" />
+    <state x="313" y="163" key="Vcs.Push.Dialog.v2" timestamp="1606035380915">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="313" y="163" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1606035380915" />
+    <state width="305" height="350" key="documentation.popup.size" timestamp="1605946706401">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="305" height="350" key="documentation.popup.size/0.0.1440.860@0.0.1440.860" timestamp="1605946706401" />
+    <state x="393" y="191" width="672" height="678" key="search.everywhere.popup" timestamp="1605946896427">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="393" y="191" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1605946896427" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Leetcode/数组/Solution452.java</url>
-          <line>51</line>
-          <properties class="Leetcode.数组.Solution452" method="findMinArrowShots">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/sd/mediator/President.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/Solution738.java</url>
-          <line>93</line>
-          <properties />
-          <option name="timeStamp" value="6" />
+          <url>file://$PROJECT_DIR$/src/左神算法/进阶班二/第六章/Code_01_SubArrayMaxSum.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Solution.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Solution152.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Solution140.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Solution1027.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Solution935.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Solution567.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Solution1177.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Solution468.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Solutionmian29.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Solution726.java</url>
+          <line>203</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/左神算法/基础班/树/SerializeAndReconstructTree.java</url>
+          <line>153</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/TrieTree/Solution421.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/TrieTree/Solution212.java</url>
+          <line>183</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/TrieTree/Solution211.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/数组/Solution41.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/算法重写练习/排序/HeapSort.java</url>
+          <line>145</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/数组/Solution448.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/数组/Solution56.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/dp/Solution312.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/计算器问题/Solution16_16.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/公司笔面试真题/猿辅导/二零_3/Solution3.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/数组/Solution321.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/数组/Solutionjian51.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="189" />
         </line-breakpoint>
       </breakpoints>
-      <breakpoints-dialog>
-        <breakpoints-dialog />
-      </breakpoints-dialog>
-      <option name="time" value="12" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="map2.entrySet().toArray()[1]" />
+        <watch expression="list.get(0)" />
+        <watch expression="index" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="breakpointCondition">
@@ -556,382 +1267,13 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/数组/Solution321.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="860">
-          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/nio/BufferOverflowException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/数组/Solution56.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1040">
-          <caret line="55" column="9" lean-forward="false" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/数组/Solution321.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="860">
-          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/nio/BufferOverflowException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/数组/Solution56.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="36" column="23" lean-forward="true" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/公司笔面试真题/微软/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="36" lean-forward="false" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/数组/Solutonmian1620.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/数组/Solutionjian51.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/数组/Solution487.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/数组/Solution448.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/数组/Solution57.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-411">
-          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/数组/Solution41.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="33" column="13" lean-forward="false" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/数组/Solution85.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/手写HashMap/MyHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2469">
-          <caret line="2367" column="6" lean-forward="true" selection-start-line="2367" selection-start-column="6" selection-end-line="2367" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/nio/Buffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="174" column="22" lean-forward="false" selection-start-line="174" selection-start-column="22" selection-end-line="174" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/nio/ByteBufferAsDoubleBufferRL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="30" column="6" lean-forward="false" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/nio/ByteBufferAsDoubleBufferL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="30" column="6" lean-forward="false" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/nio/ByteBufferAsDoubleBufferB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="30" column="6" lean-forward="false" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/nio/ByteBufferAsCharBufferRB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1891">
-          <caret line="89" column="0" lean-forward="true" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/nio/BufferOverflowException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/数组/Solution452.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="51" column="57" lean-forward="true" selection-start-line="51" selection-start-column="57" selection-end-line="51" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/左神算法/基础班/Sort/自己补充_链表排序/ListMergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/awt/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="108" column="35" lean-forward="false" selection-start-line="108" selection-start-column="26" selection-end-line="108" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/数组/Solution56.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="37" column="23" lean-forward="false" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/数组/Solution321.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/Iterable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-391">
-          <caret line="44" column="17" lean-forward="false" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2360">
-          <caret line="143" column="44" lean-forward="false" selection-start-line="143" selection-start-column="44" selection-end-line="143" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13960">
-          <caret line="721" column="6" lean-forward="false" selection-start-line="721" selection-start-column="6" selection-end-line="721" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7000">
-          <caret line="385" column="6" lean-forward="false" selection-start-line="385" selection-start-column="6" selection-end-line="385" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/公司笔面试真题/猿辅导/二零_3/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="64" column="24" lean-forward="false" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Solution42.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="40" column="61" lean-forward="false" selection-start-line="40" selection-start-column="61" selection-end-line="40" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JUC/Demo/ThreadDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="47" lean-forward="false" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="1797" column="22" lean-forward="false" selection-start-line="1797" selection-start-column="22" selection-end-line="1797" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/回溯剪枝/Solution842.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/net/URL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="132" column="68" lean-forward="true" selection-start-line="132" selection-start-column="68" selection-end-line="132" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6120">
-          <caret line="373" column="23" lean-forward="false" selection-start-line="373" selection-start-column="23" selection-end-line="373" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/字符串/Solution649.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2400">
-          <caret line="121" column="15" lean-forward="false" selection-start-line="121" selection-start-column="15" selection-end-line="121" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/proxy/dynamicProxy/TeacherDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Solution738.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1600">
-          <caret line="80" column="27" lean-forward="false" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
-          <folding>
-            <element signature="e#2128#2129#0" expanded="true" />
-            <element signature="e#2193#2194#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/jre/lib/rt.jar!/sun/reflect/MethodAccessor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/reflect/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="456" column="67" lean-forward="true" selection-start-line="456" selection-start-column="67" selection-end-line="456" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/reflect/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="667" column="28" lean-forward="true" selection-start-line="667" selection-start-column="28" selection-end-line="667" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/proxy/dynamicProxy/ProxyFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/proxy/dynamicProxy/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/proxy/dynamicProxy/ITeacherDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="853">
-          <caret line="321" column="42" lean-forward="false" selection-start-line="321" selection-start-column="42" selection-end-line="321" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="171" column="40" lean-forward="true" selection-start-line="171" selection-start-column="40" selection-end-line="171" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Solution290.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="830">
-          <caret line="104" column="47" lean-forward="false" selection-start-line="104" selection-start-column="47" selection-end-line="104" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>Math.max</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="masterDetails">
     <states>
@@ -997,7 +1339,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>asm-commons</last-edited>
+          <last-edited>QRCode</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
