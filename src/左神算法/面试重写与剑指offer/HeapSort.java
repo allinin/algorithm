@@ -24,7 +24,6 @@ public class HeapSort {
            swap(arr,0,--n);
        }
     }
-
     private static void heapInsert(int[] arr,int index){
 
         while(arr[index]>arr[(index-1)/2]){
@@ -32,13 +31,13 @@ public class HeapSort {
             index=(index-1)/2;
         }
     }
-
     private static void heapify(int[] arr,int start,int end){
         int left=start*2+1;
         while(left<end){
             int indexMax=left+1<end && arr[left+1]>arr[left] ? left+1:left;
-            if(arr[start]>arr[indexMax])
+            if(arr[start]>arr[indexMax]){
                 break;
+            }
             swap(arr,start,indexMax);
             start=indexMax;
             left=start*2+1;

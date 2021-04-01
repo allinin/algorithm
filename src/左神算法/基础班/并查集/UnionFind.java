@@ -10,6 +10,8 @@ public class UnionFind {
     public static class Node{
 
     }
+
+
     public static class DisjoinSets{
         private HashMap<Node,Node> fatherMap; //key:child,value:father
         private HashMap<Node,Integer>rankMap;//只有当结点是代表结点的时候，value的值才有意义，

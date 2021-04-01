@@ -1,4 +1,4 @@
-package JUC.美团笔试题.类似问题;
+package JUC.美团笔面试题.类似问题;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
