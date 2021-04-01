@@ -17,7 +17,7 @@ public class Solution1 {
     //二分法,取中间位置的二分
     public int process(int[] arr1,int start1,int end1,int [] arr2,int start2,int end2,int k){
         if(end1<start1){
-            return arr2[start2+k-1];
+           return arr2[start2+k-1];
         }
         if(end2<start2) return arr1[start1+k-1];
         //取中间位置：因为无论数组的长度为啥，一定右中间位置
