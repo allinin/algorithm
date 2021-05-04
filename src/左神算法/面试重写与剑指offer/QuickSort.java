@@ -44,6 +44,7 @@ public class QuickSort {
         return new int[]{less+1,more};
     }
 
+
     private static void swap(int[] arr,int left,int right){
         int tmp=arr[left];
         arr[left]=arr[right];
@@ -110,28 +111,28 @@ public class QuickSort {
 
     // for test
     public static void main(String[] args) {
-        int testTime = 500000;
-        int maxSize = 100;
-        int maxValue = 100;
-        boolean succeed = true;
-        for (int i = 0; i < testTime; i++) {
-            int[] arr1 = generateRandomArray(maxSize, maxValue);
-            int[] arr2 = copyArray(arr1);
-            quickSort(arr1,0,arr1.length-1);
-            comparator(arr2);
-            if (!isEqual(arr1, arr2)) {
-                succeed = false;
-                printArray(arr1);
-                printArray(arr2);
-                break;
-            }
-        }
-        System.out.println(succeed ? "Nice!" : "Fucking fucked!");
-
-        int[] arr = generateRandomArray(50, 100);
-        printArray(arr);
-        quickSort(arr);
-        printArray(arr);
+//        int testTime = 500000;
+//        int maxSize = 100;
+//        int maxValue = 100;
+//        boolean succeed = true;
+//        for (int i = 0; i < testTime; i++) {
+//            int[] arr1 = generateRandomArray(maxSize, maxValue);
+//            int[] arr2 = copyArray(arr1);
+//            quickSort(arr1,0,arr1.length-1);
+//            comparator(arr2);
+//            if (!isEqual(arr1, arr2)) {
+//                succeed = false;
+//                printArray(arr1);
+//                printArray(arr2);
+//                break;
+//            }
+//        }
+//        System.out.println(succeed ? "Nice!" : "Fucking fucked!");
+//
+//        int[] arr = generateRandomArray(50, 100);
+//        printArray(arr);
+//        quickSort(arr);
+//        printArray(arr);
 
     }
 }

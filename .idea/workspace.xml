@@ -2,9 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="2021.4.1">
+      <change beforePath="" afterPath="$PROJECT_DIR$/sourceResearch/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Solution1011.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/Solution368.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Leetcode/贪心/Solution781.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/结构型设计模式/代理模式/简介" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/结构型设计模式/适配器模式/示例/ClientDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/结构型设计模式/适配器模式/示例/RoundHole.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/结构型设计模式/适配器模式/示例/RoundPeg.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/结构型设计模式/适配器模式/示例/SquarePeg.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/结构型设计模式/适配器模式/示例/SquarePegAdapter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/结构型设计模式/适配器模式/简介" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/公司笔面试真题/微软/Solution1.java" afterPath="$PROJECT_DIR$/src/面试相关/公司笔面试真题/微软/Solution1.java" />
+      <change beforePath="$PROJECT_DIR$/src/公司笔面试真题/拼多多/Solution1.java" afterPath="$PROJECT_DIR$/src/面试相关/公司笔面试真题/拼多多/Solution1.java" />
+      <change beforePath="$PROJECT_DIR$/src/公司笔面试真题/拼多多/Solution2.java" afterPath="$PROJECT_DIR$/src/面试相关/公司笔面试真题/拼多多/Solution2.java" />
+      <change beforePath="$PROJECT_DIR$/src/公司笔面试真题/拼多多/Solution3.java" afterPath="$PROJECT_DIR$/src/面试相关/公司笔面试真题/拼多多/Solution3.java" />
+      <change beforePath="$PROJECT_DIR$/src/公司笔面试真题/拼多多/Solution4.java" afterPath="$PROJECT_DIR$/src/面试相关/公司笔面试真题/拼多多/Solution4.java" />
+      <change beforePath="$PROJECT_DIR$/src/公司笔面试真题/拼多多/Solution5.java" afterPath="$PROJECT_DIR$/src/面试相关/公司笔面试真题/拼多多/Solution5.java" />
+      <change beforePath="$PROJECT_DIR$/src/公司笔面试真题/猿辅导/Solution1.java" afterPath="$PROJECT_DIR$/src/面试相关/公司笔面试真题/猿辅导/Solution1.java" />
+      <change beforePath="$PROJECT_DIR$/src/公司笔面试真题/猿辅导/Solution2.java" afterPath="$PROJECT_DIR$/src/面试相关/公司笔面试真题/猿辅导/Solution2.java" />
+      <change beforePath="$PROJECT_DIR$/src/公司笔面试真题/猿辅导/Solution3.java" afterPath="$PROJECT_DIR$/src/面试相关/公司笔面试真题/猿辅导/Solution3.java" />
+      <change beforePath="$PROJECT_DIR$/src/公司笔面试真题/猿辅导/Solution4.java" afterPath="$PROJECT_DIR$/src/面试相关/公司笔面试真题/猿辅导/Solution4.java" />
+      <change beforePath="$PROJECT_DIR$/src/公司笔面试真题/猿辅导/Solution5.java" afterPath="$PROJECT_DIR$/src/面试相关/公司笔面试真题/猿辅导/Solution5.java" />
+      <change beforePath="$PROJECT_DIR$/src/公司笔面试真题/猿辅导/Solution6.java" afterPath="$PROJECT_DIR$/src/面试相关/公司笔面试真题/猿辅导/Solution6.java" />
+      <change beforePath="$PROJECT_DIR$/src/公司笔面试真题/猿辅导/二一_1/Solution1.java" afterPath="$PROJECT_DIR$/src/面试相关/公司笔面试真题/猿辅导/二一_1/Solution1.java" />
+      <change beforePath="$PROJECT_DIR$/src/公司笔面试真题/猿辅导/二零_1/Solution1.java" afterPath="$PROJECT_DIR$/src/面试相关/公司笔面试真题/猿辅导/二零_1/Solution1.java" />
+      <change beforePath="$PROJECT_DIR$/src/公司笔面试真题/猿辅导/二零_1/Solution2.java" afterPath="$PROJECT_DIR$/src/面试相关/公司笔面试真题/猿辅导/二零_1/Solution2.java" />
+      <change beforePath="$PROJECT_DIR$/src/公司笔面试真题/猿辅导/二零_1/Solution3.java" afterPath="$PROJECT_DIR$/src/面试相关/公司笔面试真题/猿辅导/二零_1/Solution3.java" />
+      <change beforePath="$PROJECT_DIR$/src/公司笔面试真题/猿辅导/二零_2/Solution1.java" afterPath="$PROJECT_DIR$/src/面试相关/公司笔面试真题/猿辅导/二零_2/Solution1.java" />
+      <change beforePath="$PROJECT_DIR$/src/公司笔面试真题/猿辅导/二零_2/Solution2.java" afterPath="$PROJECT_DIR$/src/面试相关/公司笔面试真题/猿辅导/二零_2/Solution2.java" />
+      <change beforePath="$PROJECT_DIR$/src/公司笔面试真题/猿辅导/二零_2/Solution3.java" afterPath="$PROJECT_DIR$/src/面试相关/公司笔面试真题/猿辅导/二零_2/Solution3.java" />
+      <change beforePath="$PROJECT_DIR$/src/公司笔面试真题/猿辅导/二零_3/Solution1.java" afterPath="$PROJECT_DIR$/src/面试相关/公司笔面试真题/猿辅导/二零_3/Solution1.java" />
+      <change beforePath="$PROJECT_DIR$/src/公司笔面试真题/猿辅导/二零_3/Solution2.java" afterPath="$PROJECT_DIR$/src/面试相关/公司笔面试真题/猿辅导/二零_3/Solution2.java" />
+      <change beforePath="$PROJECT_DIR$/src/公司笔面试真题/猿辅导/二零_3/Solution3.java" afterPath="$PROJECT_DIR$/src/面试相关/公司笔面试真题/猿辅导/二零_3/Solution3.java" />
+      <change beforePath="$PROJECT_DIR$/src/公司笔面试真题/网易/二一/Solution1.java" afterPath="$PROJECT_DIR$/src/面试相关/公司笔面试真题/网易/二一/Solution1.java" />
+      <change beforePath="$PROJECT_DIR$/src/公司笔面试真题/虾皮面试/两个字符串的最长公共子串.java" afterPath="$PROJECT_DIR$/src/面试相关/公司笔面试真题/虾皮面试/两个字符串的最长公共子串.java" />
+      <change beforePath="$PROJECT_DIR$/src/左神算法/面试重写与剑指offer/QuickSort.java" afterPath="$PROJECT_DIR$/src/左神算法/面试重写与剑指offer/QuickSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/手写HashMap/MyHashMap.java" afterPath="$PROJECT_DIR$/src/面试相关/手写HashMap/MyHashMap.java" />
+      <change beforePath="$PROJECT_DIR$/src/面试之出奇制胜策略/Demo1.java" afterPath="$PROJECT_DIR$/src/面试相关/面试之出奇制胜策略/Demo1.java" />
+      <change beforePath="$PROJECT_DIR$/src/面试之出奇制胜策略/MonitorDemo.java" afterPath="$PROJECT_DIR$/src/面试相关/面试之出奇制胜策略/MonitorDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/面试手撕代码/ImplementSecureBlockingQueue.java" afterPath="$PROJECT_DIR$/src/面试相关/面试手撕代码/ImplementSecureBlockingQueue.java" />
+      <change beforePath="$PROJECT_DIR$/src/面试手撕代码/IsSymmetricTree.java" afterPath="$PROJECT_DIR$/src/面试相关/面试手撕代码/IsSymmetricTree.java" />
+      <change beforePath="$PROJECT_DIR$/src/面试手撕代码/Num2Arab.java" afterPath="$PROJECT_DIR$/src/面试相关/面试手撕代码/Num2Arab.java" />
+      <change beforePath="$PROJECT_DIR$/src/面试手撕代码/StringPlus.java" afterPath="$PROJECT_DIR$/src/面试相关/面试手撕代码/StringPlus.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/sourceResearch/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,67 +60,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
-        <entry file="jar://E:/jdk1.8/src.zip!/java/util/ArrayList.java">
+      <file leaf-file-name="简介" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/重温设计模式/结构型设计模式/代理模式/简介">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7000">
-              <caret line="385" column="6" lean-forward="false" selection-start-line="385" selection-start-column="6" selection-end-line="385" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HeapSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/左神算法/面试重写与剑指offer/HeapSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MergeSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/左神算法/面试重写与剑指offer/MergeSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/左神算法/面试重写与剑指offer/QuickSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProducerConsumer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JUC/美团笔面试题/ProducerConsumer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1839#1840#0" expanded="true" />
-                <element signature="e#1871#1872#0" expanded="true" />
-                <element signature="e#2338#2339#0" expanded="true" />
-                <element signature="e#2370#2371#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="true">
-        <entry file="jar://E:/jdk1.8/src.zip!/java/util/HashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="253" column="60" lean-forward="false" selection-start-line="253" selection-start-column="60" selection-end-line="253" selection-end-column="60" />
+            <state relative-caret-position="140">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -90,6 +80,8 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -116,6 +108,22 @@
         <option value="$PROJECT_DIR$/src/JUC/美团笔面试题/BlockingQueueTest.java" />
         <option value="$PROJECT_DIR$/src/JUC/美团笔面试题/ProducerConsumer.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/Solution1006.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/数组/Solution781.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/贪心/Solution781.java" />
+        <option value="$PROJECT_DIR$/src/左神算法/面试重写与剑指offer/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/Solution368.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/Solution1011.java" />
+        <option value="$PROJECT_DIR$/sourceResearch/pom.xml" />
+        <option value="$PROJECT_DIR$/src/面试相关/面试手撕代码/IsSymmetricTree.java" />
+        <option value="$PROJECT_DIR$/src/重温设计模式/适配器模式/简介.md" />
+        <option value="$PROJECT_DIR$/src/重温设计模式/适配器模式/示例/RoundHole.java" />
+        <option value="$PROJECT_DIR$/src/重温设计模式/适配器模式/示例/RoundPeg.java" />
+        <option value="$PROJECT_DIR$/src/重温设计模式/适配器模式/示例/SquarePeg.java" />
+        <option value="$PROJECT_DIR$/src/重温设计模式/适配器模式/示例/SquarePegAdapter.java" />
+        <option value="$PROJECT_DIR$/src/重温设计模式/适配器模式/示例/ClientDemo.java" />
+        <option value="$PROJECT_DIR$/src/重温设计模式/适配器模式/简介" />
+        <option value="$PROJECT_DIR$/src/Gof/Singleton/SingletonTest.java" />
+        <option value="$PROJECT_DIR$/src/重温设计模式/结构型设计模式/代理模式/简介" />
       </list>
     </option>
   </component>
@@ -125,8 +133,16 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="36" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -145,54 +161,42 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
+              <item name="exerAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exerAlgorithm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-              <item name="dictionaries" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
+              <item name="exerAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exerAlgorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercise2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;LinkedList&#9;PSI&#9;JAVA://java.util.LinkedList&#10;Map&#9;PSI&#9;JAVA://java.util.Map&#10;URL&#9;PSI&#9;JAVA://java.net.URL&#10;Thread&#9;PSI&#9;JAVA://JUC.Demo.ThreadDemo&#10;Class&#9;PSI&#9;JAVA://java.lang.Class&#10;List&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/List.java&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections" />
+    <property name="SearchEverywhereHistoryKey" value="Arrays&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Arrays.java&#10;TreeSet&#9;PSI&#9;JAVA://java.util.TreeSet&#10;TreeMap&#9;PSI&#9;JAVA://java.util.TreeMap&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;LinkedList&#9;PSI&#9;JAVA://java.util.LinkedList&#10;Map&#9;PSI&#9;JAVA://java.util.Map&#10;URL&#9;PSI&#9;JAVA://java.net.URL&#10;Thread&#9;PSI&#9;JAVA://JUC.Demo.ThreadDemo&#10;Class&#9;PSI&#9;JAVA://java.lang.Class&#10;List&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/List.java&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="Debugger_Data_Views_Java" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Idea_work\exerAlgorithm\src\重温设计模式\结构型设计模式\代理模式" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -206,7 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution1006">
+  <component name="RunManager" selected="Application.ClientDemo">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -214,14 +218,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="BlockingQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ClientDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="JUC.美团笔面试题.*" />
+          <option name="PATTERN" value="重温设计模式.结构型设计模式.代理模式.适配器模式.示例.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="JUC.美团笔面试题.BlockingQueueTest" />
+      <option name="MAIN_CLASS_NAME" value="重温设计模式.结构型设计模式.代理模式.适配器模式.示例.ClientDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -233,14 +237,14 @@
       <module name="exercise2" />
       <envs />
     </configuration>
-    <configuration name="ProducerConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="JUC.美团笔面试题.*" />
+          <option name="PATTERN" value="左神算法.面试重写与剑指offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="JUC.美团笔面试题.ProducerConsumer" />
+      <option name="MAIN_CLASS_NAME" value="左神算法.面试重写与剑指offer.QuickSort" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -252,14 +256,14 @@
       <module name="exercise2" />
       <envs />
     </configuration>
-    <configuration name="Solution1006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Solution1011" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="Leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Solution1006" />
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Solution1011" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -271,14 +275,14 @@
       <module name="exercise2" />
       <envs />
     </configuration>
-    <configuration name="Solution290" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Solution368" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="Leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Solution290" />
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Solution368" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -290,14 +294,14 @@
       <module name="exercise2" />
       <envs />
     </configuration>
-    <configuration name="Solution605" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Solution781" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Leetcode.*" />
+          <option name="PATTERN" value="Leetcode.数组.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Solution605" />
+      <option name="MAIN_CLASS_NAME" value="Leetcode.数组.Solution781" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -384,19 +388,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Solution290" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Solution605" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ProducerConsumer" />
-      <item index="3" class="java.lang.String" itemvalue="Application.BlockingQueueTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Solution1006" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Solution781" />
+      <item index="1" class="java.lang.String" itemvalue="Application.QuickSort" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Solution368" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Solution1011" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ClientDemo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Solution1006" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ProducerConsumer" />
-        <item index="2" class="java.lang.String" itemvalue="Application.BlockingQueueTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Solution605" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Solution290" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ClientDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Solution1011" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Solution368" />
+        <item index="3" class="java.lang.String" itemvalue="Application.QuickSort" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Solution781" />
       </list>
     </recent_temporary>
   </component>
@@ -442,6 +446,20 @@
       <workItem from="1617280276344" duration="44000" />
       <workItem from="1617280482881" duration="256000" />
       <workItem from="1617280880652" duration="16000" />
+      <workItem from="1617371248940" duration="2290000" />
+      <workItem from="1617510695896" duration="1271000" />
+      <workItem from="1617768489634" duration="980000" />
+      <workItem from="1617772011839" duration="39000" />
+      <workItem from="1617772074997" duration="1256000" />
+      <workItem from="1618205876657" duration="77000" />
+      <workItem from="1618636079034" duration="170000" />
+      <workItem from="1618637888248" duration="117000" />
+      <workItem from="1619095504468" duration="163000" />
+      <workItem from="1619172589923" duration="1428000" />
+      <workItem from="1619413781226" duration="1814000" />
+      <workItem from="1619441989680" duration="1191000" />
+      <workItem from="1619674304905" duration="14020000" />
+      <workItem from="1620138344470" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="2020.12.08">
       <created>1607401717380</created>
@@ -503,12 +521,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50813000" />
+    <option name="totallyTimeSpent" value="77054000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.57127315" sideWeight="0.5653333" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -525,12 +543,15 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36343852" sideWeight="0.43466666" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="ArthasHotSwap" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1882481" sideWeight="0.43466666" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2241567" sideWeight="0.49813333" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1164309" sideWeight="0.49813333" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -585,6 +606,32 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -617,11 +664,17 @@
           <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Solution1011.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="16" />
+      <option name="time" value="22" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -639,219 +692,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/左神算法/面试重写与剑指offer/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/左神算法/面试重写与剑指offer/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/左神算法/面试重写与剑指offer/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JUC/美团笔面试题/ProducerConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1740">
-          <caret line="93" column="32" lean-forward="false" selection-start-line="93" selection-start-column="32" selection-end-line="93" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1839#1840#0" expanded="true" />
-            <element signature="e#1871#1872#0" expanded="true" />
-            <element signature="e#2338#2339#0" expanded="true" />
-            <element signature="e#2370#2371#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7700">
-          <caret line="385" column="6" lean-forward="false" selection-start-line="385" selection-start-column="6" selection-end-line="385" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/左神算法/基础班/并查集/UnionFind.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/左神算法/面试重写与剑指offer/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/左神算法/面试重写与剑指offer/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/左神算法/面试重写与剑指offer/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7000">
-          <caret line="385" column="6" lean-forward="false" selection-start-line="385" selection-start-column="6" selection-end-line="385" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/左神算法/基础班/并查集/UnionFind.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/左神算法/面试重写与剑指offer/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/左神算法/面试重写与剑指offer/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/左神算法/面试重写与剑指offer/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7700">
-          <caret line="385" column="6" lean-forward="false" selection-start-line="385" selection-start-column="6" selection-end-line="385" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/左神算法/基础班/并查集/UnionFind.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7000">
-          <caret line="385" column="6" lean-forward="false" selection-start-line="385" selection-start-column="6" selection-end-line="385" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14420">
-          <caret line="721" column="6" lean-forward="false" selection-start-line="721" selection-start-column="6" selection-end-line="721" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7460">
-          <caret line="373" column="23" lean-forward="false" selection-start-line="373" selection-start-column="23" selection-end-line="373" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/字符串/Solution649.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2420">
-          <caret line="121" column="15" lean-forward="false" selection-start-line="121" selection-start-column="15" selection-end-line="121" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/proxy/dynamicProxy/ITeacherDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Solution605.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1560">
-          <caret line="78" column="10" lean-forward="false" selection-start-line="78" selection-start-column="10" selection-end-line="78" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/左神算法/基础班/并查集/UnionFind.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="46" column="43" lean-forward="true" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Solution738.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1600">
-          <caret line="80" column="27" lean-forward="false" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
-          <folding>
-            <element signature="e#2128#2129#0" expanded="true" />
-            <element signature="e#2193#2194#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gof/proxy/dynamicProxy/TeacherDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10480">
-          <caret line="524" column="33" lean-forward="true" selection-start-line="524" selection-start-column="33" selection-end-line="524" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="524" column="33" lean-forward="false" selection-start-line="524" selection-start-column="33" selection-end-line="524" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Leetcode/Solution738.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="829">
@@ -905,34 +745,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7000">
-          <caret line="385" column="6" lean-forward="false" selection-start-line="385" selection-start-column="6" selection-end-line="385" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/左神算法/基础班/并查集/UnionFind.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/左神算法/面试重写与剑指offer/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/左神算法/面试重写与剑指offer/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -972,7 +788,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JUC/美团笔面试题/BlockingQueueTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/手写HashMap/MyHashMap.java">
+    <entry file="file://$PROJECT_DIR$/src/面试相关/手写HashMap/MyHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
@@ -984,30 +800,8 @@
         <state relative-caret-position="64">
           <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1286#1295#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/左神算法/面试重写与剑指offer/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JUC/美团笔面试题/ProducerConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1839#1840#0" expanded="true" />
-            <element signature="e#1871#1872#0" expanded="true" />
-            <element signature="e#2338#2339#0" expanded="true" />
-            <element signature="e#2370#2371#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1286#1295#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1017,14 +811,226 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/数组/Solution781.java" />
+    <entry file="jar://E:/jdk1.8/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="62" column="78" lean-forward="true" selection-start-line="62" selection-start-column="78" selection-end-line="62" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JUC/美团笔面试题/ProducerConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/贪心/Solution781.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="33" column="15" lean-forward="true" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="385" column="6" lean-forward="false" selection-start-line="385" selection-start-column="6" selection-end-line="385" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/面试重写与剑指offer/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="106" column="18" lean-forward="true" selection-start-line="106" selection-start-column="18" selection-end-line="106" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/util/NavigableMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="142" column="6" lean-forward="true" selection-start-line="142" selection-start-column="6" selection-end-line="142" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/util/TreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7480">
+          <caret line="439" column="47" lean-forward="false" selection-start-line="439" selection-start-column="47" selection-end-line="439" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/面试重写与剑指offer/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="763">
+          <caret line="134" column="23" lean-forward="false" selection-start-line="134" selection-start-column="23" selection-end-line="134" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Solution368.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1009">
+          <caret line="76" column="9" lean-forward="true" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Solution1011.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="829">
+          <caret line="71" column="49" lean-forward="true" selection-start-line="71" selection-start-column="49" selection-end-line="71" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/HashMap.java">
+    <entry file="file://$PROJECT_DIR$/sourceResearch/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="253" column="60" lean-forward="false" selection-start-line="253" selection-start-column="60" selection-end-line="253" selection-end-column="60" />
+        <state relative-caret-position="120">
+          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/左神算法/面试重写与剑指offer/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/面试相关/面试手撕代码/ImplementSecureBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/面试相关/面试手撕代码/Num2Arab.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/面试相关/面试手撕代码/StringPlus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/面试相关/面试手撕代码/IsSymmetricTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/重温设计模式/适配器模式/简介.md" />
+    <entry file="file://$PROJECT_DIR$/src/Gof/Adapter/VoltageAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gof/Adapter/Voltage220.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gof/Adapter/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gof/Adapter/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gof/Adapter/IVoltage5v.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/重温设计模式/结构型设计模式/适配器模式/示例/RoundHole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/重温设计模式/结构型设计模式/适配器模式/示例/SquarePeg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/重温设计模式/结构型设计模式/适配器模式/示例/RoundPeg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/重温设计模式/结构型设计模式/适配器模式/示例/SquarePegAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk1.8/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="3813" column="9" lean-forward="true" selection-start-line="3813" selection-start-column="9" selection-end-line="3813" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/重温设计模式/结构型设计模式/适配器模式/示例/ClientDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gof/Singleton/SingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="116" column="18" lean-forward="true" selection-start-line="116" selection-start-column="18" selection-end-line="116" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/重温设计模式/结构型设计模式/适配器模式/简介">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/重温设计模式/结构型设计模式/代理模式/简介">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
