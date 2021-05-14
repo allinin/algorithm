@@ -29,38 +29,44 @@ package Leetcode;
 public class Solution {
 
     public static boolean canJump(int[] nums) {
-        if(nums==null || nums.length==0)
+        if(nums==null || nums.length==0) {
             return true;
+        }
         int len=nums.length;
         boolean[] dp=new boolean[len];
         dp[0]=true;
         //dp[1]=true;
         for(int i=0;i<len && dp[i]==true;i++){
             for(int j=1;j<=nums[i];j++){
-                if(dp[len-1]==true)
+                if(dp[len-1]==true) {
                     return true;
-                if(i+j>len-1)
+                }
+                if(i+j>len-1) {
                     continue;
+                }
                 dp[i+j]=true;
             }
 
 
         }
+        
         return dp[len-1];
     }
 
     //贪心
     public static boolean solution2(int[] nums){
-        if(nums==null || nums.length==0)
+        if(nums==null || nums.length==0) {
             return true;
+        }
         int len=nums.length;
         int mostRight=0;
         for(int i=0;i<len;i++){
             if(i<=mostRight){
                 mostRight=Math.max(mostRight,nums[i]+i);
             }
-            if(mostRight>=len-1)
+            if(mostRight>=len-1) {
                 return true;
+            }
 
         }
         return false;
