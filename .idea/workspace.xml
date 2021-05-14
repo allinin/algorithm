@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/结构型设计模式/装饰器模式/示例/CompressionDecorator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/结构型设计模式/装饰器模式/示例/DataSource.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/结构型设计模式/装饰器模式/示例/DataSourceDecorator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/结构型设计模式/装饰器模式/示例/Demo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/结构型设计模式/装饰器模式/示例/EncryptionDecorator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/结构型设计模式/装饰器模式/示例/FileDataSource.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/结构型设计模式/装饰器模式/示例/test.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/结构型设计模式/装饰器模式/简介" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/行为模式/模版方法模式/示例/Demo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/行为模式/模版方法模式/示例/FaceBook.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/行为模式/模版方法模式/示例/NetWork.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/行为模式/模版方法模式/示例/Twitter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/行为模式/模版方法模式/简介" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/行为模式/策略模式/示例/Demo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/行为模式/策略模式/简介" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/行为模式/观察者模式/示例/Demo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/行为模式/观察者模式/示例/Editor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/行为模式/观察者模式/示例/EmailNotificationListener.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/行为模式/观察者模式/示例/EventListener.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/行为模式/观察者模式/示例/EventManager.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/行为模式/观察者模式/示例/LogOpenListener.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/行为模式/观察者模式/简介" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/行为模式/责任链模式/示例/Demo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/行为模式/责任链模式/示例/Middleware.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/行为模式/责任链模式/示例/RoleCheckMiddleware.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/行为模式/责任链模式/示例/Server.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/行为模式/责任链模式/示例/ThrottlingMiddleware.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/行为模式/责任链模式/示例/UserExistsMiddleware.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/重温设计模式/行为模式/责任链模式/简介" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/Solution.java" afterPath="$PROJECT_DIR$/src/Leetcode/Solution.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/sourceResearch/target/" />
@@ -203,6 +173,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="重温设计模式" type="462c0819:PsiDirectoryNode" />
               <item name="行为模式" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dataSource" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataSource" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="重温设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="行为模式" type="462c0819:PsiDirectoryNode" />
+              <item name="责任链模式" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -494,7 +472,7 @@
       <workItem from="1620545746877" duration="2494000" />
       <workItem from="1620548997447" duration="3814000" />
       <workItem from="1620553799428" duration="4654000" />
-      <workItem from="1620815667186" duration="18027000" />
+      <workItem from="1620815667186" duration="18110000" />
     </task>
     <task id="LOCAL-00001" summary="2020.12.08">
       <created>1607401717380</created>
@@ -559,11 +537,18 @@
       <option name="project" value="LOCAL" />
       <updated>1620138397970</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2021.5.14">
+      <created>1621001171852</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1621001171853</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124215000" />
+    <option name="totallyTimeSpent" value="124298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="142" width="1936" height="1056" extended-state="6" />
@@ -682,7 +667,8 @@
     <MESSAGE value="2020.12.20" />
     <MESSAGE value="2021.4.1" />
     <MESSAGE value="2021.5.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.5.4" />
+    <MESSAGE value="2021.5.14" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.5.14" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1019,6 +1005,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1026,6 +1013,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
