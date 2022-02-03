@@ -23,7 +23,7 @@ public class SerializeAnDeserializeNTree {
     }
 
     /**
-     * 序列化操作，其实就是dfs的过程
+     * 序列化操作，其实就是dfs的过程，并且记录每个节点孩子的数量
      * @param root
      * @return
      */

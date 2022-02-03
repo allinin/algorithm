@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="2022.02.02 树的前后中序遍历练习">
-      <change afterPath="$PROJECT_DIR$/src/左神算法/基础班/树/SerializeAnDeserializeNTree.java" afterDir="false" />
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="2022.02.03 n叉树的序列化与反序列化">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/左神算法/基础班/树/SerializeAnDeserializeNTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/左神算法/基础班/树/SerializeAnDeserializeNTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -377,7 +377,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643852828102</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="2022.02.03 n叉树的序列化与反序列化">
+      <created>1643857999624</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1643857999624</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -402,7 +409,8 @@
     <MESSAGE value="2021.5.14" />
     <MESSAGE value="2021.5.20" />
     <MESSAGE value="2022.02.02 树的前后中序遍历练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.02.02 树的前后中序遍历练习" />
+    <MESSAGE value="2022.02.03 n叉树的序列化与反序列化" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.02.03 n叉树的序列化与反序列化" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
