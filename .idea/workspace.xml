@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="2021.5.20">
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="2022.02.02 树的前后中序遍历练习">
+      <change afterPath="$PROJECT_DIR$/src/左神算法/基础班/树/SerializeAnDeserializeNTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/左神算法/基础班/树/PreInPostTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/左神算法/基础班/树/PreInPostTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/左神算法/基础班/树/SerializeAndReconstructTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/左神算法/基础班/树/SerializeAndReconstructTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -371,7 +370,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621508804187</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="2022.02.02 树的前后中序遍历练习">
+      <created>1643852828102</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1643852828102</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -395,7 +401,8 @@
     <MESSAGE value="2021.5.4" />
     <MESSAGE value="2021.5.14" />
     <MESSAGE value="2021.5.20" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.5.20" />
+    <MESSAGE value="2022.02.02 树的前后中序遍历练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.02.02 树的前后中序遍历练习" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
