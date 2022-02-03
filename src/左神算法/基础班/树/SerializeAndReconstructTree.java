@@ -12,11 +12,48 @@ public class SerializeAndReconstructTree {
          public int value;
          public Node right;
          public Node left;
-         public Node(int value)
-         {
-             this.value=value;
+
+         public Node(int value) {
+             this.value = value;
          }
      }
+     //==============================================后序遍历的方式序列化与反序列化====================
+     public static String serialByPost(Node head){
+         StringBuilder sb = new StringBuilder();
+         if(head == null){
+             sb.append("#_");
+         }else{
+             sb.append(serialByPost(head.left));
+             sb.append(serialByPost(head.right));
+             sb.append(head.value + "_");
+         }
+         return sb.toString();
+     }
+    public Node deserialize(String data) {
+        String[] strs = data.split("_");
+        LinkedList<String> queue = new LinkedList<>();
+        for(String str : strs){
+            queue.add(str);
+        }
+        return postDeserial(queue);
+    }
+
+    private Node postDeserial(LinkedList<String> queue){
+        if(queue.isEmpty()){
+            return null;
+        }
+        //弹出最后一个节点
+        String str = queue.pollLast();
+        if(str.equals("#")){
+            return null;
+        }
+        Node root = new Node(Integer.valueOf(str));
+        //先右子节点，再左子节点
+        root.right = postDeserial(queue);
+        root.left = postDeserial(queue);
+        return root;
+    }
+    //==============================================后序遍历的方式序列化与反序列化====================
      //以!来表示某个节点值的结尾，以#表示某个节点的孩子不存在
      public static String serialByPre(Node head)
      {
@@ -30,10 +67,12 @@ public class SerializeAndReconstructTree {
 
      public static Node reconPreOrder(Queue<String> queue)
      {
+         //前序遍历弹出最前端的节点值
          String value=queue.poll();
          if(value.equals("#"))
              return null;
          Node head=new Node(Integer.valueOf(value));
+         //先左孩子再右孩子
          head.left=reconPreOrder(queue);
          head.right=reconPreOrder(queue);
          return head;
