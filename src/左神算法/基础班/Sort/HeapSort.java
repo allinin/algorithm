@@ -112,27 +112,27 @@ public class HeapSort {
 
     // for test
     public static void main(String[] args) {
-        int testTime = 500000;
-        int maxSize = 100;
-        int maxValue = 100;
-        boolean succeed = true;
-        for (int i = 0; i < testTime; i++) {
-            int[] arr1 = generateRandomArray(maxSize, maxValue);
-            int[] arr2 = copyArray(arr1);
-            heapSort(arr1);
-            comparator(arr2);
-            if (!isEqual(arr1, arr2)) {
-                succeed = false;
-                break;
-            }
-        }
-        System.out.println(succeed ? "Nice!" : "Fucking fucked!");
-
-        int[] arr = generateRandomArray(maxSize, maxValue);
-        printArray(arr);
-        heapSort(arr);
-        printArray(arr);
-
+//        int testTime = 500000;
+//        int maxSize = 100;
+//        int maxValue = 100;
+//        boolean succeed = true;
+//        for (int i = 0; i < testTime; i++) {
+//            int[] arr1 = generateRandomArray(maxSize, maxValue);
+//            int[] arr2 = copyArray(arr1);
+//            heapSort(arr1);
+//            comparator(arr2);
+//            if (!isEqual(arr1, arr2)) {
+//                succeed = false;
+//                break;
+//            }
+//        }
+//        System.out.println(succeed ? "Nice!" : "Fucking fucked!");
+//
+//        int[] arr = generateRandomArray(maxSize, maxValue);
+//        printArray(arr);
+//        heapSort(arr);
+//        printArray(arr);
+        System.out.println(-14 / 12);
 
     }
 }

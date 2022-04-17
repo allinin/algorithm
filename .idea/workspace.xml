@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="2022.02.03 n叉树的序列化与反序列化22">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/codeTop/MeetingRoom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/公司笔面试真题/微软/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/公司笔面试真题/微软/Solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/左神算法/基础班/Sort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/左神算法/基础班/Sort/HeapSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +78,7 @@
       <recent name="G:\Idea_work\exerAlgorithm\src\重温设计模式\结构型设计模式\代理模式" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo (1)">
+  <component name="RunManager" selected="Application.HeapSort">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -97,41 +100,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="重温设计模式.其他模式.Future模式.Demo" />
+    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="左神算法.基础班.Sort.HeapSort" />
       <module name="exercise2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="重温设计模式.其他模式.Future模式.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="重温设计模式.创建型模式.工厂模式.抽象工厂模式.示例.Demo" />
-      <module name="exercise2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="重温设计模式.创建型模式.工厂模式.抽象工厂模式.示例.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="重温设计模式.结构型设计模式.装饰器模式.示例.Demo" />
-      <module name="exercise2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="重温设计模式.结构型设计模式.装饰器模式.示例.*" />
+          <option name="PATTERN" value="左神算法.基础班.Sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,6 +121,34 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="公司笔面试真题.微软.Solution1" />
+      <module name="exercise2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="公司笔面试真题.微软.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="公司笔面试真题.拼多多.Solution1" />
+      <module name="exercise2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="公司笔面试真题.拼多多.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,18 +189,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Demo" />
       <item itemvalue="Application.Demo (1)" />
-      <item itemvalue="Application.Demo (2)" />
-      <item itemvalue="Application.Demo (3)" />
+      <item itemvalue="Application.Solution1" />
+      <item itemvalue="Application.Solution1 (1)" />
+      <item itemvalue="Application.HeapSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HeapSort" />
+        <item itemvalue="Application.Solution1 (1)" />
+        <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.Demo (1)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Demo (3)" />
-        <item itemvalue="Application.Demo (2)" />
-        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -390,7 +393,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643879941896</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="2022.02.03 n叉树的序列化与反序列化22">
+      <created>1647767335727</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1647767335727</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -416,7 +426,8 @@
     <MESSAGE value="2021.5.20" />
     <MESSAGE value="2022.02.02 树的前后中序遍历练习" />
     <MESSAGE value="2022.02.03 n叉树的序列化与反序列化" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.02.03 n叉树的序列化与反序列化" />
+    <MESSAGE value="2022.02.03 n叉树的序列化与反序列化22" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.02.03 n叉树的序列化与反序列化22" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
