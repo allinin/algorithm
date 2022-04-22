@@ -1,10 +1,7 @@
-package Leetcode.codeTop;
-
-import org.omg.PortableInterceptor.INACTIVE;
+package codeTopLeetCodeVIP;
 
 import java.util.Arrays;
 import java.util.PriorityQueue;
-import java.util.Queue;
 
 /**
  * codeTop中的会议室题目，分为会议室I与会议室II两个题目
