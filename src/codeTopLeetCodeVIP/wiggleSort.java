@@ -1,5 +1,12 @@
 package codeTopLeetCodeVIP;
 
+import com.google.common.collect.Lists;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.stream.Collectors;
+
 /**
  * LeetCode 280
  * 给一个没有排序的数组，将其重新排序成nums[0] <= nums[1] >= nums[2] <= nums[3]....的样子，要求in-place。
@@ -24,10 +31,15 @@ public class wiggleSort {
         }
     }
 
+
+
     public static void main(String[] args) {
         int[] nums = new int[]{3,5,2,1,6,4};
         wiggleSort(nums);
-        for(int i = 0;i < nums.length;i++)
-        System.out.println(nums[i]);
+        ArrayList<Integer> list = new ArrayList<>();
+        for(int num : nums){
+            list.add(num);
+        }
+        System.out.println(list.stream().mapToInt(Integer::intValue).sum());
     }
 }
