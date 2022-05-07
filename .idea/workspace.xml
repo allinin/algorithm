@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="2022.04.22 leetCode 280 vip wiggle array">
-      <change afterPath="$PROJECT_DIR$/src/codeTopLeetCodeVIP/Leetcode224.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTopLeetCodeVIP/SortOddEvenList.java" afterDir="false" />
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="2022.05.02">
+      <change afterPath="$PROJECT_DIR$/src/codeTopLeetCodeVIP/LeetCode1060.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTopLeetCodeVIP/LeetCode1574.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTopLeetCodeVIP/LeetCode487.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTopLeetCodeVIP/leetCode311.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeTopLeetCodeVIP/wiggleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeTopLeetCodeVIP/wiggleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +79,7 @@
       <recent name="G:\Idea_work\exerAlgorithm\src\重温设计模式\结构型设计模式\代理模式" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StoneGameVII">
+  <component name="RunManager" selected="Application.LeetCode487">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -86,22 +87,8 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="左神算法.基础班.Sort.HeapSort" />
-      <module name="exercise2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="左神算法.基础班.Sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Leetcode224" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTopLeetCodeVIP.Leetcode224" />
+    <configuration name="LeetCode1060" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTopLeetCodeVIP.LeetCode1060" />
       <module name="exercise2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -114,13 +101,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumDistinctIslands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.codeTopLeetCodeVIP.NumDistinctIslands" />
+    <configuration name="LeetCode1574" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTopLeetCodeVIP.LeetCode1574" />
       <module name="exercise2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.codeTopLeetCodeVIP.*" />
+          <option name="PATTERN" value="codeTopLeetCodeVIP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode485" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTopLeetCodeVIP.LeetCode485" />
+      <module name="exercise2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeTopLeetCodeVIP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode487" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTopLeetCodeVIP.LeetCode487" />
+      <module name="exercise2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeTopLeetCodeVIP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,20 +159,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="wiggleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTopLeetCodeVIP.wiggleSort" />
-      <module name="exercise2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codeTopLeetCodeVIP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -188,19 +189,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HeapSort" />
-      <item itemvalue="Application.NumDistinctIslands" />
-      <item itemvalue="Application.wiggleSort" />
-      <item itemvalue="Application.Leetcode224" />
       <item itemvalue="Application.StoneGameVII" />
+      <item itemvalue="Application.LeetCode1060" />
+      <item itemvalue="Application.LeetCode1574" />
+      <item itemvalue="Application.LeetCode485" />
+      <item itemvalue="Application.LeetCode487" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeetCode487" />
+        <item itemvalue="Application.LeetCode485" />
+        <item itemvalue="Application.LeetCode1574" />
+        <item itemvalue="Application.LeetCode1060" />
         <item itemvalue="Application.StoneGameVII" />
-        <item itemvalue="Application.Leetcode224" />
-        <item itemvalue="Application.wiggleSort" />
-        <item itemvalue="Application.NumDistinctIslands" />
-        <item itemvalue="Application.HeapSort" />
       </list>
     </recent_temporary>
   </component>
@@ -414,7 +415,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650645699448</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="2022.05.02">
+      <created>1651514374438</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1651514374438</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -443,7 +451,8 @@
     <MESSAGE value="2022.02.03 n叉树的序列化与反序列化22" />
     <MESSAGE value="2022.04.17 leetCode 253（会员题目）会议室解" />
     <MESSAGE value="2022.04.22 leetCode 280 vip wiggle array" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.04.22 leetCode 280 vip wiggle array" />
+    <MESSAGE value="2022.05.02" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.05.02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
