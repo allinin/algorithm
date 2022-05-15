@@ -1,4 +1,4 @@
-package codeTopLeetCodeVIP;
+package codeTop;
 
 /**
  * 现有一个按 升序 排列的整数数组 nums ，其中每个数字都 互不相同 。

@@ -1,4 +1,4 @@
-package codeTopLeetCodeVIP;
+package codeTop;
 
 public class LeetCode1574 {
 

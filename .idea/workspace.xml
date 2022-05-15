@@ -4,12 +4,20 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="2022.05.02">
-      <change afterPath="$PROJECT_DIR$/src/codeTopLeetCodeVIP/LeetCode1060.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTopLeetCodeVIP/LeetCode1574.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTopLeetCodeVIP/LeetCode487.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTopLeetCodeVIP/leetCode311.java" afterDir="false" />
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="2022.05.07">
+      <change afterPath="$PROJECT_DIR$/src/codeTop/LeetCode1245.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTop/LeetCode880.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeTopLeetCodeVIP/InOrderSuccessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeTop/InOrderSuccessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeTopLeetCodeVIP/LeetCode1060.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeTop/LeetCode1060.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeTopLeetCodeVIP/LeetCode1574.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeTop/LeetCode1574.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeTopLeetCodeVIP/LeetCode487.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeTop/LeetCode487.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeTopLeetCodeVIP/Leetcode224.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeTop/Leetcode224.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeTopLeetCodeVIP/MeetingRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeTop/MeetingRoom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeTopLeetCodeVIP/NumDistinctIslands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeTop/NumDistinctIslands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeTopLeetCodeVIP/SortOddEvenList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeTop/SortOddEvenList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeTopLeetCodeVIP/leetCode311.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeTop/leetCode311.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeTopLeetCodeVIP/wiggleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeTop/wiggleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +87,7 @@
       <recent name="G:\Idea_work\exerAlgorithm\src\重温设计模式\结构型设计模式\代理模式" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LeetCode487">
+  <component name="RunManager" selected="Application.LeetCode1245">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -87,13 +95,13 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="LeetCode1060" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTopLeetCodeVIP.LeetCode1060" />
+    <configuration name="LeetCode1245" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTop.LeetCode1245" />
       <module name="exercise2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeTopLeetCodeVIP.*" />
+          <option name="PATTERN" value="codeTop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +110,12 @@
       </method>
     </configuration>
     <configuration name="LeetCode1574" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTopLeetCodeVIP.LeetCode1574" />
+      <option name="MAIN_CLASS_NAME" value="codeTop.LeetCode1574" />
       <module name="exercise2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeTopLeetCodeVIP.*" />
+          <option name="PATTERN" value="codeTop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,7 +129,7 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeTopLeetCodeVIP.*" />
+          <option name="PATTERN" value="codeTop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +138,12 @@
       </method>
     </configuration>
     <configuration name="LeetCode487" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTopLeetCodeVIP.LeetCode487" />
+      <option name="MAIN_CLASS_NAME" value="codeTop.LeetCode487" />
       <module name="exercise2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeTopLeetCodeVIP.*" />
+          <option name="PATTERN" value="codeTop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,13 +151,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StoneGameVII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTopLeetCodeVIP.StoneGameVII" />
+    <configuration name="LeetCode880" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTop.LeetCode880" />
       <module name="exercise2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeTopLeetCodeVIP.*" />
+          <option name="PATTERN" value="codeTop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,19 +197,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StoneGameVII" />
-      <item itemvalue="Application.LeetCode1060" />
       <item itemvalue="Application.LeetCode1574" />
       <item itemvalue="Application.LeetCode485" />
       <item itemvalue="Application.LeetCode487" />
+      <item itemvalue="Application.LeetCode880" />
+      <item itemvalue="Application.LeetCode1245" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeetCode1245" />
+        <item itemvalue="Application.LeetCode880" />
         <item itemvalue="Application.LeetCode487" />
         <item itemvalue="Application.LeetCode485" />
         <item itemvalue="Application.LeetCode1574" />
-        <item itemvalue="Application.LeetCode1060" />
-        <item itemvalue="Application.StoneGameVII" />
       </list>
     </recent_temporary>
   </component>
@@ -422,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651514374438</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="2022.05.07">
+      <created>1651941232631</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1651941232631</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -452,7 +467,8 @@
     <MESSAGE value="2022.04.17 leetCode 253（会员题目）会议室解" />
     <MESSAGE value="2022.04.22 leetCode 280 vip wiggle array" />
     <MESSAGE value="2022.05.02" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.05.02" />
+    <MESSAGE value="2022.05.07" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.05.07" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

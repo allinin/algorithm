@@ -1,4 +1,4 @@
-package codeTopLeetCodeVIP;
+package codeTop;
 
 /**
  * 给定一个二进制数组，你可以最多将 1 个 0 翻转为 1，找出其中最大连续 1 的个数。

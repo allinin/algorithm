@@ -1,11 +1,6 @@
-package codeTopLeetCodeVIP;
-
-import com.google.common.collect.Lists;
+package codeTop;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.stream.Collectors;
 
 /**
  * LeetCode 280

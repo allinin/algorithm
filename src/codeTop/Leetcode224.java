@@ -1,4 +1,4 @@
-package codeTopLeetCodeVIP;
+package codeTop;
 
 import java.util.Stack;
 

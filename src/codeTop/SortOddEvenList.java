@@ -1,6 +1,4 @@
-package codeTopLeetCodeVIP;
-
-import java.util.List;
+package codeTop;
 
 /**
  * 给定一个奇数位升序，偶数位降序的链表，将其重新排序。

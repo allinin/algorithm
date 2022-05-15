@@ -1,4 +1,4 @@
-package codeTopLeetCodeVIP;
+package codeTop;
 
 /**
  * 给定一棵二叉搜索树和其中的一个节点 node ，找到该节点在树中的中序后继。

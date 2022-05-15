@@ -1,4 +1,4 @@
-package codeTopLeetCodeVIP;
+package codeTop;
 
 /**
  * 给你两个 稀疏矩阵 A 和 B，请你返回 AB 的结果。
