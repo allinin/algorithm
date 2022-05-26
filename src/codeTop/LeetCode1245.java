@@ -87,7 +87,7 @@ public class LeetCode1245 {
     }
 
     /**
-     * 返回以index为起点的最大边长
+     * 返回以index为起点的经过的最大节点数量
      * @param treeList
      * @param index
      * @param visited
@@ -103,6 +103,7 @@ public class LeetCode1245 {
             if(visited[newIndex]){
                 continue;
             }
+            //返回以newIndex为起点可以经过的最大节点数量，即因为newIndex与index相连因此也等于以index为圆心的最大边长
             int tmp = process(treeList,newIndex,visited);
             if(tmp > max1){
                 max2 = max1;
