@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="2022.05.15">
-      <change afterPath="$PROJECT_DIR$/src/codeTop/ByteDance1.java" afterDir="false" />
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="2022.05.26">
+      <change afterPath="$PROJECT_DIR$/src/codeTop/QuickMulti.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeTop/LeetCode1245.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeTop/LeetCode1245.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeTop/ByteDance1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeTop/ByteDance1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +36,7 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/codeTop/ByteDance1.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="jar://$PROJECT_DIR$/../../jkdk8/src.zip!/java/util/Stack.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="InvalidFacetManager">
@@ -82,7 +83,7 @@
       <recent name="G:\Idea_work\exerAlgorithm\src\重温设计模式\结构型设计模式\代理模式" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ByteDance1">
+  <component name="RunManager" selected="Application.QuickMulti">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -118,8 +119,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode487" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTop.LeetCode487" />
+    <configuration name="LeetCode880" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTop.LeetCode880" />
       <module name="exercise2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -132,8 +133,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode880" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTop.LeetCode880" />
+    <configuration name="QuickMulti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTop.QuickMulti" />
       <module name="exercise2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -186,19 +187,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LeetCode487" />
       <item itemvalue="Application.LeetCode880" />
       <item itemvalue="Application.LeetCode1245" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.ByteDance1" />
+      <item itemvalue="Application.QuickMulti" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickMulti" />
         <item itemvalue="Application.ByteDance1" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.LeetCode1245" />
         <item itemvalue="Application.LeetCode880" />
-        <item itemvalue="Application.LeetCode487" />
       </list>
     </recent_temporary>
   </component>
@@ -433,7 +434,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652619465623</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="2022.05.26">
+      <created>1653573480101</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1653573480101</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -465,7 +473,8 @@
     <MESSAGE value="2022.05.02" />
     <MESSAGE value="2022.05.07" />
     <MESSAGE value="2022.05.15" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.05.15" />
+    <MESSAGE value="2022.05.26" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.05.26" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

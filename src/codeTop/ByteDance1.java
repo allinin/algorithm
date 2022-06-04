@@ -27,6 +27,7 @@ public class ByteDance1 {
                 left = mid + 1;
                 k -= (mid + 1);
             }else if(mid - left + 1 > k){
+                //必须写作mid - 1,不然会出现死循环
                 right = mid - 1;
             }else {
                 for(int i = left;i <= mid;i++){
