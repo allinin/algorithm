@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="2022.05.26">
-      <change afterPath="$PROJECT_DIR$/src/codeTop/QuickMulti.java" afterDir="false" />
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="2022.06.04">
+      <change afterPath="$PROJECT_DIR$/src/codeTop/hard/LeetCode305.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeTop/ByteDance1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeTop/ByteDance1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeTop/QuickMulti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeTop/QuickMulti.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +83,7 @@
       <recent name="G:\Idea_work\exerAlgorithm\src\重温设计模式\结构型设计模式\代理模式" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QuickMulti">
+  <component name="RunManager" selected="Application.LeetCode305">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -119,13 +119,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode880" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTop.LeetCode880" />
+    <configuration name="LeetCode305" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTop.hard.LeetCode305" />
       <module name="exercise2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeTop.*" />
+          <option name="PATTERN" value="codeTop.hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,19 +187,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LeetCode880" />
       <item itemvalue="Application.LeetCode1245" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.ByteDance1" />
       <item itemvalue="Application.QuickMulti" />
+      <item itemvalue="Application.LeetCode305" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeetCode305" />
         <item itemvalue="Application.QuickMulti" />
         <item itemvalue="Application.ByteDance1" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.LeetCode1245" />
-        <item itemvalue="Application.LeetCode880" />
       </list>
     </recent_temporary>
   </component>
@@ -441,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653573480101</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="2022.06.04">
+      <created>1654331343765</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1654331343765</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -474,7 +481,8 @@
     <MESSAGE value="2022.05.07" />
     <MESSAGE value="2022.05.15" />
     <MESSAGE value="2022.05.26" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.05.26" />
+    <MESSAGE value="2022.06.04" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.06.04" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -19,6 +19,12 @@ public class QuickMulti {
     }
 
     public static void main(String[] args) {
-        System.out.println(quickMultiImpl(384,59));
+        String str = " 2   ";
+        String[] ss = str.split(" ");
+        System.out.println(ss.length);
+        for(String s : ss){
+            System.out.println(s);
+        }
+
     }
 }
