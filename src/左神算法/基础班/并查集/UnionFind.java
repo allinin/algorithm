@@ -39,6 +39,7 @@ public class UnionFind {
             if(father!=n)
             {
                 father=findFather(father);
+                // TODO 在更改父节点的同时根据不同的题目内容考虑是否要更改当前节点到父节点的权重，见LeetCode 399
             }
             fatherMap.put(n,father);
             return father;

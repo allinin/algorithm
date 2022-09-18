@@ -1,5 +1,8 @@
 package codeTop;
 
+import java.util.HashMap;
+import java.util.Scanner;
+
 /**
  * 不使用乘法快速计算a * b的值
  */
@@ -19,12 +22,15 @@ public class QuickMulti {
     }
 
     public static void main(String[] args) {
-        String str = " 2   ";
-        String[] ss = str.split(" ");
-        System.out.println(ss.length);
-        for(String s : ss){
-            System.out.println(s);
+        Scanner scanner = new Scanner(System.in);
+        while(scanner.hasNext()){
+            int next = scanner.nextInt();
+            String[] arr = new String[next];
+            for(int i = 0;i < next;i++){
+                arr[i] = scanner.next();
+            }
         }
+
 
     }
 }

@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="2022.06.04">
-      <change afterPath="$PROJECT_DIR$/src/codeTop/hard/LeetCode305.java" afterDir="false" />
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="2022.06.09">
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTop/LeeCode1570.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTop/LeetCode1214.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hot100/LeetCode152.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/codeTop/QuickMulti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeTop/QuickMulti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/左神算法/基础班/并查集/UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/左神算法/基础班/并查集/UnionFind.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +87,7 @@
       <recent name="G:\Idea_work\exerAlgorithm\src\重温设计模式\结构型设计模式\代理模式" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LeetCode305">
+  <component name="RunManager" selected="Application.Test">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -105,13 +109,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode1245" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTop.LeetCode1245" />
+    <configuration name="LeetCode152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hot100.LeetCode152" />
       <module name="exercise2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeTop.*" />
+          <option name="PATTERN" value="hot100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,19 +191,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LeetCode1245" />
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.ByteDance1" />
-      <item itemvalue="Application.QuickMulti" />
       <item itemvalue="Application.LeetCode305" />
+      <item itemvalue="Application.QuickMulti" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.LeetCode152" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LeetCode305" />
-        <item itemvalue="Application.QuickMulti" />
-        <item itemvalue="Application.ByteDance1" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.LeetCode1245" />
+        <item itemvalue="Application.LeetCode152" />
+        <item itemvalue="Application.QuickMulti" />
+        <item itemvalue="Application.LeetCode305" />
+        <item itemvalue="Application.ByteDance1" />
       </list>
     </recent_temporary>
   </component>
@@ -448,7 +452,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654331343765</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="2022.06.09">
+      <created>1654790000519</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1654790000519</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -482,7 +493,8 @@
     <MESSAGE value="2022.05.15" />
     <MESSAGE value="2022.05.26" />
     <MESSAGE value="2022.06.04" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.06.04" />
+    <MESSAGE value="2022.06.09" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.06.09" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
