@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="2022.06.09">
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTop/LeeCode1570.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTop/LeetCode1214.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hot100/LeetCode152.java" afterDir="false" />
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="并查集添加TODO内容">
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/LeetCode666.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeTop/QuickMulti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeTop/QuickMulti.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/左神算法/基础班/并查集/UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/左神算法/基础班/并查集/UnionFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hot100/LeetCode152.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/LeetCode152.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +34,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="e129ef3d-d702-4d84-af59-67dedfa9a69f" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/codeTop/ByteDance1.java" root0="FORCE_HIGHLIGHTING" />
@@ -75,7 +74,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15323994" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="ReaderModeSettings">
     <option name="enabled" value="false" />
@@ -87,7 +86,7 @@
       <recent name="G:\Idea_work\exerAlgorithm\src\重温设计模式\结构型设计模式\代理模式" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.LeetCode666">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -95,27 +94,13 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="ByteDance1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTop.ByteDance1" />
-      <module name="exercise2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codeTop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LeetCode152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hot100.LeetCode152" />
+      <option name="MAIN_CLASS_NAME" value="LeetCodeHot100.LeetCode152" />
       <module name="exercise2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hot100.*" />
+          <option name="PATTERN" value="LeetCodeHot100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,6 +115,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="codeTop.hard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode666" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeHot100.LeetCode666" />
+      <module name="exercise2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCodeHot100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,19 +190,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ByteDance1" />
       <item itemvalue="Application.LeetCode305" />
       <item itemvalue="Application.QuickMulti" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.LeetCode152" />
+      <item itemvalue="Application.LeetCode666" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeetCode666" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.LeetCode152" />
         <item itemvalue="Application.QuickMulti" />
         <item itemvalue="Application.LeetCode305" />
-        <item itemvalue="Application.ByteDance1" />
       </list>
     </recent_temporary>
   </component>
@@ -459,7 +458,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654790000519</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="并查集添加TODO内容">
+      <created>1663504704340</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1663504704340</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -494,7 +500,8 @@
     <MESSAGE value="2022.05.26" />
     <MESSAGE value="2022.06.04" />
     <MESSAGE value="2022.06.09" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.06.09" />
+    <MESSAGE value="并查集添加TODO内容" />
+    <option name="LAST_COMMIT_MESSAGE" value="并查集添加TODO内容" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
