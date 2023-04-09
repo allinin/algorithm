@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="并查集添加TODO内容">
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/LeetCode666.java" afterDir="false" />
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="路径总和IV LeetCode666">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hot100/LeetCode152.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/LeetCode152.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\Apache\maven_repository" />
-        <option name="mavenHome" value="D:\ideaIU-2020.2.3.win\plugins\maven\lib\maven3" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Apache/maven" />
         <option name="userSettingsFile" value="D:\Apache\maven\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -70,11 +69,11 @@
     <property name="SearchEverywhereHistoryKey" value="Priority&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/PriorityQueue.java&#10;String&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/String.java&#10;PriorityQ&#9;PSI&#9;JAVA://java.util.PriorityQueue&#10;Executors&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;ApplicationContextA&#9;PSI&#9;JAVA://org.springframework.context.ApplicationContextAware&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;Arrays&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Arrays.java&#10;TreeSet&#9;PSI&#9;JAVA://java.util.TreeSet&#10;TreeMap&#9;PSI&#9;JAVA://java.util.TreeMap&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;LinkedList&#9;PSI&#9;JAVA://java.util.LinkedList&#10;Map&#9;PSI&#9;JAVA://java.util.Map&#10;URL&#9;PSI&#9;JAVA://java.net.URL&#10;Thread&#9;PSI&#9;JAVA://JUC.Demo.ThreadDemo&#10;Class&#9;PSI&#9;JAVA://java.lang.Class&#10;List&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/List.java&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rocketmq" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15323994" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="project.structure.side.proportion" value="0.40184757" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
   </component>
   <component name="ReaderModeSettings">
     <option name="enabled" value="false" />
@@ -465,7 +464,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663504704340</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="路径总和IV LeetCode666">
+      <created>1663596542195</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1663596542195</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -501,7 +507,8 @@
     <MESSAGE value="2022.06.04" />
     <MESSAGE value="2022.06.09" />
     <MESSAGE value="并查集添加TODO内容" />
-    <option name="LAST_COMMIT_MESSAGE" value="并查集添加TODO内容" />
+    <MESSAGE value="路径总和IV LeetCode666" />
+    <option name="LAST_COMMIT_MESSAGE" value="路径总和IV LeetCode666" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
