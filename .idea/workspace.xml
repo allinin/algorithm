@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="路径总和IV LeetCode666">
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="git test">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Solution395.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,23 +64,31 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="1uNkcgN4eobSROGlFNavFNfHpUH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="Priority&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/PriorityQueue.java&#10;String&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/lang/String.java&#10;PriorityQ&#9;PSI&#9;JAVA://java.util.PriorityQueue&#10;Executors&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;ApplicationContextA&#9;PSI&#9;JAVA://org.springframework.context.ApplicationContextAware&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;Arrays&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/Arrays.java&#10;TreeSet&#9;PSI&#9;JAVA://java.util.TreeSet&#10;TreeMap&#9;PSI&#9;JAVA://java.util.TreeMap&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;LinkedList&#9;PSI&#9;JAVA://java.util.LinkedList&#10;Map&#9;PSI&#9;JAVA://java.util.Map&#10;URL&#9;PSI&#9;JAVA://java.net.URL&#10;Thread&#9;PSI&#9;JAVA://JUC.Demo.ThreadDemo&#10;Class&#9;PSI&#9;JAVA://java.lang.Class&#10;List&#9;FILE&#9;jar://E:/jdk1.8/src.zip!/java/util/List.java&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rocketmq" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15323994" />
-    <property name="project.structure.side.proportion" value="0.40184757" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/java_workhome/datasource&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.remoteExternalTools&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="ReaderModeSettings">
     <option name="enabled" value="false" />
   </component>
@@ -85,7 +99,7 @@
       <recent name="G:\Idea_work\exerAlgorithm\src\重温设计模式\结构型设计模式\代理模式" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LeetCode666">
+  <component name="RunManager" selected="Application.Solution395">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -100,20 +114,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCodeHot100.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeetCode305" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTop.hard.LeetCode305" />
-      <module name="exercise2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codeTop.hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,6 +142,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="codeTop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution395" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Solution395" />
+      <module name="exercise2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,7 +203,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LeetCode305" />
+      <item itemvalue="Application.Solution395" />
       <item itemvalue="Application.QuickMulti" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.LeetCode152" />
@@ -197,11 +211,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution395" />
         <item itemvalue="Application.LeetCode666" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.LeetCode152" />
         <item itemvalue="Application.QuickMulti" />
-        <item itemvalue="Application.LeetCode305" />
       </list>
     </recent_temporary>
   </component>
@@ -274,6 +288,13 @@
       <workItem from="1624513946488" duration="140000" />
       <workItem from="1624795572174" duration="21000" />
       <workItem from="1624795872983" duration="652000" />
+      <workItem from="1700922923276" duration="84000" />
+      <workItem from="1700923021818" duration="1779000" />
+      <workItem from="1701002218048" duration="2808000" />
+      <workItem from="1701585540776" duration="685000" />
+      <workItem from="1702129116770" duration="67000" />
+      <workItem from="1702565133046" duration="2867000" />
+      <workItem from="1702812730547" duration="379000" />
     </task>
     <task id="LOCAL-00001" summary="2020.12.08">
       <created>1607401717380</created>
