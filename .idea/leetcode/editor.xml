@@ -3,6 +3,17 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/../../java_workhome/LeetCode/src/main/java/leetcode/editor/cn/[2482]行和列中一和零的差值.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../java_workhome/LeetCode/src/main/java/leetcode/editor/cn/doc/content/[2482]行和列中一和零的差值.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2482" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../java_workhome/LeetCode/src/main/java/leetcode/editor/cn/[2482]行和列中一和零的差值.java" />
+              <option name="titleSlug" value="difference-between-ones-and-zeros-in-row-and-column" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../LeetCode/src/main/java/leetcode/editor/cn/[1457]二叉树中的伪回文路径.java">
           <value>
             <LeetcodeEditor>
@@ -77,6 +88,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/../LeetCode/src/main/java/leetcode/editor/cn/[888]公平的糖果交换.java" />
               <option name="titleSlug" value="fair-candy-swap" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../LeetCode/src/main/java/leetcode/editor/cn/[LCR 004]只出现一次的数字 II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../LeetCode/src/main/java/leetcode/editor/cn/doc/content/[LCR 004]只出现一次的数字 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cnLCR 004" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../LeetCode/src/main/java/leetcode/editor/cn/[LCR 004]只出现一次的数字 II.java" />
+              <option name="titleSlug" value="WGki4K" />
             </LeetcodeEditor>
           </value>
         </entry>
