@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="340，2400 add">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/LCR_LCP题目/LCR004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/LCR_LCP题目/LCR03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/LCR_LCP题目/LCR170.java" afterDir="false" />
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="add LCR 03,04,170">
       <change afterPath="$PROJECT_DIR$/src/Leetcode/Solution348.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/归并排序应用/LCR170.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/归并排序应用/Solution315.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,8 +101,11 @@
       <recent name="G:\Idea_work\dataSource\src\重温设计模式\行为模式\观察者模式" />
       <recent name="G:\Idea_work\exerAlgorithm\src\重温设计模式\结构型设计模式\代理模式" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="工作后刷题.归并排序应用" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.HelpFunction">
+  <component name="RunManager" selected="Application.LCR170">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -127,13 +127,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode666" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCodeHot100.LeetCode666" />
+    <configuration name="LCR170" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="工作后刷题.归并排序应用.LCR170" />
       <module name="exercise2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCodeHot100.*" />
+          <option name="PATTERN" value="工作后刷题.归并排序应用.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,13 +155,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution340" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Solution340" />
+    <configuration name="Solution315" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="工作后刷题.归并排序应用.Solution315" />
       <module name="exercise2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.*" />
+          <option name="PATTERN" value="工作后刷题.归并排序应用.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,8 +169,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution395" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Solution395" />
+    <configuration name="Solution340" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Solution340" />
       <module name="exercise2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -215,19 +215,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.LCR170" />
+      <item itemvalue="Application.Solution315" />
       <item itemvalue="Application.HelpFunction" />
       <item itemvalue="Application.Solution2400" />
       <item itemvalue="Application.Solution340" />
-      <item itemvalue="Application.Solution395" />
-      <item itemvalue="Application.LeetCode666" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LCR170" />
+        <item itemvalue="Application.Solution315" />
         <item itemvalue="Application.HelpFunction" />
         <item itemvalue="Application.Solution2400" />
         <item itemvalue="Application.Solution340" />
-        <item itemvalue="Application.Solution395" />
-        <item itemvalue="Application.LeetCode666" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +316,9 @@
       <workItem from="1703905963138" duration="2317000" />
       <workItem from="1703908486018" duration="2228000" />
       <workItem from="1703936038182" duration="1826000" />
-      <workItem from="1703937877998" duration="313000" />
+      <workItem from="1703937877998" duration="929000" />
+      <workItem from="1704002214204" duration="8110000" />
+      <workItem from="1704026618112" duration="4305000" />
     </task>
     <task id="LOCAL-00001" summary="2020.12.08">
       <created>1607401717380</created>
@@ -530,7 +532,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703908190278</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="add LCR 03,04,170">
+      <option name="closed" value="true" />
+      <created>1703938228102</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1703938228102</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -569,7 +579,8 @@
     <MESSAGE value="路径总和IV LeetCode666" />
     <MESSAGE value="395 leetcode" />
     <MESSAGE value="340，2400 add" />
-    <option name="LAST_COMMIT_MESSAGE" value="340，2400 add" />
+    <MESSAGE value="add LCR 03,04,170" />
+    <option name="LAST_COMMIT_MESSAGE" value="add LCR 03,04,170" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -604,11 +615,6 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="map2.entrySet().toArray()[1]" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="breakpointCondition">
