@@ -39,7 +39,7 @@ public class Manacher {
                 index = i;
             }
             max = Math.max(max, pArr[i]);//因为pArr[i]是manacher数组的回文半径，也就是原字符数组
-            // 的回文直径+1了..如果max的值发生了改变，原来string中最长回文串的起始坐标为：(i-max-1)/2;
+            // 的回文直径+1了..如果max的值发生了改变，原来string中最长回文串的起始坐标为：(i-max+1)/2;
 
         }
 

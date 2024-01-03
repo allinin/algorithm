@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="add LCR 03,04,170">
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="树状数组解决逆序对问题">
       <change afterPath="$PROJECT_DIR$/src/Leetcode/Solution348.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/归并排序应用/LCR170.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/归并排序应用/Solution315.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/掩膜mask/Face0101.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/左神算法/进阶班一/Manacher/Manacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/Manacher/Manacher.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -318,7 +318,9 @@
       <workItem from="1703936038182" duration="1826000" />
       <workItem from="1703937877998" duration="929000" />
       <workItem from="1704002214204" duration="8110000" />
-      <workItem from="1704026618112" duration="4305000" />
+      <workItem from="1704026618112" duration="4955000" />
+      <workItem from="1704196578438" duration="3469000" />
+      <workItem from="1704289047913" duration="1068000" />
     </task>
     <task id="LOCAL-00001" summary="2020.12.08">
       <created>1607401717380</created>
@@ -540,7 +542,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703938228102</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="树状数组解决逆序对问题">
+      <option name="closed" value="true" />
+      <created>1704031028351</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1704031028351</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -580,7 +590,8 @@
     <MESSAGE value="395 leetcode" />
     <MESSAGE value="340，2400 add" />
     <MESSAGE value="add LCR 03,04,170" />
-    <option name="LAST_COMMIT_MESSAGE" value="add LCR 03,04,170" />
+    <MESSAGE value="树状数组解决逆序对问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="树状数组解决逆序对问题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
