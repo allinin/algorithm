@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="树状数组解决逆序对问题">
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="int类作为掩膜替代map的作用">
       <change afterPath="$PROJECT_DIR$/src/Leetcode/Solution348.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/掩膜mask/Face0101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/bfs/Face1722.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/dp/Face1723.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/倒排索引/Face1726.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/倒排索引/introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/双指针/Face1721.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/子数组相关问题/Face1724.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/左神算法/进阶班一/Manacher/Manacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/左神算法/进阶班一/Manacher/Manacher.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +109,7 @@
       <recent name="工作后刷题.归并排序应用" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LCR170">
+  <component name="RunManager" selected="Application.Face1722">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -113,13 +117,41 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="HelpFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.LCR题目.HelpFunction" />
+    <configuration name="Face1722" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="工作后刷题.bfs.Face1722" />
       <module name="exercise2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.LCR_LCP题目.*" />
+          <option name="PATTERN" value="工作后刷题.bfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Face1723" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="工作后刷题.dp.Face1723" />
+      <module name="exercise2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="工作后刷题.dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Face1726" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="工作后刷题.倒排索引.Face1726" />
+      <module name="exercise2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="工作后刷题.倒排索引.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,20 +173,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution2400" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Solution2400" />
-      <module name="exercise2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution315" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="工作后刷题.归并排序应用.Solution315" />
       <module name="exercise2" />
@@ -162,20 +180,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="工作后刷题.归并排序应用.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution340" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Solution340" />
-      <module name="exercise2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,19 +219,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Face1722" />
+      <item itemvalue="Application.Face1723" />
+      <item itemvalue="Application.Face1726" />
       <item itemvalue="Application.LCR170" />
       <item itemvalue="Application.Solution315" />
-      <item itemvalue="Application.HelpFunction" />
-      <item itemvalue="Application.Solution2400" />
-      <item itemvalue="Application.Solution340" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Face1722" />
+        <item itemvalue="Application.Face1723" />
+        <item itemvalue="Application.Face1726" />
         <item itemvalue="Application.LCR170" />
         <item itemvalue="Application.Solution315" />
-        <item itemvalue="Application.HelpFunction" />
-        <item itemvalue="Application.Solution2400" />
-        <item itemvalue="Application.Solution340" />
       </list>
     </recent_temporary>
   </component>
@@ -320,7 +324,11 @@
       <workItem from="1704002214204" duration="8110000" />
       <workItem from="1704026618112" duration="4955000" />
       <workItem from="1704196578438" duration="3469000" />
-      <workItem from="1704289047913" duration="1068000" />
+      <workItem from="1704289047913" duration="1222000" />
+      <workItem from="1704608333365" duration="1183000" />
+      <workItem from="1704609674600" duration="6795000" />
+      <workItem from="1704617975815" duration="4930000" />
+      <workItem from="1704629005590" duration="640000" />
     </task>
     <task id="LOCAL-00001" summary="2020.12.08">
       <created>1607401717380</created>
@@ -550,7 +558,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704031028351</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="int类作为掩膜替代map的作用">
+      <option name="closed" value="true" />
+      <created>1704290876261</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1704290876261</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -561,7 +577,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -591,7 +619,8 @@
     <MESSAGE value="340，2400 add" />
     <MESSAGE value="add LCR 03,04,170" />
     <MESSAGE value="树状数组解决逆序对问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="树状数组解决逆序对问题" />
+    <MESSAGE value="int类作为掩膜替代map的作用" />
+    <option name="LAST_COMMIT_MESSAGE" value="int类作为掩膜替代map的作用" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
