@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="int类作为掩膜替代map的作用">
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="程序员面试金典：倒排索引+接雨水双指针方式等">
       <change afterPath="$PROJECT_DIR$/src/Leetcode/Solution348.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/bfs/Face1722.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/dp/Face1723.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/倒排索引/Face1726.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/倒排索引/introduce.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/双指针/Face1721.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/子数组相关问题/Face1724.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/数组子数组相关问题/Face1719_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/结构设计/Face1720.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/工作后刷题/倒排索引/Face1726.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/倒排索引/Face1726_.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/工作后刷题/子数组相关问题/Face1724.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/数组子数组相关问题/Face1724.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +43,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/codeTop/ByteDance1.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/工作后刷题/数组子数组相关问题/Face1719.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="jar://$PROJECT_DIR$/../../jkdk8/src.zip!/java/util/Stack.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="InvalidFacetManager">
@@ -145,8 +144,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Face1726" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="工作后刷题.倒排索引.Face1726" />
+    <configuration name="Face1726_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="工作后刷题.倒排索引.Face1726_" />
       <module name="exercise2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -219,9 +218,9 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Face1726_" />
       <item itemvalue="Application.Face1722" />
       <item itemvalue="Application.Face1723" />
-      <item itemvalue="Application.Face1726" />
       <item itemvalue="Application.LCR170" />
       <item itemvalue="Application.Solution315" />
     </list>
@@ -229,7 +228,7 @@
       <list>
         <item itemvalue="Application.Face1722" />
         <item itemvalue="Application.Face1723" />
-        <item itemvalue="Application.Face1726" />
+        <item itemvalue="Application.Face1726_" />
         <item itemvalue="Application.LCR170" />
         <item itemvalue="Application.Solution315" />
       </list>
@@ -328,7 +327,8 @@
       <workItem from="1704608333365" duration="1183000" />
       <workItem from="1704609674600" duration="6795000" />
       <workItem from="1704617975815" duration="4930000" />
-      <workItem from="1704629005590" duration="640000" />
+      <workItem from="1704629005590" duration="1028000" />
+      <workItem from="1704714219082" duration="3355000" />
     </task>
     <task id="LOCAL-00001" summary="2020.12.08">
       <created>1607401717380</created>
@@ -566,7 +566,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704290876261</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="程序员面试金典：倒排索引+接雨水双指针方式等">
+      <option name="closed" value="true" />
+      <created>1704629992349</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1704629992349</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -620,7 +628,8 @@
     <MESSAGE value="add LCR 03,04,170" />
     <MESSAGE value="树状数组解决逆序对问题" />
     <MESSAGE value="int类作为掩膜替代map的作用" />
-    <option name="LAST_COMMIT_MESSAGE" value="int类作为掩膜替代map的作用" />
+    <MESSAGE value="程序员面试金典：倒排索引+接雨水双指针方式等" />
+    <option name="LAST_COMMIT_MESSAGE" value="程序员面试金典：倒排索引+接雨水双指针方式等" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

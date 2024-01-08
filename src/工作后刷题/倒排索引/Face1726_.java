@@ -31,7 +31,7 @@ import java.util.*;
  * docs.length <= 500
  * docs[i].length <= 500
  */
-public class Face1726 {
+public class Face1726_ {
 
     //倒排索引的方式
     public static List<String> computeSimilarities(int[][] docs) {

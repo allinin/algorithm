@@ -1,4 +1,4 @@
-package 工作后刷题.子数组相关问题;
+package 工作后刷题.数组子数组相关问题;
 
 /**
  * @Author:zbl
