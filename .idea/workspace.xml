@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="只出现一次的数字的类似问题">
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="搜索旋转数组中某个数组出现位置的最大索引/最小索引">
       <change afterPath="$PROJECT_DIR$/src/Leetcode/Solution348.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/二分/Face1003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/字符串/Face1718.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/dfs回溯/Face1715.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/dp/Face1716.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/前缀树/Face1717.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/滑动窗口/Face1718.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -329,7 +331,9 @@
       <workItem from="1704714219082" duration="3778000" />
       <workItem from="1704803394421" duration="1178000" />
       <workItem from="1704805493966" duration="79000" />
-      <workItem from="1704893558488" duration="1253000" />
+      <workItem from="1704893558488" duration="1554000" />
+      <workItem from="1704978918454" duration="3886000" />
+      <workItem from="1705063404406" duration="2695000" />
     </task>
     <task id="LOCAL-00001" summary="2020.12.08">
       <created>1607401717380</created>
@@ -591,7 +595,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704805452822</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="搜索旋转数组中某个数组出现位置的最大索引/最小索引">
+      <option name="closed" value="true" />
+      <created>1704895089005</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1704895089005</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -621,7 +633,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2021.4.1" />
     <MESSAGE value="2021.5.4" />
     <MESSAGE value="2021.5.14" />
     <MESSAGE value="2021.5.20" />
@@ -646,7 +657,8 @@
     <MESSAGE value="程序员面试金典：倒排索引+接雨水双指针方式等" />
     <MESSAGE value="1720计算数据流中的中位数" />
     <MESSAGE value="只出现一次的数字的类似问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="只出现一次的数字的类似问题" />
+    <MESSAGE value="搜索旋转数组中某个数组出现位置的最大索引/最小索引" />
+    <option name="LAST_COMMIT_MESSAGE" value="搜索旋转数组中某个数组出现位置的最大索引/最小索引" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
