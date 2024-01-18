@@ -4,13 +4,25 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="搜索旋转数组中某个数组出现位置的最大索引/最小索引">
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="前缀树+滑动窗口+打家劫舍类似题目">
       <change afterPath="$PROJECT_DIR$/src/Leetcode/Solution348.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/dfs回溯/Face1713.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/工作后刷题/dfs回溯/Face1715.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/dp/Face1716.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/前缀树/Face1717.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/滑动窗口/Face1718.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/dfs回溯/Face1725.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/丑数类似题/Code1201.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/丑数类似题/Code263.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/丑数类似题/Code264.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/丑数类似题/Face1709.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/二分/Code1201.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/前缀树/Face1713.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/前缀树/Face1725.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/双指针/Face1711_注意.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/只出现一次的数字系列/Face1710.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/快排中的三分数组/Face1714.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/树/Face1712.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/工作后刷题/前缀树/Face1717.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/前缀树/Face1717.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,10 +117,13 @@
       <recent name="G:\Idea_work\exerAlgorithm\src\重温设计模式\结构型设计模式\代理模式" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="工作后刷题.dfs回溯" />
+      <recent name="工作后刷题.前缀树" />
+      <recent name="工作后刷题.二分" />
       <recent name="工作后刷题.归并排序应用" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Face1003_必看题">
+  <component name="RunManager" selected="Application.工作后刷题.二分.Code1201">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -116,69 +131,69 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="Face1003_必看题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="工作后刷题.二分.Face1003_必看题" />
+    <configuration name="Code1201" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="工作后刷题.丑数类似题.Code1201" />
+      <module name="exercise2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="工作后刷题.丑数类似题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Face1709" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="工作后刷题.丑数类似题.Face1709" />
+      <module name="exercise2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="工作后刷题.丑数类似题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Face1713" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="工作后刷题.dfs回溯.Face1713" />
+      <module name="exercise2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="工作后刷题.双指针.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Face1714" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="工作后刷题.快排中的三分数组.Face1714" />
+      <module name="exercise2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="工作后刷题.快排中的三分数组.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="工作后刷题.二分.Code1201" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="工作后刷题.二分.Code1201" />
       <module name="exercise2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="工作后刷题.二分.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Face1719_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="工作后刷题.只出现一次的数字系列.Face1719_" />
-      <module name="exercise2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="工作后刷题.只出现一次的数字系列.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Face1722" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="工作后刷题.bfs.Face1722" />
-      <module name="exercise2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="工作后刷题.bfs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Face1723" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="工作后刷题.dp.Face1723" />
-      <module name="exercise2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="工作后刷题.dp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Face1726_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="工作后刷题.倒排索引.Face1726_" />
-      <module name="exercise2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="工作后刷题.倒排索引.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,19 +233,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Face1003_必看题" />
-      <item itemvalue="Application.Face1719_" />
-      <item itemvalue="Application.Face1726_" />
-      <item itemvalue="Application.Face1722" />
-      <item itemvalue="Application.Face1723" />
+      <item itemvalue="Application.工作后刷题.二分.Code1201" />
+      <item itemvalue="Application.Code1201" />
+      <item itemvalue="Application.Face1709" />
+      <item itemvalue="Application.Face1713" />
+      <item itemvalue="Application.Face1714" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Face1003_必看题" />
-        <item itemvalue="Application.Face1719_" />
-        <item itemvalue="Application.Face1722" />
-        <item itemvalue="Application.Face1723" />
-        <item itemvalue="Application.Face1726_" />
+        <item itemvalue="Application.工作后刷题.二分.Code1201" />
+        <item itemvalue="Application.Face1713" />
+        <item itemvalue="Application.Code1201" />
+        <item itemvalue="Application.Face1709" />
+        <item itemvalue="Application.Face1714" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +348,14 @@
       <workItem from="1704805493966" duration="79000" />
       <workItem from="1704893558488" duration="1554000" />
       <workItem from="1704978918454" duration="3886000" />
-      <workItem from="1705063404406" duration="2695000" />
+      <workItem from="1705063404406" duration="2821000" />
+      <workItem from="1705144860154" duration="3938000" />
+      <workItem from="1705239225939" duration="1370000" />
+      <workItem from="1705320613311" duration="7115000" />
+      <workItem from="1705406846314" duration="4566000" />
+      <workItem from="1705412003695" duration="41000" />
+      <workItem from="1705499530744" duration="1657000" />
+      <workItem from="1705577266978" duration="7715000" />
     </task>
     <task id="LOCAL-00001" summary="2020.12.08">
       <created>1607401717380</created>
@@ -603,7 +625,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704895089005</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="前缀树+滑动窗口+打家劫舍类似题目">
+      <option name="closed" value="true" />
+      <created>1705069886283</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1705069886283</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -633,7 +663,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2021.5.4" />
     <MESSAGE value="2021.5.14" />
     <MESSAGE value="2021.5.20" />
     <MESSAGE value="2022.02.02 树的前后中序遍历练习" />
@@ -658,7 +687,8 @@
     <MESSAGE value="1720计算数据流中的中位数" />
     <MESSAGE value="只出现一次的数字的类似问题" />
     <MESSAGE value="搜索旋转数组中某个数组出现位置的最大索引/最小索引" />
-    <option name="LAST_COMMIT_MESSAGE" value="搜索旋转数组中某个数组出现位置的最大索引/最小索引" />
+    <MESSAGE value="前缀树+滑动窗口+打家劫舍类似题目" />
+    <option name="LAST_COMMIT_MESSAGE" value="前缀树+滑动窗口+打家劫舍类似题目" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
