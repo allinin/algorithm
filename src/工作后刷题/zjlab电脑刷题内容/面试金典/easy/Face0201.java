@@ -1,6 +1,6 @@
 package 工作后刷题.zjlab电脑刷题内容.面试金典.easy;
 
-import HOT100和TOP面试题.ListNode;
+import 工作后刷题.zjlab电脑刷题内容.HOT100和TOP面试题.ListNode;
 
 import java.util.HashSet;
 import java.util.Set;

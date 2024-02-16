@@ -1,4 +1,4 @@
-package 工作后刷题.zjlab电脑刷题内容.分类刷题集合.双向链表;
+package 工作后刷题.zjlab电脑刷题内容.分类刷题合集.双向链表;
 
 import java.util.Map;
 
@@ -75,6 +75,22 @@ public class LFUCache {
 
     public void put(int key, int value) {
 
+    }
+
+    public static void main(String[] args) throws InterruptedException {
+        System.out.println(Thread.currentThread().getName());
+        Thread thread = new Thread(() -> {
+            try {
+                Thread.sleep(2000);
+                System.out.println(Thread.currentThread().getName() + " finish");
+            } catch (InterruptedException e) {
+                throw new RuntimeException(e);
+            }
+        });
+        thread.setName("thread1");
+        thread.start();
+        thread.join();
+        System.out.println("thread1 finish task");
     }
 }
 class LFUNode {

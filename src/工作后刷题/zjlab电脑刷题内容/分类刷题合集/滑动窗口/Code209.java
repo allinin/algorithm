@@ -1,4 +1,4 @@
-package 工作后刷题.zjlab电脑刷题内容.分类刷题集合.滑动窗口;
+package 工作后刷题.zjlab电脑刷题内容.分类刷题合集.滑动窗口;
 
 /**
  * @Author: ZBL
@@ -6,7 +6,8 @@ package 工作后刷题.zjlab电脑刷题内容.分类刷题集合.滑动窗口;
  * 长度最小的子数组(medium)
  * 给定一个含有 n 个正整数的数组和一个正整数 target 。
  *
- * 找出该数组中满足其总和大于等于 target 的长度最小的 连续子数组 [numsl, numsl+1, ..., numsr-1, numsr] ，并返回其长度。如果不存在符合条件的子数组，返回 0 。
+ * 找出该数组中满足其总和大于等于 target 的长度最小的 连续子数组 [numsl, numsl+1, ..., numsr-1, numsr] ，
+ * 并返回其长度。如果不存在符合条件的子数组，返回 0 。
  *
  *
  *
@@ -38,7 +39,17 @@ package 工作后刷题.zjlab电脑刷题内容.分类刷题集合.滑动窗口;
  */
 public class Code209 {
 
+    //个人电脑上已经done
     public int minSubArrayLen(int target, int[] nums) {
-        return 0;
+        int left = 0,right = 0;
+        int ans = Integer.MAX_VALUE,sum = 0;
+        while(right < nums.length) {
+            sum += nums[right++];
+            while(sum >= target) {
+                ans = Math.min(ans,right - left);
+                sum -= nums[left++];
+            }
+        }
+        return ans == Integer.MAX_VALUE ? 0 : ans;
     }
 }

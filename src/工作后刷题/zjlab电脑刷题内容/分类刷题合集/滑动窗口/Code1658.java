@@ -1,6 +1,5 @@
-package 工作后刷题.zjlab电脑刷题内容.分类刷题集合.滑动窗口;
+package 工作后刷题.zjlab电脑刷题内容.分类刷题合集.滑动窗口;
 
-import com.sun.xml.internal.ws.api.ha.HaInfo;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -38,7 +37,7 @@ import java.util.Map;
  * 1 <= nums[i] <= 104
  * 1 <= x <= 109
  */
-public class Code1685 {
+public class Code1658 {
 
     Map<String, Integer> map = new HashMap<>();
     //超时
@@ -82,8 +81,26 @@ public class Code1685 {
         return ans;
     }
 
+    //方法二：思路转化，等价于寻找和为nums中所有元素和-x的最长子数组的，滑动窗口解决
+    //在个人电脑已经完成
     public int minOperations2(int[] nums, int x) {
-        return 0;
+        int sum = -x;
+        for (int num : nums) {
+            sum += num;
+        }
+        if (sum < 0) return -1;//此时sum < 0说明整个nums数组的元素和都小于x
+        int left = 0, right = 0, n = nums.length, ans = -1;
+        while (right < n) {
+            sum -= nums[right++];
+            while (sum < 0) {
+                sum += nums[left++];
+            }
+            if (sum == 0) {
+                ans = Math.max(ans, right - left);
+            }
+        }
+
+        return ans == -1 ? -1 : n - ans;
     }
 
 }

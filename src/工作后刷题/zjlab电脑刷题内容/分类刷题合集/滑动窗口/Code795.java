@@ -1,4 +1,4 @@
-package 工作后刷题.zjlab电脑刷题内容.分类刷题集合.滑动窗口;
+package 工作后刷题.zjlab电脑刷题内容.分类刷题合集.滑动窗口;
 
 /**
  * @Author: ZBL

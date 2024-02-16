@@ -1,6 +1,6 @@
 package 工作后刷题.zjlab电脑刷题内容.HOT100和TOP面试题.medium;
 
-import HOT100和TOP面试题.TreeNode;
+import 工作后刷题.zjlab电脑刷题内容.HOT100和TOP面试题.TreeNode;
 
 /**
  * 二叉搜索树转化为累加树
