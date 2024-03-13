@@ -4,115 +4,14 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="添加实验室电脑题目">
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/二分/Code2517.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/二分/Code2594.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/二分/Code275.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/二分/Code878.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/二分/寻找峰值/Code162.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/二分/寻找峰值/Code1901_DONE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/位运算/Code1457.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/前后缀分解/Code1653_DONE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/前后缀分解/Code2167.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/前后缀分解/Code2256.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/前后缀分解/Code2420.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/前后缀分解/Code2483.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/前后缀分解/Code2484.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/前后缀分解/Code2552.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/前后缀分解/Code2565.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/动态规划dp/hard/Code1289.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/动态规划dp/hard/Code1301.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/动态规划dp/hard/Code1463.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/动态规划dp/hard/Code2328.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/动态规划dp/hard/Code2435.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/动态规划dp/hard/Code2902.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/动态规划dp/hard/Code741.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/动态规划dp/medium/Code1155.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/动态规划dp/medium/Code120.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/动态规划dp/medium/Code1289.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/动态规划dp/medium/Code2304.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/动态规划dp/medium/Code2466.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/动态规划dp/medium/Code2684.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/动态规划dp/medium/Code63.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/动态规划dp/medium/Code746.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/动态规划dp/medium/Code823.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/动态规划dp/medium/Code931.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/动态规划dp/medium/LCR166.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/单调栈/easy/Code496.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/单调栈/hard/Code2454.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/单调栈/hard/Code862.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/单调栈/introduce.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/单调栈/medium/Code1019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/单调栈/medium/Code1124.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/单调栈/medium/Code456_DONE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/单调栈/medium/Code503.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/单调栈/medium/Code901.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/单调栈/medium/Code962_DONE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/差分数组/Code1094.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/差分数组/Code1109.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/差分数组/Code2132.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/差分数组/Code2251.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/差分数组/Code2381.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/差分数组/Code2406.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/差分数组/Code2528.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/差分数组/Code2772.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/差分数组/Face1610.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/差分数组/introduce.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/差分数组/竞赛2250.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/技巧性枚举/Code1638.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/树/hard/Code1377.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/树/hard/Code2003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/树/hard/Code2646.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/树/medium/Code1376.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/树/medium/Code1457.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/树/medium/Code2467.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/树/medium/Code823.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/树/medium/Code979.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/滑动窗口/Code1004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/滑动窗口/Code1234.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/滑动窗口/Code1574_DONE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/滑动窗口/Code1782.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/滑动窗口/Code2106.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/滑动窗口/Code2444.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/滑动窗口/Code487.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/贡献法/Code979.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/和为k的子数组系列类似题目/Code1124.java" afterDir="false" />
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="添加面试题">
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/hard/Code124.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/二分题目合集/二分答案/medium/Code287_DONE.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code103.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code103.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code230_TODO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code230_TODO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code236.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code236.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code237_DONE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code237_DONE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code328.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code328.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code337.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code337.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code437_TODO_DONE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code437_TODO_DONE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code538.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code538.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/二分查找/二分答案/medium/Code2064.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/二分查找/二分答案/medium/Code2064.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/二分查找/二分答案/medium/Code2226.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/二分查找/二分答案/medium/Code2226.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/二分查找/最大化最小值/Code2528.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/二分查找/最大化最小值/Code2528.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/二分查找/最小化最大值/Code2513.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/二分查找/最小化最大值/Code2513.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/二分查找/最小化最大值/Code2616.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/二分查找/最小化最大值/Code2616.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/二分查找/第k大小/medium/Code378.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/二分查找/第k大小/medium/Code378.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题集合/introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/introduce.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题集合/双向链表/LFUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/双向链表/LFUCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题集合/双向链表/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/双向链表/LRUCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题集合/滑动窗口/Code1685.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/滑动窗口/Code1658.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题集合/滑动窗口/Code209.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/滑动窗口/Code209.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题集合/滑动窗口/Code2516.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/滑动窗口/Code2516.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题集合/滑动窗口/Code713.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/滑动窗口/Code713.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题集合/滑动窗口/Code795.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/滑动窗口/Code795.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/和为k的子数组系列类似题目/Code437_TODO_DONE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/和为k的子数组系列类似题目/Code437_TODO_DONE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/差分数组/Code2251.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/差分数组/Code2251.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/差分数组/introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/差分数组/introduce.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/打家劫舍系列/Code337.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/打家劫舍系列/Code337.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/面试金典/easy/Face0201.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/面试金典/easy/Face0201.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/面试金典/easy/Face0402.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/面试金典/easy/Face0402.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/面试金典/easy/Face0404.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/面试金典/easy/Face0404.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/面试金典/hard/Face0409_DONE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/面试金典/hard/Face0409_DONE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/面试金典/medium/Face0204.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/面试金典/medium/Face0204.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/面试金典/medium/Face0205.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/面试金典/medium/Face0205.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/面试金典/medium/Face0403.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/面试金典/medium/Face0403.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/面试金典/medium/Face0410.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/面试金典/medium/Face0410.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/面试金典/medium/Face0412.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/面试金典/medium/Face0412.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/hard/Code4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/hard/Code4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code172_DONE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code172_DONE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code287_DONE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code287_DONE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code406_DONE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code406_DONE.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,6 +67,9 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -184,7 +86,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/java_workspace/datasource&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/workspace/datasource&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -202,6 +104,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\datasource\src\工作后刷题\zjlab电脑刷题内容\分类刷题合集\动态规划dp" />
+      <recent name="D:\workspace\datasource\src\工作后刷题\zjlab电脑刷题内容" />
       <recent name="D:\java_workspace\datasource\src\工作后刷题\zjlab电脑刷题内容\分类刷题合集" />
       <recent name="D:\java_workspace\datasource\src\工作后刷题\zjlab电脑刷题内容" />
     </key>
@@ -211,14 +115,14 @@
       <recent name="G:\Idea_work\exerAlgorithm\src\重温设计模式\结构型设计模式\代理模式" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="工作后刷题.zjlab电脑刷题内容.二分题目合集.二分答案.medium" />
+      <recent name="工作后刷题.zjlab电脑刷题内容.二分题目合集.二分答案" />
       <recent name="工作后刷题.zjlab电脑刷题内容.和为k的子数组系列类似题目" />
       <recent name="工作后刷题.zjlab电脑刷题内容.分类刷题合集.动态规划dp.medium" />
       <recent name="工作后刷题.zjlab电脑刷题内容.分类刷题合集.贡献法" />
-      <recent name="工作后刷题.zjlab电脑刷题内容.分类刷题合集.位运算" />
-      <recent name="工作后刷题.dfs回溯" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code1124">
+  <component name="RunManager" selected="Application.XieChengMianShiTi_">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -254,20 +158,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code2616" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.二分查找.最小化最大值.Code2616" />
-      <module name="exercise2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.二分查找.最小化最大值.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Code503" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.分类刷题合集.单调栈.medium.Code503" />
       <module name="exercise2" />
@@ -289,6 +179,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.分类刷题合集.树.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XieChengMianShiTi_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.优先级队列.XieChengMianShiTi_" />
+      <module name="exercise2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.优先级队列.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -328,19 +232,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.XieChengMianShiTi_" />
       <item itemvalue="Application.Code1124" />
       <item itemvalue="Application.Code503" />
       <item itemvalue="Application.Code823" />
       <item itemvalue="Application.Code1155" />
-      <item itemvalue="Application.Code2616" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.XieChengMianShiTi_" />
         <item itemvalue="Application.Code1124" />
         <item itemvalue="Application.Code503" />
         <item itemvalue="Application.Code823" />
         <item itemvalue="Application.Code1155" />
-        <item itemvalue="Application.Code2616" />
       </list>
     </recent_temporary>
   </component>
@@ -467,6 +371,14 @@
       <workItem from="1707815190562" duration="1258000" />
       <workItem from="1707902032552" duration="5653000" />
       <workItem from="1708076620638" duration="2712000" />
+      <workItem from="1708650599324" duration="782000" />
+      <workItem from="1708942889698" duration="867000" />
+      <workItem from="1709028620583" duration="2011000" />
+      <workItem from="1709081699065" duration="124000" />
+      <workItem from="1709889673751" duration="1781000" />
+      <workItem from="1709894898485" duration="15000" />
+      <workItem from="1710118949152" duration="4289000" />
+      <workItem from="1710318657668" duration="4530000" />
     </task>
     <task id="LOCAL-00001" summary="2020.12.08">
       <created>1607401717380</created>
@@ -760,7 +672,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706281225400</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="整合lab computer题目">
+      <option name="closed" value="true" />
+      <created>1708650923966</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1708650923966</updated>
+    </task>
+    <task id="LOCAL-00042" summary="添加面试题">
+      <option name="closed" value="true" />
+      <created>1710318707747</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1710318707747</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -790,8 +718,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2021.5.20" />
-    <MESSAGE value="2022.02.02 树的前后中序遍历练习" />
     <MESSAGE value="2022.02.03 n叉树的序列化与反序列化" />
     <MESSAGE value="2022.02.03 n叉树的序列化与反序列化22" />
     <MESSAGE value="2022.04.17 leetCode 253（会员题目）会议室解" />
@@ -815,7 +741,9 @@
     <MESSAGE value="搜索旋转数组中某个数组出现位置的最大索引/最小索引" />
     <MESSAGE value="前缀树+滑动窗口+打家劫舍类似题目" />
     <MESSAGE value="添加实验室电脑题目" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加实验室电脑题目" />
+    <MESSAGE value="整合lab computer题目" />
+    <MESSAGE value="添加面试题" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加面试题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

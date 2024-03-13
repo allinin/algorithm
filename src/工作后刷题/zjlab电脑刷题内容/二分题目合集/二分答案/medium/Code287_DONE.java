@@ -1,4 +1,4 @@
-package 工作后刷题.zjlab电脑刷题内容.HOT100和TOP面试题.medium;
+package 工作后刷题.zjlab电脑刷题内容.二分题目合集.二分答案.medium;
 
 /**
  * 寻找重复数
@@ -35,7 +35,6 @@ package 工作后刷题.zjlab电脑刷题内容.HOT100和TOP面试题.medium;
  */
 public class Code287_DONE {
 
-    //二分答案的做法
     public int findDuplicate(int[] nums) {
         int left = 1,right = nums.length - 1;
         while(left < right) {

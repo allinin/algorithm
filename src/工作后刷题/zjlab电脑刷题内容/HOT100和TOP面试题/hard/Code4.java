@@ -23,8 +23,8 @@ public class Code4 {
      * @param nums1
      * @param nums2
      * @param k
-     * @param start1
-     * @param end1
+     * @param start1:起始索引位置
+     * @param end1:终点索引位置
      * @param start2
      * @param end2
      * @return
