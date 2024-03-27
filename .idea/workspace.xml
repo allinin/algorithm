@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="添加面试题">
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/hard/Code124.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/二分题目合集/二分答案/medium/Code287_DONE.java" afterDir="false" />
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="复习">
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/社招面试题目/Code113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/社招面试题目/KuaiShouFace.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/hard/Code4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/hard/Code4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code172_DONE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code172_DONE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code287_DONE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code287_DONE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code406_DONE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code406_DONE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/优先级队列/XieChengMianShiTi_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/社招面试题目/XieChengMianShiTi_.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,27 +76,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/workspace/datasource&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;leetcode.id&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/workspace/datasource",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "leetcode.id",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="ReaderModeSettings">
     <option name="enabled" value="false" />
   </component>
@@ -122,7 +120,7 @@
       <recent name="工作后刷题.zjlab电脑刷题内容.分类刷题合集.贡献法" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.XieChengMianShiTi_">
+  <component name="RunManager" selected="Application.KuaiShouFace">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -137,20 +135,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.分类刷题合集.单调栈.medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code1155" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.分类刷题合集.动态规划dp.medium.Code1155" />
-      <module name="exercise2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.分类刷题合集.动态规划dp.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,13 +170,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XieChengMianShiTi_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.优先级队列.XieChengMianShiTi_" />
+    <configuration name="KuaiShouFace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.社招面试题目.KuaiShouFace" />
       <module name="exercise2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.优先级队列.*" />
+          <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.社招面试题目.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XieChengMianShiTi_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.社招面试题目.XieChengMianShiTi_" />
+      <module name="exercise2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.社招面试题目.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,19 +230,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.KuaiShouFace" />
       <item itemvalue="Application.XieChengMianShiTi_" />
       <item itemvalue="Application.Code1124" />
       <item itemvalue="Application.Code503" />
       <item itemvalue="Application.Code823" />
-      <item itemvalue="Application.Code1155" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KuaiShouFace" />
         <item itemvalue="Application.XieChengMianShiTi_" />
         <item itemvalue="Application.Code1124" />
         <item itemvalue="Application.Code503" />
         <item itemvalue="Application.Code823" />
-        <item itemvalue="Application.Code1155" />
       </list>
     </recent_temporary>
   </component>
@@ -378,7 +376,10 @@
       <workItem from="1709889673751" duration="1781000" />
       <workItem from="1709894898485" duration="15000" />
       <workItem from="1710118949152" duration="4289000" />
-      <workItem from="1710318657668" duration="4530000" />
+      <workItem from="1710318657668" duration="4580000" />
+      <workItem from="1710330704952" duration="160000" />
+      <workItem from="1710377378731" duration="23000" />
+      <workItem from="1711501592613" duration="1665000" />
     </task>
     <task id="LOCAL-00001" summary="2020.12.08">
       <created>1607401717380</created>
@@ -688,7 +689,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710318707747</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="复习">
+      <option name="closed" value="true" />
+      <created>1710326824611</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1710326824611</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -718,7 +727,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.02.03 n叉树的序列化与反序列化" />
     <MESSAGE value="2022.02.03 n叉树的序列化与反序列化22" />
     <MESSAGE value="2022.04.17 leetCode 253（会员题目）会议室解" />
     <MESSAGE value="2022.04.22 leetCode 280 vip wiggle array" />
@@ -743,7 +751,8 @@
     <MESSAGE value="添加实验室电脑题目" />
     <MESSAGE value="整合lab computer题目" />
     <MESSAGE value="添加面试题" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加面试题" />
+    <MESSAGE value="复习" />
+    <option name="LAST_COMMIT_MESSAGE" value="复习" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
