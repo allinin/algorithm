@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="面试题目整理">
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/多线程锁相关算法/AlternatePrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/多线程锁相关算法/ProducerAndConsumer.java" afterDir="false" />
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="2024春节假期添加的题目">
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/hard/Code25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code143.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
