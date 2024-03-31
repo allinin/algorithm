@@ -10,7 +10,9 @@ import java.util.concurrent.locks.ReentrantLock;
  * @Date: 2024-03-29  17:15
  * <p>
  * 3个线程按序打印输出A,B,C
- * TODO 参考链接：https://zhuanlan.zhihu.com/p/370130458
+ * TODO 参考链接：https://zhuanlan.zhihu.com/p/370130458，
+ * TODO 注意条件判断的地方用while而不用if,原因参考：https://blog.csdn.net/dhwu43996/article/details/101354800
+ *
  */
 public class AlternatePrint {
 
@@ -53,6 +55,7 @@ public class AlternatePrint {
 //synchronized的方式实现
 class SyncMethod {
 
+    //TODO 该方法以及下述方法中的volatile应该是可以去掉的
     private volatile int num = 0;
     private Object lockObject = new Object();
 
@@ -151,7 +154,7 @@ class SemaphoreMethod {
     public Semaphore semaphore2 = new Semaphore(0);
     public Semaphore semaphore3 = new Semaphore(0);
 
-    private volatile int num = 1;
+    private  int num = 1;
 
     public void print(Semaphore curSemaphore, Semaphore nextSemaphore) {
         while (true) {

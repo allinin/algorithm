@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="链表操作25,143">
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="多线程交叉打印">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/多线程锁相关算法/AlternatePrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/多线程锁相关算法/AlternatePrint.java" afterDir="false" />
     </list>
@@ -378,7 +378,8 @@
       <workItem from="1710377378731" duration="23000" />
       <workItem from="1711501592613" duration="1708000" />
       <workItem from="1711702520645" duration="1842000" />
-      <workItem from="1711875856359" duration="7002000" />
+      <workItem from="1711875856359" duration="7290000" />
+      <workItem from="1711884839792" duration="352000" />
     </task>
     <task id="LOCAL-00001" summary="2020.12.08">
       <created>1607401717380</created>
@@ -712,7 +713,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711782735932</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="多线程交叉打印">
+      <option name="closed" value="true" />
+      <created>1711884381371</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1711884381371</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -742,7 +751,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.04.22 leetCode 280 vip wiggle array" />
     <MESSAGE value="2022.05.02" />
     <MESSAGE value="2022.05.07" />
     <MESSAGE value="2022.05.15" />
@@ -767,7 +775,8 @@
     <MESSAGE value="复习" />
     <MESSAGE value="面试题目整理" />
     <MESSAGE value="链表操作25,143" />
-    <option name="LAST_COMMIT_MESSAGE" value="链表操作25,143" />
+    <MESSAGE value="多线程交叉打印" />
+    <option name="LAST_COMMIT_MESSAGE" value="多线程交叉打印" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
