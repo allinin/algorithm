@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="2024春节假期添加的题目">
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/hard/Code25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code143.java" afterDir="false" />
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="链表操作25,143">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/多线程锁相关算法/AlternatePrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/多线程锁相关算法/AlternatePrint.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,20 +110,34 @@
       <recent name="G:\Idea_work\exerAlgorithm\src\重温设计模式\结构型设计模式\代理模式" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="工作后刷题.zjlab电脑刷题内容.链表操作" />
       <recent name="工作后刷题.zjlab电脑刷题内容.社招面试题目" />
       <recent name="工作后刷题.zjlab电脑刷题内容.二分题目合集.二分答案.medium" />
       <recent name="工作后刷题.zjlab电脑刷题内容.二分题目合集.二分答案" />
       <recent name="工作后刷题.zjlab电脑刷题内容.和为k的子数组系列类似题目" />
-      <recent name="工作后刷题.zjlab电脑刷题内容.分类刷题合集.动态规划dp.medium" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProducerAndConsumer">
+  <component name="RunManager" selected="Application.AlternatePrint">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="AlternatePrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.多线程锁相关算法.AlternatePrint" />
+      <module name="exercise2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.多线程锁相关算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JUC.美团笔面试题.类似问题.Exercise" />
@@ -182,20 +195,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XieChengMianShiTi_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.社招面试题目.XieChengMianShiTi_" />
-      <module name="exercise2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.社招面试题目.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -228,19 +227,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.AlternatePrint" />
       <item itemvalue="Application.Exercise" />
       <item itemvalue="Application.ProducerAndComsumer" />
       <item itemvalue="Application.ProducerAndConsumer" />
       <item itemvalue="Application.KuaiShouFace" />
-      <item itemvalue="Application.XieChengMianShiTi_" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AlternatePrint" />
         <item itemvalue="Application.ProducerAndConsumer" />
         <item itemvalue="Application.Exercise" />
         <item itemvalue="Application.ProducerAndComsumer" />
         <item itemvalue="Application.KuaiShouFace" />
-        <item itemvalue="Application.XieChengMianShiTi_" />
       </list>
     </recent_temporary>
   </component>
@@ -379,6 +378,7 @@
       <workItem from="1710377378731" duration="23000" />
       <workItem from="1711501592613" duration="1708000" />
       <workItem from="1711702520645" duration="1842000" />
+      <workItem from="1711875856359" duration="7002000" />
     </task>
     <task id="LOCAL-00001" summary="2020.12.08">
       <created>1607401717380</created>
@@ -704,7 +704,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711503285659</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="链表操作25,143">
+      <option name="closed" value="true" />
+      <created>1711782735932</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1711782735932</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -734,7 +742,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.04.17 leetCode 253（会员题目）会议室解" />
     <MESSAGE value="2022.04.22 leetCode 280 vip wiggle array" />
     <MESSAGE value="2022.05.02" />
     <MESSAGE value="2022.05.07" />
@@ -759,7 +766,8 @@
     <MESSAGE value="添加面试题" />
     <MESSAGE value="复习" />
     <MESSAGE value="面试题目整理" />
-    <option name="LAST_COMMIT_MESSAGE" value="面试题目整理" />
+    <MESSAGE value="链表操作25,143" />
+    <option name="LAST_COMMIT_MESSAGE" value="链表操作25,143" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
