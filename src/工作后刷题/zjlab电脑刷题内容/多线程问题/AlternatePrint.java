@@ -1,4 +1,4 @@
-package 工作后刷题.zjlab电脑刷题内容.多线程锁相关算法;
+package 工作后刷题.zjlab电脑刷题内容.多线程问题;
 
 import java.util.concurrent.Semaphore;
 import java.util.concurrent.locks.Condition;
