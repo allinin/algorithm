@@ -36,15 +36,15 @@ public class Code204_DONE {
     public int countPrimes(int n) {
         int ans = 0;
         boolean[] dp = new boolean[n];
-        Arrays.fill(dp,true);
+        Arrays.fill(dp, true);
         //如果i为质数，则i的整数倍一定不再是质数
-        for(int i = 2;i < n;i++) {
-            if(dp[i]) {
+        for (int i = 2; i < n; i++) {
+            if (dp[i]) {
                 ans++;
             }
-            if((long)i * (long)i < n) {
+            if ((long) i * (long) i < n) {
                 //这里不需要从j = i*2开始，因为之前已经处理了
-                for(int j = i * i;j < n;j += i) {
+                for (int j = i * i; j < n; j += i) {
                     dp[j] = false;
                 }
             }

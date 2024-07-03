@@ -35,14 +35,15 @@ public class Code543_Actually_Is_Difficult {
         return max;
     }
 
-    //计算当前节点到叶子节点的节点数量
+    //计算当前节点到叶子节点的最大节点数量
     private int process(TreeNode root) {
         if(root == null) {
             return 0;
         }
-        if(root.left == null && root.right == null) {
-            return 1;
-        }
+        //不需要改行代码，最后的return中已经包含了该种情况
+//        if(root.left == null && root.right == null) {
+//            return 1;
+//        }
         int left = process(root.left);
         int right = process(root.right);
         //因为最长路径不一定经过根节点，所以在每次递归的时候判断计算以当前递归节点为根节点的子树的最长路径

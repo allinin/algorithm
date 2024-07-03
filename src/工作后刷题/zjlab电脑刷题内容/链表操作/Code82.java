@@ -64,4 +64,38 @@ public class Code82 {
         }
         return dumpy.next;
     }
+
+    public ListNode deleteDuplicates2(ListNode head) {
+        if(head == null || head.next == null) {
+            return head;
+        }
+        ListNode dumpy = new ListNode(-1);//哑结点
+        ListNode pre = head,cur = head.next,help = dumpy;
+        boolean isDelete = false; //当前节点是否需要删除
+        while(cur != null) {
+            if(pre.val == cur.val) {
+                isDelete = true;
+                cur = cur.next;
+                continue;
+            }
+            //不相等的情况
+            if(isDelete) {
+                //如果前边的判断已经确定当前节点需要删除，则跳过，同时将isDelete设置为false
+                pre = cur;
+                isDelete = false;
+            } else {
+                //否则的话加入到结果链表
+                help.next = pre;
+                help = help.next;
+                pre = cur;
+                help.next = null;
+            }
+            cur = cur.next;
+        }
+        //连接上最后一个可能的节点
+        if(!isDelete) {
+            help.next = pre;
+        }
+        return dumpy.next;
+    }
 }

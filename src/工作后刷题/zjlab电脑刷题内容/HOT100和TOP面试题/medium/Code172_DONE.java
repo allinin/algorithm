@@ -45,20 +45,21 @@ public class Code172_DONE {
             return 0;
         }
         int ans = 0;
-        for(int i = 5;i <= n;i += 5) {
-            for(int j = i;j % 5 == 0;j /= 5) {
+        for (int i = 5; i <= n; i += 5) {
+            for (int j = i; j % 5 == 0; j /= 5) {
                 ans++;
             }
         }
         return ans;
 
     }
+
     public int trailingZeroes2(int n) {
         if (n < 5) {
             return 0;
         }
         int ans = 0;
-        while(n != 0) {
+        while (n != 0) {
             ans += n / 5;
             n /= 5;
         }

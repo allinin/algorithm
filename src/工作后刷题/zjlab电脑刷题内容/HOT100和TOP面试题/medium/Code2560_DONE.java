@@ -153,6 +153,26 @@ public class Code2560_DONE {
         return f1 >= k;
     }
 
+    //没有优化的check的写法
+    private boolean check2(int[] nums,int target,int k) {
+        int[] dp = new int[nums.length + 1];//偷窃前i个房屋，最大偷窃值不超过target的最大偷窃数
+        for(int i = 1;i <= nums.length;i++) {
+            if(i == 1) {
+                if(nums[i - 1] <= target) {
+                    dp[1] = 1;
+                }
+                continue;
+            }
+
+            if(nums[i - 1] > target) {
+                dp[i] = dp[i - 1];
+            } else {
+                dp[i] = Math.max(dp[i - 1],dp[i - 2] + 1);
+            }
+        }
+        return dp[nums.length] >= k;
+    }
+
     public static void main(String[] args) {
         System.out.println(new Code2560_DONE().minCapability3(new int[]{5038, 3053, 2825, 3638, 4648, 3259, 4948, 4248, 4940, 2834, 109, 5224, 5097, 4708, 2162, 3438, 4152, 4134, 551, 3961, 2294, 3961, 1327, 2395, 1002, 763, 4296, 3147, 5069, 2156, 572, 1261, 4272, 4158, 5186, 2543, 5055, 4735, 2325, 1206, 1019, 1257, 5048, 1563, 3507, 4269, 5328, 173, 5007, 2392, 967, 2768, 86, 3401, 3667, 4406, 4487, 876, 1530, 819, 1320, 883, 1101, 5317, 2305, 89, 788, 1603, 3456, 5221, 1910, 3343, 4597}, 28));
         System.out.println(new Code2560_DONE().minCapability3(new int[]{2, 3, 5, 9}, 2));

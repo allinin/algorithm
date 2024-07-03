@@ -69,6 +69,28 @@ public class Code72_DONE {
         return dp1[n];
     }
 
+    public int minDistance2(String word1, String word2) {
+        int m = word1.length(),n = word2.length();
+        int[][] dp = new int[m + 1][n + 1];//word1的前i个字符组成的单词转化成word2的前j个字符组成的字符所需要的最少操作数
+        for(int i = 1;i <= n;i++) {
+            dp[0][i] = i;
+        }
+        for(int i = 1;i <= m;i++) {
+            dp[i][0] = i;
+        }
+        for(int i = 1;i <= m;i++) {
+            for(int j = 1;j <=n;j++) {
+                //不管该位置的值是否相等，都可以替换或者插入，删除使得该位置的值相等
+                dp[i][j] = Math.min(dp[i - 1][j - 1],Math.min(dp[i - 1][j],dp[i][j - 1])) + 1;
+                //如果相等，则是可以不考虑i,j位置的值，或者是替换删除操作
+                if(word1.charAt(i - 1) == word2.charAt(j - 1)) {
+                    dp[i][j] = Math.min(dp[i - 1][j - 1],dp[i][j]);
+                }
+            }
+        }
+        return dp[m][n];
+    }
+
     public static void main(String[] args) {
         System.out.println(new Code72_DONE().minDistance("intention","execution"));
     }

@@ -46,6 +46,7 @@ public class Code406_DONE {
         if (people == null || people.length < 2) {
             return people;
         }
+        //按照身高进行降序排序，身高相同的时候前面人数少的放到前面
         Arrays.sort(people, (a, b) -> {
             if (a[0] == b[0]) {
                 return a[1] - b[1];
@@ -53,7 +54,7 @@ public class Code406_DONE {
             return b[0] - a[0];
         });
         List<int[]> res = new ArrayList<>();
-        //按照前面的人数插入对应的位置
+        //因为身高已经降序排序，每个身高的人只要直接到自己所在的位置即可，因为后续插入的不会影响前面比他高的人的数量
         for(int [] p : people) {
             res.add(p[1],p);
         }

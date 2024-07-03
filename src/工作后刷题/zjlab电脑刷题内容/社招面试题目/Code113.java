@@ -9,7 +9,8 @@ import java.util.List;
  * @Author: ZBL
  * @Date: 2024-03-27  09:07
  * 路径总和II(medium)
- * 给你二叉树的根节点 root 和一个整数目标和 targetSum ，找出所有从根节点到叶子节点路径总和等于给定目标和的路径。
+ * 给你二叉树的根节点 root 和一个整数目标和 targetSum ，找出所有从根节点到叶子节点路径总和等于
+ * 给定目标和的路径。
  * <p>
  * 叶子节点 是指没有子节点的节点。
  * <p>
@@ -56,6 +57,24 @@ public class Code113 {
         }
         process(root.left, targetSum, list);
         process(root.right, targetSum, list);
+        list.remove(list.size() - 1);
+    }
+
+    private void process2(TreeNode root,int targetSum,List<Integer> list) {
+        if(root == null) {
+            return;
+        }
+        list.add(root.val);
+        targetSum -= root.val;
+        if(targetSum == 0 && root.left == null && root.right == null) {
+            res.add(new ArrayList<>(list));
+            //已经到达了叶子节点，并且正好是符合的路径，则可以添加该路径后，从list中弹出刚添加的值，然后终止；
+            // 或者如process方法的做法，不弹出，但是也不终止，等到最后一起弹出
+            list.remove(list.size() - 1);
+            return;
+        }
+        process2(root.left,targetSum,list);
+        process2(root.right,targetSum,list);
         list.remove(list.size() - 1);
     }
 }

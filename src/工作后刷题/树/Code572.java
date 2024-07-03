@@ -41,21 +41,22 @@ public class Code572 {
         if (root == null || subRoot == null) {
             return false;
         }
-
-        return process(root,subRoot) || isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);
+        return process(root, subRoot) || isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);
     }
 
-    //从root1,root2节点开始判断是否是子树
-    private boolean process(TreeNode root1, TreeNode root2) {
-        if (root1 == null && root1 == null) {
+    private boolean process(TreeNode root, TreeNode subRoot) {
+        if (root == null && subRoot == null) {
             return true;
         }
-        if (root1 == null || root1 == null) {
+        if (root == null || subRoot == null) {
             return false;
         }
-        if (root1.val != root2.val) {
+        if (root.val != subRoot.val) {
             return false;
         }
-        return process(root1.left, root2.left) && process(root1.right, root2.right);
+        //当前节点值相等
+        return process(root.left, subRoot.left) && process(root.right, subRoot.right);
     }
+
+
 }

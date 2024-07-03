@@ -167,5 +167,61 @@ public class Code437_TODO_DONE {
         return res;
     }
 
+    //方法四：借助map+实例变量ans,用ans来统计答案，其实跟方法三是一样的，都是模仿的560题
+    int ans1 = 0;
+
+    public int pathSum4(TreeNode root, int targetSum) {
+        if (root == null) {
+            return 0;
+        }
+        helpMap.put(0L, 1);
+
+        process4(root, targetSum, 0);
+        return ans1;
+    }
+
+    private void process4(TreeNode root, long targetSum, long curValue) {
+        if (root == null) {
+            return;
+        }
+        long nowValue = curValue + root.val;
+
+        ans1 += helpMap.getOrDefault(nowValue - targetSum,0);
+        //如果将该put与上述的get操作位置互换，例如当targetSum == 0时，结果会不对，所以必须是先计算在更新频率
+        helpMap.put(nowValue, helpMap.getOrDefault(nowValue, 0) + 1);
+        process3(root.left, targetSum, nowValue);
+        process3(root.right, targetSum, nowValue);
+        //回溯，避免对计算另一个子树造成影响
+        helpMap.put(nowValue, helpMap.get(nowValue) - 1);
+    }
+    //方法五：借助map+实例变量ans+实例变量sum,用ans来统计答案，用sum来统计当前的路径和，其实跟方法三是一样的，都是模仿的560题
+    long sum = 0l;
+
+    public int pathSum5(TreeNode root, int targetSum) {
+        if (root == null) {
+            return 0;
+        }
+        helpMap.put(0L, 1);
+
+        process5(root, targetSum);
+        return ans;
+    }
+
+    private void process5(TreeNode root, long targetSum) {
+        if (root == null) {
+            return;
+        }
+        sum += root.val;
+
+        ans += helpMap.getOrDefault(sum - targetSum,0);
+        //如果将该put与上述的get操作位置互换，例如当targetSum == 0时，结果会不对，所以必须是先计算在更新频率
+        helpMap.put(sum, helpMap.getOrDefault(sum, 0) + 1);
+        process5(root.left, targetSum);
+        process5(root.right, targetSum);
+        //回溯，避免对计算另一个子树造成影响，回溯的同时减少实例变量sum的值
+        helpMap.put(sum, helpMap.get(sum) - 1);
+        sum -= root.val;
+    }
+
 
 }
