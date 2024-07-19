@@ -4,18 +4,11 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="add 树相关题目code572">
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="24.7.3回顾">
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/二分题目合集/二分答案/hard/Code154.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/二分题目合集/二分答案/medium/Code153.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/easy/Code543_Actually_Is_Difficult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/easy/Code543_Actually_Is_Difficult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code172_DONE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code172_DONE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code204_DONE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code204_DONE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code2560_DONE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code2560_DONE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code406_DONE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code406_DONE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code437_TODO_DONE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code437_TODO_DONE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code72_DONE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/HOT100和TOP面试题/medium/Code72_DONE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/社招面试题目/Code113.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/社招面试题目/Code113.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/链表操作/Code82.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/链表操作/Code82.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/树/Code572.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/树/Code572.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/社招面试题目/XieChengMianShiTi_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/社招面试题目/XieChengMianShiTi_.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +119,7 @@
       <recent name="工作后刷题.zjlab电脑刷题内容.和为k的子数组系列类似题目" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProducerAndConsumer">
+  <component name="RunManager" selected="Application.Code154">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -148,6 +141,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Code154" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.二分题目合集.二分答案.hard.Code154" />
+      <module name="exercise2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.二分题目合集.二分答案.hard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JUC.美团笔面试题.类似问题.Exercise" />
       <module name="exercise2" />
@@ -162,34 +169,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KuaiShouFace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.社招面试题目.KuaiShouFace" />
-      <module name="exercise2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.社招面试题目.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProducerAndComsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JUC.美团笔面试题.ProducerAndComsumer" />
-      <module name="exercise2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JUC.美团笔面试题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ProducerAndConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.多线程问题.ProducerAndConsumer" />
       <module name="exercise2" />
@@ -197,6 +176,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.多线程问题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XieChengMianShiTi_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.社招面试题目.XieChengMianShiTi_" />
+      <module name="exercise2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.社招面试题目.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,19 +229,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Code154" />
+      <item itemvalue="Application.XieChengMianShiTi_" />
       <item itemvalue="Application.AlternatePrint" />
       <item itemvalue="Application.Exercise" />
-      <item itemvalue="Application.ProducerAndComsumer" />
       <item itemvalue="Application.ProducerAndConsumer" />
-      <item itemvalue="Application.KuaiShouFace" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code154" />
+        <item itemvalue="Application.XieChengMianShiTi_" />
         <item itemvalue="Application.ProducerAndConsumer" />
         <item itemvalue="Application.AlternatePrint" />
         <item itemvalue="Application.Exercise" />
-        <item itemvalue="Application.ProducerAndComsumer" />
-        <item itemvalue="Application.KuaiShouFace" />
       </list>
     </recent_temporary>
   </component>
@@ -399,7 +392,9 @@
       <workItem from="1719538007208" duration="98000" />
       <workItem from="1719562048828" duration="1519000" />
       <workItem from="1719915266688" duration="4044000" />
-      <workItem from="1719985777088" duration="4879000" />
+      <workItem from="1719985777088" duration="6307000" />
+      <workItem from="1721213828338" duration="932000" />
+      <workItem from="1721265506292" duration="2046000" />
     </task>
     <task id="LOCAL-00001" summary="2020.12.08">
       <created>1607401717380</created>
@@ -749,7 +744,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712106919465</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="24.7.3回顾">
+      <option name="closed" value="true" />
+      <created>1719991717084</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1719991717084</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -779,7 +782,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.05.07" />
     <MESSAGE value="2022.05.15" />
     <MESSAGE value="2022.05.26" />
     <MESSAGE value="2022.06.04" />
@@ -804,7 +806,8 @@
     <MESSAGE value="多线程问题" />
     <MESSAGE value="生产者消费者问题" />
     <MESSAGE value="add 树相关题目code572" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 树相关题目code572" />
+    <MESSAGE value="24.7.3回顾" />
+    <option name="LAST_COMMIT_MESSAGE" value="24.7.3回顾" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
