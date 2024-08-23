@@ -42,9 +42,10 @@ public class Code786_DONE {
 
     double diff = 1e-8;
 
-    //方法一:二分+双指针
+    //方法一:二分+双指针 TODO double类型的变量在双指针中如何用，特别关注diff
     public int[] kthSmallestPrimeFraction(int[] arr, int k) {
         double left = 0d, right = 1d;
+        //小于等于diff时认为left == right，
         while (right - left > diff) {
             double mid = left + (right - left) / 2;
             if (check(arr, mid, k)) {
@@ -58,13 +59,15 @@ public class Code786_DONE {
     }
 
 
+    //双指针
     private boolean check(int[] arr, double target, int k) {
         int sum = 0;
         int idx = 0;
+        //不断右移分母元素即右指针
         for (int i = 1; i < arr.length; i++) {
             //用idx的下一个元素是否满足小于等于来规避idx
-            while (1d * arr[idx + 1] / arr[i] <= target) idx++;
-            if (1d * arr[idx] / arr[i] <= target) sum += idx + 1;
+            while (1d * arr[idx++] / arr[i] <= target) ;
+            sum += (--idx);
             //取最后一个满足无限接近target的组合
             if (Math.abs(1d * arr[idx] / arr[i] - target) < diff) {
                 ans[0] = arr[idx];
@@ -73,8 +76,19 @@ public class Code786_DONE {
         }
         return sum >= k;
     }
-
-
+    private boolean check2(int[] arr,double target,int k) {
+        int sum = 0,left = 0,right = 1;
+        while(right < arr.length) {
+            while(1.0d * arr[left++] / arr[right] <= target);
+            sum +=(--left);
+            if(Math.abs(1.0d * arr[left] / arr[right] - target) < diff) {
+                ans[0] = arr[left];
+                ans[1] = arr[right];
+            }
+            right++;
+        }
+        return sum >= k;
+    }
 
 
     public static void main(String[] args) {
