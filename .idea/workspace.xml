@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="代码回顾">
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/树/medium/Code105.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/树/medium/Code106.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/树/medium/Code889.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/社招面试题目/字节/BiggestNumLessThanN.java" afterDir="false" />
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="添加字节面试题">
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/打家劫舍系列/Code198.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/背包问题/Code377.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/背包问题/introduction.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/左神算法/基础班/树/SerializeAnDeserializeNTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/左神算法/基础班/树/SerializeAnDeserializeNTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/打家劫舍系列/Code213.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/打家劫舍系列/Code213.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/打家劫舍系列/Code337.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/打家劫舍系列/Code337.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/社招面试题目/字节/BiggestNumLessThanN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/社招面试题目/字节/BiggestNumLessThanN.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +87,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/workspace/algorithm&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/workspace/algorithm/src/工作后刷题/zjlab电脑刷题内容/背包问题&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -105,6 +105,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\algorithm\src\工作后刷题\zjlab电脑刷题内容\背包问题" />
       <recent name="D:\workspace\datasource\src\工作后刷题\zjlab电脑刷题内容\分类刷题合集\动态规划dp" />
       <recent name="D:\workspace\datasource\src\工作后刷题\zjlab电脑刷题内容" />
       <recent name="D:\java_workspace\datasource\src\工作后刷题\zjlab电脑刷题内容\分类刷题合集" />
@@ -407,7 +408,8 @@
       <workItem from="1722511431522" duration="1053000" />
       <workItem from="1724326049394" duration="2518000" />
       <workItem from="1724669776702" duration="2962000" />
-      <workItem from="1724807007965" duration="1163000" />
+      <workItem from="1724807007965" duration="1372000" />
+      <workItem from="1724840568356" duration="3533000" />
     </task>
     <task id="LOCAL-00001" summary="2020.12.08">
       <created>1607401717380</created>
@@ -605,14 +607,6 @@
       <option name="project" value="LOCAL" />
       <updated>1663596542195</updated>
     </task>
-    <task id="LOCAL-00030" summary="340，2400 add">
-      <option name="closed" value="true" />
-      <created>1703908190278</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1703908190278</updated>
-    </task>
     <task id="LOCAL-00031" summary="add LCR 03,04,170">
       <option name="closed" value="true" />
       <created>1703938228102</created>
@@ -773,7 +767,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724376362647</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="添加字节面试题">
+      <option name="closed" value="true" />
+      <created>1724808359680</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1724808359680</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -803,7 +805,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.06.04" />
     <MESSAGE value="2022.06.09" />
     <MESSAGE value="并查集添加TODO内容" />
     <MESSAGE value="路径总和IV LeetCode666" />
@@ -828,7 +829,8 @@
     <MESSAGE value="24.7.3回顾" />
     <MESSAGE value="添加搜素旋转数组中的最小值问题" />
     <MESSAGE value="代码回顾" />
-    <option name="LAST_COMMIT_MESSAGE" value="代码回顾" />
+    <MESSAGE value="添加字节面试题" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加字节面试题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

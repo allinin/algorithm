@@ -68,6 +68,29 @@ public class Code213 {
         return Math.max(Math.max(dp2[1][1],dp[1][0]),ans);
     }
 
+    //写法二：
+    public int rob2(int[] nums) {
+        if(nums.length == 1) {
+            return nums[0];
+        }
+        int n = nums.length;
+        int[][] dp = new int[n + 1][2];
+        //偷最后一个,相当于2-n随便偷,并且取值dp[n][1]表示偷最后一个
+        dp[2][1] = nums[1];
+        for (int i = 2; i <= n; i++) {
+            dp[i][0] = Math.max(dp[i - 1][0], dp[i - 1][1]);
+            dp[i][1] = dp[i - 1][0]  + nums[i - 1];
+        }
+        int[][] dp2 = new int[n][2];
+        //不偷最后一个,相当于1 —— n-1随便偷
+        dp2[1][1] = nums[0];
+        for(int i = 2;i < n;i++) {
+            dp2[i][0] = Math.max(dp2[i - 1][0], dp2[i - 1][1]);
+            dp2[i][1] = dp2[i - 1][0]  + nums[i - 1];
+        }
+        return Math.max(Math.max(dp2[n - 1][1],dp2[n - 1][0]),dp[n][1]);
+    }
+
     public static void main(String[] args) {
         System.out.println(new Code213().rob(new int[]{1,2,3}));
     }

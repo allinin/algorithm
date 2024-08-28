@@ -37,6 +37,7 @@ import java.util.HashMap;
  */
 public class Code337 {
 
+
     private HashMap<TreeNode, Integer> map = new HashMap<>();
 
     public int rob(TreeNode root) {
@@ -63,19 +64,19 @@ public class Code337 {
 
     public int rob2(TreeNode root) {
         int[] ans = process(root);
-        return Math.max(ans[0],ans[1]);
+        return Math.max(ans[0], ans[1]);
     }
 
     private int[] process(TreeNode root) {
-        if(root == null) {
-            return new int[] {0,0};
+        if (root == null) {
+            return new int[]{0, 0};
         }
         int[] ans = new int[2];
 
         int[] left = process(root.left);
         int[] right = process(root.right);
         //ans[0]:不抢当前节点能够获得最大值
-        ans[0] = Math.max(left[0],left[1]) + Math.max(right[0],right[1]);
+        ans[0] = Math.max(left[0], left[1]) + Math.max(right[0], right[1]);
         //ans[1]:抢当前节点能够获得的最大值
         ans[1] = root.val + left[0] + right[0];
         return ans;

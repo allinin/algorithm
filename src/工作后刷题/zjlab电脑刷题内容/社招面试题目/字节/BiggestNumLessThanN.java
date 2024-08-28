@@ -41,6 +41,7 @@ public class BiggestNumLessThanN {
      */
 
     private static int process(int targetNum, int[] arr, int targetLen, int nowLen, int nowNum) {
+        //因为arr是从大到小排序的，所以第一个符合的结果一定就是最终目标值
         if (nowLen == targetLen && nowNum < targetNum) {
             return nowNum;
         }
