@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="添加搜素旋转数组中的最小值问题">
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/链表操作/Code148.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/链表操作/Code160.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/链表操作/Code61.java" afterDir="false" />
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="代码回顾">
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/树/medium/Code105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/树/medium/Code106.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/树/medium/Code889.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/社招面试题目/字节/BiggestNumLessThanN.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/二分题目合集/二分答案/medium/SnakeMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/二分题目合集/二分答案/medium/SnakeMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/二分题目合集/第k大小/medium/Code786_DONE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/二分题目合集/第k大小/medium/Code786_DONE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/工作后刷题/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/左神算法/基础班/树/SerializeAnDeserializeNTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/左神算法/基础班/树/SerializeAnDeserializeNTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,28 +78,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "D:/workspace/algorithm",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "leetcode.id",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/workspace/algorithm&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;leetcode.id&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="ReaderModeSettings">
     <option name="enabled" value="false" />
   </component>
@@ -122,7 +123,7 @@
       <recent name="工作后刷题.zjlab电脑刷题内容.和为k的子数组系列类似题目" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code154">
+  <component name="RunManager" selected="Application.BiggestNumLessThanN">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -144,13 +145,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code154" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.二分题目合集.二分答案.hard.Code154" />
+    <configuration name="BiggestNumLessThanN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.社招面试题目.字节.BiggestNumLessThanN" />
       <module name="exercise2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.二分题目合集.二分答案.hard.*" />
+          <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.社招面试题目.字节.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,13 +159,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JUC.美团笔面试题.类似问题.Exercise" />
+    <configuration name="Code154" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.二分题目合集.二分答案.hard.Code154" />
       <module name="exercise2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JUC.美团笔面试题.类似问题.*" />
+          <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.二分题目合集.二分答案.hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,19 +233,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.BiggestNumLessThanN" />
       <item itemvalue="Application.Code154" />
       <item itemvalue="Application.XieChengMianShiTi_" />
       <item itemvalue="Application.AlternatePrint" />
-      <item itemvalue="Application.Exercise" />
       <item itemvalue="Application.ProducerAndConsumer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BiggestNumLessThanN" />
         <item itemvalue="Application.Code154" />
         <item itemvalue="Application.XieChengMianShiTi_" />
         <item itemvalue="Application.ProducerAndConsumer" />
         <item itemvalue="Application.AlternatePrint" />
-        <item itemvalue="Application.Exercise" />
       </list>
     </recent_temporary>
   </component>
@@ -404,7 +405,9 @@
       <workItem from="1721734770775" duration="1078000" />
       <workItem from="1721905073705" duration="1435000" />
       <workItem from="1722511431522" duration="1053000" />
-      <workItem from="1724326049394" duration="2255000" />
+      <workItem from="1724326049394" duration="2518000" />
+      <workItem from="1724669776702" duration="2962000" />
+      <workItem from="1724807007965" duration="1163000" />
     </task>
     <task id="LOCAL-00001" summary="2020.12.08">
       <created>1607401717380</created>
@@ -602,14 +605,6 @@
       <option name="project" value="LOCAL" />
       <updated>1663596542195</updated>
     </task>
-    <task id="LOCAL-00029" summary="395 leetcode">
-      <option name="closed" value="true" />
-      <created>1702813126225</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1702813126225</updated>
-    </task>
     <task id="LOCAL-00030" summary="340，2400 add">
       <option name="closed" value="true" />
       <created>1703908190278</created>
@@ -770,7 +765,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721389261852</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="代码回顾">
+      <option name="closed" value="true" />
+      <created>1724376362647</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1724376362647</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -800,7 +803,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.05.26" />
     <MESSAGE value="2022.06.04" />
     <MESSAGE value="2022.06.09" />
     <MESSAGE value="并查集添加TODO内容" />
@@ -825,7 +827,8 @@
     <MESSAGE value="add 树相关题目code572" />
     <MESSAGE value="24.7.3回顾" />
     <MESSAGE value="添加搜素旋转数组中的最小值问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加搜素旋转数组中的最小值问题" />
+    <MESSAGE value="代码回顾" />
+    <option name="LAST_COMMIT_MESSAGE" value="代码回顾" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
