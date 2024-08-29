@@ -1,4 +1,4 @@
-package 工作后刷题.zjlab电脑刷题内容.背包问题;
+package 工作后刷题.zjlab电脑刷题内容.组合总和系列;
 
 /**
  * 组合总和IV(medium)
@@ -56,25 +56,5 @@ public class Code377 {
             }
         }
         return dp[target];
-    }
-
-    //二维dp的方式
-    public int combinationSum42(int[] nums, int target) {
-        int n = nums.length;
-        int[][] dp = new int[n + 1][target + 1];//用前i个数，组成大小为j的数共有多少种方式
-        for(int i = 0;i <= n;i++) {
-            dp[i][0] = 1;
-        }
-        for (int i = 1; i <= target; i++) {
-            for (int j = 1; j <= n; j++) {
-                if(nums[ j - 1] > i) {
-                    dp[j][i] = dp[j - 1][i];
-                } else {
-                    // todo 注意这里是dp[n][i - nums[j - 1]],相当于在所有元素组合 i- nums[j-1]的基础上再加上一个nums[j - 1]
-                    dp[j][i] = dp[j - 1][i] + dp[n][i - nums[j - 1]];
-                }
-            }
-        }
-        return dp[n][target];
     }
 }
