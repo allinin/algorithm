@@ -9,3 +9,11 @@ https://leetcode.cn/problems/combination-sum-iv/solutions/124393/xi-wang-yong-yi
 
 组合背包问题考虑元素的顺序，则target在外循环，nums在内循环，且都是正序
 
+### 三大类问题
+1. 组合问题 
+
+2. True、False问题
+
+3. 最大最小问题
+
+

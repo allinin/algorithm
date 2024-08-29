@@ -4,14 +4,17 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="添加字节面试题">
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/打家劫舍系列/Code198.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/背包问题/Code377.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/背包问题/introduction.md" afterDir="false" />
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="添加组合总和系列">
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/背包问题/Code139.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/背包问题/Code474.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/背包问题/Code494.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/背包问题/Code518.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/打家劫舍系列/Code213.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/打家劫舍系列/Code213.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/打家劫舍系列/Code337.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/打家劫舍系列/Code337.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/社招面试题目/字节/BiggestNumLessThanN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/社招面试题目/字节/BiggestNumLessThanN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/单调栈/medium/Code456_DONE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/单调栈/medium/Code456_DONE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/组合总和系列/Code216.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/组合总和系列/Code216.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/组合总和系列/Code39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/组合总和系列/Code39.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/组合总和系列/Code40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/组合总和系列/Code40.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/背包问题/introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/背包问题/introduction.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +90,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/workspace/algorithm/src/工作后刷题/zjlab电脑刷题内容/背包问题&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/workspace/algorithm&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -117,11 +120,11 @@
       <recent name="G:\Idea_work\exerAlgorithm\src\重温设计模式\结构型设计模式\代理模式" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="工作后刷题.zjlab电脑刷题内容.组合总和系列" />
       <recent name="工作后刷题.zjlab电脑刷题内容.链表操作" />
       <recent name="工作后刷题.zjlab电脑刷题内容.社招面试题目" />
       <recent name="工作后刷题.zjlab电脑刷题内容.二分题目合集.二分答案.medium" />
       <recent name="工作后刷题.zjlab电脑刷题内容.二分题目合集.二分答案" />
-      <recent name="工作后刷题.zjlab电脑刷题内容.和为k的子数组系列类似题目" />
     </key>
   </component>
   <component name="RunManager" selected="Application.BiggestNumLessThanN">
@@ -410,6 +413,10 @@
       <workItem from="1724669776702" duration="2962000" />
       <workItem from="1724807007965" duration="1372000" />
       <workItem from="1724840568356" duration="3533000" />
+      <workItem from="1724845495216" duration="4461000" />
+      <workItem from="1724927024204" duration="3649000" />
+      <workItem from="1724930683196" duration="10000" />
+      <workItem from="1724930749393" duration="4236000" />
     </task>
     <task id="LOCAL-00001" summary="2020.12.08">
       <created>1607401717380</created>
@@ -607,22 +614,6 @@
       <option name="project" value="LOCAL" />
       <updated>1663596542195</updated>
     </task>
-    <task id="LOCAL-00031" summary="add LCR 03,04,170">
-      <option name="closed" value="true" />
-      <created>1703938228102</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1703938228102</updated>
-    </task>
-    <task id="LOCAL-00032" summary="树状数组解决逆序对问题">
-      <option name="closed" value="true" />
-      <created>1704031028351</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1704031028351</updated>
-    </task>
     <task id="LOCAL-00033" summary="int类作为掩膜替代map的作用">
       <option name="closed" value="true" />
       <created>1704290876261</created>
@@ -775,7 +766,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724808359680</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="打家截舍回顾+添加背包问题">
+      <option name="closed" value="true" />
+      <created>1724845604776</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1724845604776</updated>
+    </task>
+    <task id="LOCAL-00053" summary="添加组合总和系列">
+      <option name="closed" value="true" />
+      <created>1724898351500</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1724898351500</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -805,8 +812,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.06.09" />
-    <MESSAGE value="并查集添加TODO内容" />
     <MESSAGE value="路径总和IV LeetCode666" />
     <MESSAGE value="395 leetcode" />
     <MESSAGE value="340，2400 add" />
@@ -830,7 +835,9 @@
     <MESSAGE value="添加搜素旋转数组中的最小值问题" />
     <MESSAGE value="代码回顾" />
     <MESSAGE value="添加字节面试题" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加字节面试题" />
+    <MESSAGE value="打家截舍回顾+添加背包问题" />
+    <MESSAGE value="添加组合总和系列" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加组合总和系列" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

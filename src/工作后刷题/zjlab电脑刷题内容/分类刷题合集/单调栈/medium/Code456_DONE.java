@@ -38,6 +38,28 @@ import java.util.Stack;
  */
 public class Code456_DONE {
 
+
+
+
+    //二刷
+    public boolean find132pattern1(int[] arr) {
+        int min = Integer.MIN_VALUE;//当前最小值
+        Stack<Integer> stack = new Stack<>();
+        //因为132模式是j与k相对相邻位置的元素直接比较,并且都大于i,所以从后向后遍历判断
+        for(int i = arr.length - 1;i >= 0; i--) {
+            //i最小,并且i位置的值也小于当前最小值，说明找到了符合要求的组合
+            if(min > arr[i]) {
+                return true;
+            }
+            //peek位置元素的索引大于i,但是值却小于arr[j],如果存在说明符合了 j < k ,nums[k] < nums[j],即从后往前存在着递增
+            while(!stack.isEmpty() && stack.peek() < arr[i]) {
+                min = Math.max(min,stack.pop());
+            }
+            stack.push(arr[i]);
+        }
+        return false;
+    }
+
     public boolean find132pattern(int[] nums) {
         Stack<Integer> stack = new Stack<>();
         int min = Integer.MIN_VALUE;
