@@ -32,6 +32,26 @@ import java.util.Stack;
  * -109 <= nums[i] <= 109
  */
 public class Code503 {
+
+
+    //二刷
+    public int[] nextGreaterElements2(int[] nums) {
+        int n = nums.length;
+        int[] ans = new int[nums.length];
+        Arrays.fill(ans, -1);
+        Stack<Integer> stack = new Stack<>();
+        for (int i = 0; i < nums.length * 2; i++) {
+            while (!stack.isEmpty() && nums[stack.peek()] < nums[i % n]) {
+                Integer pop = stack.pop();
+                if (ans[pop] == -1) {
+                    ans[pop] = nums[i % n];
+                }
+            }
+            stack.push(i % n);
+        }
+        return ans;
+    }
+
     public int[] nextGreaterElements(int[] nums) {
         int n = nums.length;
         int[] ans = new int[n];
@@ -50,9 +70,9 @@ public class Code503 {
     }
 
     public static void main(String[] args) {
-        int[] arr = new int[]{1,2,3,4,3};
-        int[] nums = new Code503().nextGreaterElements(arr);
-        for(int num : nums) {
+        int[] arr = new int[]{1, 2, 3, 4, 3};
+        int[] nums = new Code503().nextGreaterElements2(arr);
+        for (int num : nums) {
             System.out.print(num + " ");
         }
     }
