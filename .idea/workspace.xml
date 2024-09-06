@@ -4,10 +4,19 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="小于n的最大数补充二分的方式">
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="二维0-1背包问题Code474">
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/双指针/Code11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/双指针/Code15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/双指针/Code16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/双指针/Code167.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/双指针/Code18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/双指针/Code42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/跳跃游戏系列/Code1306.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/跳跃游戏系列/Code44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/跳跃游戏系列/Code55.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/单调栈/medium/Code503.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/单调栈/medium/Code503.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/背包问题/Code474.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/背包问题/Code474.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/introduce.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/滑动窗口/Code209.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/分类刷题合集/滑动窗口/Code209.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +129,7 @@
       <recent name="工作后刷题.zjlab电脑刷题内容.二分题目合集.二分答案" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code474">
+  <component name="RunManager" selected="Application.Code44">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -156,6 +165,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Code44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.跳跃游戏系列.Code44" />
+      <module name="exercise2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.跳跃游戏系列.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Code474" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.背包问题.Code474" />
       <module name="exercise2" />
@@ -177,20 +200,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.分类刷题合集.单调栈.medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="XieChengMianShiTi_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.社招面试题目.XieChengMianShiTi_" />
-      <module name="exercise2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.社招面试题目.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,19 +239,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Code44" />
       <item itemvalue="Application.Code474" />
       <item itemvalue="Application.Code503" />
       <item itemvalue="Application.BiggestNumLessThanN" />
       <item itemvalue="Application.Code154" />
-      <item itemvalue="Application.XieChengMianShiTi_" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code44" />
         <item itemvalue="Application.Code474" />
         <item itemvalue="Application.Code503" />
         <item itemvalue="Application.BiggestNumLessThanN" />
         <item itemvalue="Application.Code154" />
-        <item itemvalue="Application.XieChengMianShiTi_" />
       </list>
     </recent_temporary>
   </component>
@@ -413,7 +422,13 @@
       <workItem from="1725019869446" duration="1219000" />
       <workItem from="1725275409854" duration="2108000" />
       <workItem from="1725326023336" duration="650000" />
-      <workItem from="1725362473723" duration="2266000" />
+      <workItem from="1725362473723" duration="2553000" />
+      <workItem from="1725448030309" duration="247000" />
+      <workItem from="1725451684107" duration="1198000" />
+      <workItem from="1725453518906" duration="61000" />
+      <workItem from="1725453793222" duration="78000" />
+      <workItem from="1725533668515" duration="5517000" />
+      <workItem from="1725619421348" duration="5520000" />
     </task>
     <task id="LOCAL-00001" summary="2020.12.08">
       <created>1607401717380</created>
@@ -611,14 +626,6 @@
       <option name="project" value="LOCAL" />
       <updated>1663596542195</updated>
     </task>
-    <task id="LOCAL-00035" summary="1720计算数据流中的中位数">
-      <option name="closed" value="true" />
-      <created>1704718610703</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1704718610703</updated>
-    </task>
     <task id="LOCAL-00036" summary="只出现一次的数字的类似问题">
       <option name="closed" value="true" />
       <created>1704805452822</created>
@@ -779,7 +786,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725326646377</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="二维0-1背包问题Code474">
+      <option name="closed" value="true" />
+      <created>1725412483821</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1725412483821</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -809,7 +824,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="340，2400 add" />
     <MESSAGE value="add LCR 03,04,170" />
     <MESSAGE value="树状数组解决逆序对问题" />
     <MESSAGE value="int类作为掩膜替代map的作用" />
@@ -834,7 +848,8 @@
     <MESSAGE value="添加组合总和系列" />
     <MESSAGE value="背包，组合数、单调栈部分题目二刷" />
     <MESSAGE value="小于n的最大数补充二分的方式" />
-    <option name="LAST_COMMIT_MESSAGE" value="小于n的最大数补充二分的方式" />
+    <MESSAGE value="二维0-1背包问题Code474" />
+    <option name="LAST_COMMIT_MESSAGE" value="二维0-1背包问题Code474" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -39,6 +39,20 @@ package 工作后刷题.zjlab电脑刷题内容.分类刷题合集.滑动窗口;
  */
 public class Code209 {
 
+    //回顾
+    public int minSubArrayLen2(int target, int[] nums) {
+        int ans = Integer.MAX_VALUE,left = 0,right = 0;
+        int sum = 0;
+        while(right < nums.length) {
+            sum += nums[right++];
+            while(sum >= target) {
+                ans = Math.min(ans,right - left);
+                sum -= nums[left++];
+            }
+        }
+        return ans != Integer.MAX_VALUE ? ans : 0;
+    }
+
     //个人电脑上已经done
     public int minSubArrayLen(int target, int[] nums) {
         int left = 0,right = 0;
