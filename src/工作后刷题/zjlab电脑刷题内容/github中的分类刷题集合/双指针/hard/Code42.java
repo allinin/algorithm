@@ -47,7 +47,7 @@ public class Code42 {
         }
         return ans;
     }
-    //方法二:双指针
+    //方法二:双指针 TODO好好看下思想
     public int trap2(int[] height) {
         int ans = 0,left = 0,right = height.length - 1;
         //分别表示left及以作的最大值，right及以右的最大值

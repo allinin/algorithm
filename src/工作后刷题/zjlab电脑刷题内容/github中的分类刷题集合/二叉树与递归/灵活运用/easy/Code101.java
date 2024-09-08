@@ -33,6 +33,24 @@ import 工作后刷题.TreeNode;
  */
 public class Code101 {
     public boolean isSymmetric(TreeNode root) {
-        return false;
+        if(root == null) {
+            return true;
+        }
+        return process(root.left,root.right);
+    }
+
+    private boolean process(TreeNode left,TreeNode right) {
+        if(left == null && right == null) {
+            return true;
+        }
+        if(left == null || right == null) {
+            return false;
+        }
+        if(left.val != right.val) {
+            return false;
+        }
+        boolean flag1 = process(left.right,right.left);
+        boolean flag2 = process(left.left,right.right);
+        return flag1 && flag2;
     }
 }

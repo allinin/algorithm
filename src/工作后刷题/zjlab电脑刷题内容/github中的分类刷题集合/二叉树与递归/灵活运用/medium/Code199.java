@@ -2,6 +2,8 @@ package 工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.�
 
 import 工作后刷题.TreeNode;
 
+import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 
 /**
@@ -36,6 +38,27 @@ import java.util.List;
 public class Code199 {
 
     public List<Integer> rightSideView(TreeNode root) {
-
+        List<Integer> res = new ArrayList<>();
+        if(root == null) {
+            return res;
+        }
+        LinkedList<TreeNode> deque = new LinkedList<>();
+        deque.add(root);
+        while(!deque.isEmpty()) {
+            int size = deque.size();
+            for(int i = 0;i < size;i++) {
+                TreeNode node = deque.poll();
+                if(i == size - 1) {
+                    res.add(node.val);
+                }
+                if(node.left != null) {
+                    deque.add(node.left);
+                }
+                if(node.right != null) {
+                    deque.add(node.right);
+                }
+            }
+        }
+        return res;
     }
 }

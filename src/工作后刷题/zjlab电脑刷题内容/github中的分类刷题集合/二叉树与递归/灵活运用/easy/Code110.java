@@ -35,6 +35,21 @@ import 工作后刷题.TreeNode;
 public class Code110 {
 
     public boolean isBalanced(TreeNode root) {
-        return true;
+        if(root == null) {
+            return true;
+        }
+        int left = treeHeight(root.left);
+        int right = treeHeight(root.right);
+        return Math.abs(left - right) <= 1 && isBalanced(root.left) && isBalanced(root.right);
+    }
+
+    //计算树的高度
+    private int treeHeight(TreeNode root) {
+        if(root == null) {
+            return 0;
+        }
+        int left = treeHeight(root.left);
+        int right = treeHeight(root.right);
+        return 1 + Math.max(left,right);
     }
 }

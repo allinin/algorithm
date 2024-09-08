@@ -38,7 +38,30 @@ import 工作后刷题.TreeNode;
  * @Date:2024/9/8 17:29
  */
 public class Code1026 {
+
+    int ans = 0;
     public int maxAncestorDiff(TreeNode root) {
-        return 0;
+        process(root.left,root.val,root.val);
+        process(root.right,root.val,root.val);
+        return ans;
     }
+
+    /**
+     * dfs的过程中计算判断结果值
+     * @param root:下一个子节点
+     * @param nowMax:到达该子节点之前的最大值
+     * @param nowMin:到达该子节点之前的最小值
+     */
+    private void process(TreeNode root,int nowMax,int nowMin) {
+        if(root == null) {
+            return;
+        }
+        ans = Math.max(ans,Math.abs(nowMax - root.val));
+        ans = Math.max(ans,Math.abs(nowMin - root.val));
+        process(root.left,Math.max(root.val,nowMax),Math.min(root.val,nowMin));
+        process(root.right,Math.max(root.val,nowMax),Math.min(root.val,nowMin
+        ));
+    }
+
+
 }
