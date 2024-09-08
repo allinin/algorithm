@@ -44,7 +44,24 @@ import 工作后刷题.TreeNode;
  */
 public class Code1448 {
 
+    int ans = 0;
+
+
+    //dfs
     public int goodNodes(TreeNode root) {
-        return 1;
+        process(root,Integer.MIN_VALUE);
+        return ans;
+    }
+
+    private void process(TreeNode root,int nowMax) {
+        if(root == null) {
+            return;
+        }
+        if(root.val >= nowMax) {
+            ans++;
+        }
+        process(root.left,Math.max(nowMax,root.val));
+        process(root.right,Math.max(nowMax,root.val));
+
     }
 }
