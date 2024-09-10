@@ -5,15 +5,99 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="二叉树灵活运用部分 + 滑动窗口">
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/区间dp/medium/Code516.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/回溯/组合型与剪枝/medium/Code22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/滑动窗口/Code76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/链表/反转系列/medium/Code445.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/链表/快慢指针/easy/Code876.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/二叉树与递归/灵活运用/easy/Code100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/二叉树与递归/灵活运用/easy/Code100.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/二叉树与递归/灵活运用/easy/Code101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/二叉树与递归/灵活运用/easy/Code101.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/二叉树与递归/灵活运用/easy/Code110.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/二叉树与递归/灵活运用/easy/Code110.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/二叉树与递归/灵活运用/easy/Code226.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/二叉树与递归/灵活运用/easy/Code226.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/二叉树与递归/灵活运用/easy/Code617.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/二叉树与递归/灵活运用/easy/Code617.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/二叉树与递归/灵活运用/medium/Code1026.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/二叉树与递归/灵活运用/medium/Code1026.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/二叉树与递归/灵活运用/medium/Code1080.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/二叉树与递归/灵活运用/medium/Code1080.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/二叉树与递归/灵活运用/medium/Code199.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/二叉树与递归/灵活运用/medium/Code199.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/Adapter/Adaptee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/Adapter/Adapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/Adapter/Target.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/Author.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/FlyWeight/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/FlyWeight/ConcreteChess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/FlyWeight/Coordinate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/FlyWeight/FlyWeight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/FlyWeight/FlyWeightFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/QRcode/QRCodeUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/QRcode/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/StaticProxy/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/StaticProxy/ProxyStar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/StaticProxy/RealStar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/StaticProxy/Star.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/Zxing/LogUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/Zxing/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/Zxing/ZxingUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/array/SparseArr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/array/TestArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/bridge/Brand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/bridge/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/bridge/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/bridge/Dell.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/bridge/Desktop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/bridge/Laptop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/bridge/lenovo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/chainofR/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/chainofR/Director.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/chainofR/GeneralManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/chainofR/Leader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/chainofR/LeaveRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/chainofR/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/composite/AbstractFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/composite/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/composite/Component.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/composite/Composite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/composite/Folder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/composite/ImageFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/composite/TextFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/composite/VideoFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/composite/leaf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/decorator/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/decorator/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/decorator/FlyCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/decorator/ICar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/decorator/SuperCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/decorator/SwimmingCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/dyanmicProxy/Client2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/dyanmicProxy/ProxyStar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/dyanmicProxy/RealStar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/dyanmicProxy/Star.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/dyanmicProxy/StarHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/factory/Audi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/factory/AudiFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/factory/BMW.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/factory/BMWFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/factory/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/factory/CarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/javaMail/JavaMailDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/mediator/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/mediator/Department.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/mediator/Development.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/mediator/Finacial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/mediator/Market.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/mediator/Mediator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/mediator/President.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/prototype/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/prototype/Client3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/prototype/Sheep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/Client1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/Client2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/Client3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/Client3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/SingletonDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/SingletonDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/SingletonDemo3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/SingletonDemo3$SingletonClassInstance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/SingletonDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/SingletonDemo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/xml/parse/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/xml/parse/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise2/xml/parse/XmlParseUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/滑动窗口/Code3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/滑动窗口/Code3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/滑动窗口/Code713.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/滑动窗口/Code713.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +110,7 @@
         <option value="Interface" />
         <option value="Dockerfile" />
         <option value="FxmlFile" />
+        <option value="Python Script" />
         <option value="Class" />
       </list>
     </option>
@@ -91,7 +176,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/java_workspace/algorithm&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/workspace/algorithm&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -128,7 +213,7 @@
       <recent name="工作后刷题.zjlab电脑刷题内容.二分题目合集.二分答案" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code987">
+  <component name="RunManager" selected="Application.Code516">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -150,27 +235,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code474" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.背包问题.Code474" />
+    <configuration name="Code516" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.区间dp.medium.Code516" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.背包问题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code503" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.单调栈.medium.Code503" />
-      <module name="algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.单调栈.medium.*" />
+          <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.区间dp.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,6 +256,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.双指针.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code76" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.滑动窗口.Code76" />
+      <module name="algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.滑动窗口.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,19 +323,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Code516" />
+      <item itemvalue="Application.Code76" />
       <item itemvalue="Application.Code987" />
       <item itemvalue="Application.Code611" />
       <item itemvalue="Application.Code44" />
-      <item itemvalue="Application.Code474" />
-      <item itemvalue="Application.Code503" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code516" />
+        <item itemvalue="Application.Code76" />
         <item itemvalue="Application.Code987" />
         <item itemvalue="Application.Code611" />
         <item itemvalue="Application.Code44" />
-        <item itemvalue="Application.Code474" />
-        <item itemvalue="Application.Code503" />
       </list>
     </recent_temporary>
   </component>
@@ -433,6 +518,8 @@
       <workItem from="1725707516195" duration="70000" />
       <workItem from="1725784329175" duration="3864000" />
       <workItem from="1725798623114" duration="3073000" />
+      <workItem from="1725844784632" duration="196000" />
+      <workItem from="1725873507067" duration="7128000" />
     </task>
     <task id="LOCAL-00001" summary="2020.12.08">
       <created>1607401717380</created>

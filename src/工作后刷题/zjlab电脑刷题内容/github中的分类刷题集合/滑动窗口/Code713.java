@@ -47,4 +47,23 @@ public class Code713 {
         }
         return ans;
     }
+
+    //二刷
+    public int numSubarrayProductLessThanK2(int[] nums, int k) {
+        if(nums == null || nums.length == 0) {
+            return 0;
+        }
+        int left = 0,right = 0,len = nums.length;
+        int multiSum = 1;
+        int ans = 0;
+        while(right < len) {
+            multiSum *= nums[right++];
+            while (multiSum >= k && left < right) {
+                multiSum /= nums[left++];
+            }
+            //计算以nums[right]结尾的子数组的数量
+            ans += (right - left);
+        }
+        return ans;
+    }
 }
