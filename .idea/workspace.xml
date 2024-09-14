@@ -4,100 +4,20 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="二叉树灵活运用部分 + 滑动窗口">
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/区间dp/medium/Code516.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/回溯/组合型与剪枝/medium/Code22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/滑动窗口/Code76.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/链表/反转系列/medium/Code445.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/链表/快慢指针/easy/Code876.java" afterDir="false" />
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="区间dp题目">
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/回溯/子集型/medium/Code17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/回溯/排列型/hard/Code51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/回溯/排列型/hard/Code52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/回溯/排列型/medium/Code46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/树形dp/easy/Code543.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/树形dp/hard/Code124.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/树形dp/hard/Code1377.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/树形dp/hard/Code2646.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/树形dp/hard/Code968_Done.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/树形dp/medium/Code337.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/树形dp/medium/Code687.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/Adapter/Adaptee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/Adapter/Adapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/Adapter/Target.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/Author.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/Demo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/FlyWeight/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/FlyWeight/ConcreteChess.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/FlyWeight/Coordinate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/FlyWeight/FlyWeight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/FlyWeight/FlyWeightFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/Parent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/QRcode/QRCodeUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/QRcode/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/StaticProxy/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/StaticProxy/ProxyStar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/StaticProxy/RealStar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/StaticProxy/Star.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/Zxing/LogUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/Zxing/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/Zxing/ZxingUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/array/SparseArr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/array/TestArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/bridge/Brand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/bridge/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/bridge/Computer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/bridge/Dell.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/bridge/Desktop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/bridge/Laptop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/bridge/lenovo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/chainofR/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/chainofR/Director.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/chainofR/GeneralManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/chainofR/Leader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/chainofR/LeaveRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/chainofR/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/composite/AbstractFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/composite/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/composite/Component.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/composite/Composite.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/composite/Folder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/composite/ImageFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/composite/TextFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/composite/VideoFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/composite/leaf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/decorator/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/decorator/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/decorator/FlyCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/decorator/ICar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/decorator/SuperCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/decorator/SwimmingCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/dyanmicProxy/Client2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/dyanmicProxy/ProxyStar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/dyanmicProxy/RealStar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/dyanmicProxy/Star.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/dyanmicProxy/StarHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/factory/Audi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/factory/AudiFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/factory/BMW.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/factory/BMWFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/factory/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/factory/CarFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/javaMail/JavaMailDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/mediator/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/mediator/Department.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/mediator/Development.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/mediator/Finacial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/mediator/Market.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/mediator/Mediator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/mediator/President.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/prototype/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/prototype/Client3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/prototype/Sheep.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/Client1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/Client2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/Client3$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/Client3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/SingletonDemo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/SingletonDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/SingletonDemo3$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/SingletonDemo3$SingletonClassInstance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/SingletonDemo3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/org/sd/singleton/SingletonDemo4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/xml/parse/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/xml/parse/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercise2/xml/parse/XmlParseUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/滑动窗口/Code3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/滑动窗口/Code3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/滑动窗口/Code713.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/滑动窗口/Code713.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/滑动窗口/Code76.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/滑动窗口/Code76.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -520,6 +440,11 @@
       <workItem from="1725798623114" duration="3073000" />
       <workItem from="1725844784632" duration="196000" />
       <workItem from="1725873507067" duration="7128000" />
+      <workItem from="1725949357058" duration="166000" />
+      <workItem from="1725966830546" duration="1951000" />
+      <workItem from="1726050375532" duration="4155000" />
+      <workItem from="1726134583872" duration="105000" />
+      <workItem from="1726309997879" duration="3066000" />
     </task>
     <task id="LOCAL-00001" summary="2020.12.08">
       <created>1607401717380</created>
@@ -717,14 +642,6 @@
       <option name="project" value="LOCAL" />
       <updated>1663596542195</updated>
     </task>
-    <task id="LOCAL-00039" summary="前缀树+滑动窗口+打家劫舍类似题目">
-      <option name="closed" value="true" />
-      <created>1705585262450</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1705585262450</updated>
-    </task>
     <task id="LOCAL-00040" summary="添加实验室电脑题目">
       <option name="closed" value="true" />
       <created>1706281225400</created>
@@ -885,7 +802,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725788100027</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="区间dp题目">
+      <option name="closed" value="true" />
+      <created>1725949486836</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1725949486836</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -915,7 +840,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="程序员面试金典：倒排索引+接雨水双指针方式等" />
     <MESSAGE value="1720计算数据流中的中位数" />
     <MESSAGE value="只出现一次的数字的类似问题" />
     <MESSAGE value="搜索旋转数组中某个数组出现位置的最大索引/最小索引" />
@@ -940,7 +864,8 @@
     <MESSAGE value="update" />
     <MESSAGE value="二叉树部分" />
     <MESSAGE value="二叉树灵活运用部分 + 滑动窗口" />
-    <option name="LAST_COMMIT_MESSAGE" value="二叉树灵活运用部分 + 滑动窗口" />
+    <MESSAGE value="区间dp题目" />
+    <option name="LAST_COMMIT_MESSAGE" value="区间dp题目" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
