@@ -1,4 +1,4 @@
-package 工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.动态规划dp.hard;
+package 工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.动态规划.hard;
 
 import java.util.List;
 
