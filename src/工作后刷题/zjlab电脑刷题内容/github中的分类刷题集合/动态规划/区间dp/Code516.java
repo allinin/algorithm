@@ -1,4 +1,4 @@
-package 工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.区间dp.medium;
+package 工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.动态规划.区间dp;
 
 /**
  * 最长回文子序列 medium
