@@ -1,4 +1,4 @@
-package 工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.树形dp.hard;
+package 工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.动态规划.树形dp.hard;
 
 /**
  * T秒后青蛙的位置 hard

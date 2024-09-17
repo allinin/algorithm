@@ -4,23 +4,12 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="删除链表系列">
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/动态规划/从记忆化搜索到递推/easy/Code70.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/动态规划/从记忆化搜索到递推/easy/Code746.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/动态规划/从记忆化搜索到递推/medium/Code198.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/动态规划/从记忆化搜索到递推/medium/Code377.java" afterDir="false" />
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="LCS+记忆化搜索到递推的部分题目">
       <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/动态规划/从记忆化搜索到递推/medium/LCR166.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/子序列/最长公共子序列LCS/Code72.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/子序列/最长递增子序列LIS/Code300.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/区间dp/medium/Code516.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/动态规划/区间dp/Code516.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/树形dp/easy/Code543.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/动态规划/树形dp/easy/Code543.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/树形dp/hard/Code124.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/动态规划/树形dp/hard/Code124.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/树形dp/hard/Code1377.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/动态规划/树形dp/hard/Code1377.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/树形dp/hard/Code2646.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/动态规划/树形dp/hard/Code2646.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/树形dp/hard/Code968_Done.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/动态规划/树形dp/hard/Code968_Done.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/树形dp/medium/Code337.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/动态规划/树形dp/medium/Code337.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/树形dp/medium/Code687.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/动态规划/树形dp/medium/Code687.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -448,7 +437,8 @@
       <workItem from="1726050375532" duration="4155000" />
       <workItem from="1726134583872" duration="105000" />
       <workItem from="1726309997879" duration="3066000" />
-      <workItem from="1726490249176" duration="2949000" />
+      <workItem from="1726490249176" duration="3038000" />
+      <workItem from="1726546799532" duration="1095000" />
     </task>
     <task id="LOCAL-00001" summary="2020.12.08">
       <created>1607401717380</created>
@@ -646,14 +636,6 @@
       <option name="project" value="LOCAL" />
       <updated>1663596542195</updated>
     </task>
-    <task id="LOCAL-00041" summary="整合lab computer题目">
-      <option name="closed" value="true" />
-      <created>1708650923966</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1708650923966</updated>
-    </task>
     <task id="LOCAL-00042" summary="添加面试题">
       <option name="closed" value="true" />
       <created>1710318707747</created>
@@ -814,7 +796,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726385861974</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="LCS+记忆化搜索到递推的部分题目">
+      <option name="closed" value="true" />
+      <created>1726493365611</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1726493365611</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -844,7 +834,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="只出现一次的数字的类似问题" />
     <MESSAGE value="搜索旋转数组中某个数组出现位置的最大索引/最小索引" />
     <MESSAGE value="前缀树+滑动窗口+打家劫舍类似题目" />
     <MESSAGE value="添加实验室电脑题目" />
@@ -869,7 +858,8 @@
     <MESSAGE value="二叉树灵活运用部分 + 滑动窗口" />
     <MESSAGE value="区间dp题目" />
     <MESSAGE value="删除链表系列" />
-    <option name="LAST_COMMIT_MESSAGE" value="删除链表系列" />
+    <MESSAGE value="LCS+记忆化搜索到递推的部分题目" />
+    <option name="LAST_COMMIT_MESSAGE" value="LCS+记忆化搜索到递推的部分题目" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
