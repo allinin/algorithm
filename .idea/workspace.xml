@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="LCS+记忆化搜索到递推的部分题目">
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/动态规划/从记忆化搜索到递推/medium/LCR166.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/子序列/最长递增子序列LIS/Code300.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/二分/easy/Code2529.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/二分/medium/Code34.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/树形dp/hard/Code1377.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/动态规划/树形dp/hard/Code1377.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/树形dp/hard/Code2646.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/动态规划/树形dp/hard/Code2646.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/树/hard/Code2646.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/树/hard/Code2646.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +124,7 @@
       <recent name="工作后刷题.zjlab电脑刷题内容.二分题目合集.二分答案" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code516">
+  <component name="RunManager" selected="Application.Code2646">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -133,13 +132,13 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="Code44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.跳跃游戏系列.Code44" />
+    <configuration name="Code2646" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.树.hard.Code2646" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.跳跃游戏系列.*" />
+          <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.树.hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,19 +234,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Code2646" />
       <item itemvalue="Application.Code516" />
       <item itemvalue="Application.Code76" />
       <item itemvalue="Application.Code987" />
       <item itemvalue="Application.Code611" />
-      <item itemvalue="Application.Code44" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code2646" />
         <item itemvalue="Application.Code516" />
         <item itemvalue="Application.Code76" />
         <item itemvalue="Application.Code987" />
         <item itemvalue="Application.Code611" />
-        <item itemvalue="Application.Code44" />
       </list>
     </recent_temporary>
   </component>
@@ -436,9 +435,11 @@
       <workItem from="1725966830546" duration="1951000" />
       <workItem from="1726050375532" duration="4155000" />
       <workItem from="1726134583872" duration="105000" />
-      <workItem from="1726309997879" duration="3066000" />
+      <workItem from="1726309997879" duration="3128000" />
       <workItem from="1726490249176" duration="3038000" />
       <workItem from="1726546799532" duration="1095000" />
+      <workItem from="1726747617884" duration="260000" />
+      <workItem from="1726748887320" duration="1464000" />
     </task>
     <task id="LOCAL-00001" summary="2020.12.08">
       <created>1607401717380</created>

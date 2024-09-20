@@ -57,4 +57,6 @@ public class Code2646 {
     public int minimumTotalPrice(int n, int[][] edges, int[] price, int[][] trips) {
         return 0;
     }
+
 }
+
