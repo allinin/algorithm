@@ -1,5 +1,7 @@
 package 工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.二分.medium;
 
+import java.util.Arrays;
+
 /**
  * 统计公平数对的数目 medium
  * 给你一个下标从 0 开始、长度为 n 的整数数组 nums ，和两个整数 lower 和 upper ，返回 公平数对的数目 。
@@ -35,6 +37,50 @@ package 工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.�
 public class Code2563 {
 
     public long countFairPairs(int[] nums, int lower, int upper) {
-        return 0;
+        if (nums == null || nums.length == 0) {
+            return 0;
+        }
+        Arrays.sort(nums);
+        long ans = 0;
+        for (int i = 0; i < nums.length - 1; i++) {
+            long min = lower - nums[i];
+            long max = upper - nums[i];
+            if (min > nums[nums.length - 1] || max < nums[0]) {
+                continue;
+            }
+            int firstIndex = findFirstIndex(min, nums, i + 1, nums.length - 1);
+            int lastIndex = findLastIndex(max, nums, i + 1, nums.length - 1);
+            ans += (lastIndex - firstIndex);
+            if (nums[lastIndex] <= max ) {
+                ans++;
+            }
+        }
+        return ans;
+    }
+
+    private int findFirstIndex(long target, int[] nums, int left, int right) {
+        while (left < right) {
+            int mid = left + (right - left) / 2;
+            if (nums[mid] < target) {
+                left = mid + 1;
+            } else {
+                // >= target
+                right = mid;
+            }
+        }
+        return left;
+    }
+
+    private int findLastIndex(long target, int[] nums, int left, int right) {
+        while (left < right) {
+            int mid = left + (right - left + 1) / 2;
+            if (nums[mid] > target) {
+                right = mid - 1;
+            } else {
+                // <= target
+                left = mid;
+            }
+        }
+        return left;
     }
 }
