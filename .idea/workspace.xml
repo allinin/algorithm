@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="添加二分题目">
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/滑动窗口/Code2958.java" afterDir="false" />
+    <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="2563+2958 finish">
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/二分/medium/Code274.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/二分/medium/Code275.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/滑动窗口/Code2779.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/二分/medium/Code2563.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/二分/medium/Code2563.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/滑动窗口/Code2730.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/滑动窗口/Code2730.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +125,7 @@
       <recent name="工作后刷题.zjlab电脑刷题内容.二分题目合集.二分答案" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code2646">
+  <component name="RunManager" selected="Application.Code2730">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -145,13 +147,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code516" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.动态规划.区间dp.Code516" />
+    <configuration name="Code2730" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.滑动窗口.Code2730" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.动态规划.区间dp.*" />
+          <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.滑动窗口.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,13 +161,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code611" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.双指针.medium.Code611" />
+    <configuration name="Code516" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.动态规划.区间dp.Code516" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.双指针.medium.*" />
+          <option name="PATTERN" value="工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.动态规划.区间dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,19 +235,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Code2730" />
       <item itemvalue="Application.Code2646" />
       <item itemvalue="Application.Code516" />
       <item itemvalue="Application.Code76" />
       <item itemvalue="Application.Code987" />
-      <item itemvalue="Application.Code611" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code2730" />
         <item itemvalue="Application.Code2646" />
         <item itemvalue="Application.Code516" />
         <item itemvalue="Application.Code76" />
         <item itemvalue="Application.Code987" />
-        <item itemvalue="Application.Code611" />
       </list>
     </recent_temporary>
   </component>
@@ -440,7 +442,8 @@
       <workItem from="1726747617884" duration="260000" />
       <workItem from="1726748887320" duration="1506000" />
       <workItem from="1726828009242" duration="1229000" />
-      <workItem from="1726831797078" duration="1745000" />
+      <workItem from="1726831797078" duration="1984000" />
+      <workItem from="1727260841817" duration="6664000" />
     </task>
     <task id="LOCAL-00001" summary="2020.12.08">
       <created>1607401717380</created>
@@ -638,14 +641,6 @@
       <option name="project" value="LOCAL" />
       <updated>1663596542195</updated>
     </task>
-    <task id="LOCAL-00044" summary="面试题目整理">
-      <option name="closed" value="true" />
-      <created>1711503285659</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1711503285659</updated>
-    </task>
     <task id="LOCAL-00045" summary="多线程问题">
       <option name="closed" value="true" />
       <created>1711704384865</created>
@@ -806,7 +801,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726829217517</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="2563+2958 finish">
+      <option name="closed" value="true" />
+      <created>1726833769676</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1726833769676</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -836,7 +839,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="添加实验室电脑题目" />
     <MESSAGE value="整合lab computer题目" />
     <MESSAGE value="添加面试题" />
     <MESSAGE value="复习" />
@@ -861,7 +863,8 @@
     <MESSAGE value="LCS+记忆化搜索到递推的部分题目" />
     <MESSAGE value="添加二分两个题目" />
     <MESSAGE value="添加二分题目" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加二分题目" />
+    <MESSAGE value="2563+2958 finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="2563+2958 finish" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
