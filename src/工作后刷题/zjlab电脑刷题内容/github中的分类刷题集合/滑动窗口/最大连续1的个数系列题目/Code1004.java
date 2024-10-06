@@ -1,4 +1,4 @@
-package 工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.滑动窗口;
+package 工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.滑动窗口.最大连续1的个数系列题目;
 
 /**
  * @Author: ZBL
@@ -59,5 +59,34 @@ public class Code1004 {
             }
         }
         return ans;
+    }
+
+    //重温,窗口的最大长度为1的个数+k。当right - left  > count(1) + k时，说明当前窗口中0的数量超过了k,需要移动左窗口
+
+    public static int longestOnes2(int[] nums, int k) {
+        int left = 0,right = 0,len = nums.length,ans = 0;
+        int zeroNum = 0;
+        while(right < len) {
+            if(nums[right++] == 0) {
+                zeroNum++;
+            }
+            if(zeroNum > k) {
+                while(zeroNum > k) {
+                    if(nums[left++] == 0) {
+                        zeroNum--;
+                    }
+                }
+            } else {
+                ans = Math.max(ans,right - left);
+            }
+
+        }
+        return ans;
+    }
+
+    public static void main(String[] args) {
+        int[] arr = new int[]{0,0,1,1,0,0,1,1,1,0,1,1,0,0,0,1,1,1,1};
+        int k = 3;
+        System.out.println(longestOnes2(arr,k));
     }
 }
