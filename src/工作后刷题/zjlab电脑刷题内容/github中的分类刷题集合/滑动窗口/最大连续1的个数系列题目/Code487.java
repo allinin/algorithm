@@ -1,4 +1,4 @@
-package 工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.滑动窗口;
+package 工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.滑动窗口.最大连续1的个数系列题目;
 
 /**
  * @Author: ZBL
@@ -49,6 +49,28 @@ public class Code487 {
                 }
                 left++;
             }
+        }
+        return ans;
+    }
+
+    //重温
+    public int longestOnes2(int[] nums) {
+        int left = 0,right = 0,len = nums.length,ans = 0;
+        int zeroNum = 0;
+        while(right < len) {
+            if(nums[right++] == 0) {
+                zeroNum++;
+            }
+            if(zeroNum > 1) {
+                while(zeroNum > 1) {
+                    if(nums[left++] == 0) {
+                        zeroNum--;
+                    }
+                }
+            } else {
+                ans = Math.max(ans,right - left);
+            }
+
         }
         return ans;
     }
