@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b704386-6ca8-4871-b5f5-5ed74f278305" name="Default" comment="add 美团面试题目">
-      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/社招面试题目/美团/MaxCommonSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/二叉树与递归/前序_中序_后序/Code101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/二叉树与递归/前序_中序_后序/Code98.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工作后刷题/zjlab电脑刷题内容/github中的分类刷题集合/动态规划/区间dp/Code3040.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -444,7 +446,8 @@
       <workItem from="1727864164921" duration="1342000" />
       <workItem from="1728217347354" duration="3569000" />
       <workItem from="1728992512559" duration="209000" />
-      <workItem from="1729040694811" duration="464000" />
+      <workItem from="1729040694811" duration="492000" />
+      <workItem from="1729160116595" duration="3715000" />
     </task>
     <task id="LOCAL-00001" summary="2020.12.08">
       <created>1607401717380</created>
@@ -642,14 +645,6 @@
       <option name="project" value="LOCAL" />
       <updated>1663596542195</updated>
     </task>
-    <task id="LOCAL-00046" summary="生产者消费者问题">
-      <option name="closed" value="true" />
-      <created>1711940313924</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1711940313925</updated>
-    </task>
     <task id="LOCAL-00047" summary="add 树相关题目code572">
       <option name="closed" value="true" />
       <created>1712106919465</created>
@@ -810,7 +805,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727267889794</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="add 美团面试题目">
+      <option name="closed" value="true" />
+      <created>1729041166687</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1729041166687</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
