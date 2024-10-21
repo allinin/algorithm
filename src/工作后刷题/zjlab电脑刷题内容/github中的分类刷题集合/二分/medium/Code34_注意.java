@@ -58,7 +58,7 @@ public class Code34_注意 {
         ans[0] = left;
         left = 0;
         right = nums.length - 1;
-        //TODO 这种求最后一次出现的位置，当元素不存在时，返回的index不是正确的位置，如数组为1,2,4,6.target = 5的情况下，返回的index = 2,只有先求第一次出现的位置，再求最后一次出现的位置才有意义
+        //TODO 这种求最后一次出现的位置，当元素不存在时，返回的index不是正确的位置，如数组为1,2,4,6.target = 5的情况下，返回的index = 2,只有先求第一次出现的位置，再求最后一次出现的位置才有意义，结合2476中的注释来看
         while (left < right) {
             int mid = left + (right - left + 1) / 2;
             if (nums[mid] > target) {
