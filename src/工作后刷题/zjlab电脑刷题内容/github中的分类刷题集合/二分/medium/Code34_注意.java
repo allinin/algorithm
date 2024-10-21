@@ -34,7 +34,7 @@ package 工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.�
  * @author: ZBL
  * @date: 2024-09-19  20:30
  */
-public class Code34 {
+public class Code34_注意 {
 
     public int[] searchRange(int[] nums, int target) {
         int[] ans = new int[]{-1, -1};
@@ -58,6 +58,7 @@ public class Code34 {
         ans[0] = left;
         left = 0;
         right = nums.length - 1;
+        //TODO 这种求最后一次出现的位置，当元素不存在时，返回的index不是正确的位置，如数组为1,2,4,6.target = 5的情况下，返回的index = 2,只有先求第一次出现的位置，再求最后一次出现的位置才有意义
         while (left < right) {
             int mid = left + (right - left + 1) / 2;
             if (nums[mid] > target) {
@@ -69,5 +70,22 @@ public class Code34 {
         }
         ans[1] = left;
         return ans;
+    }
+
+    public static void main(String[] args) {
+        int[] nums = new int[]{1,2,4,6};
+        int target = 8;
+        int left = 0;
+        int right = nums.length;
+        while (left < right) {
+            int mid = left + (right - left) / 2;
+            if (nums[mid] < target) {
+                left = mid + 1;
+            } else {
+                // >= target
+                right = mid;
+            }
+        }
+        System.out.println(left);
     }
 }
