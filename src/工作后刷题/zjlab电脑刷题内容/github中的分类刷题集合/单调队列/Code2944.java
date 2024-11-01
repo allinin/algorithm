@@ -1,5 +1,6 @@
 package 工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.单调队列;
 
+import java.util.Arrays;
 import java.util.Deque;
 import java.util.LinkedList;
 
@@ -132,8 +133,29 @@ public class Code2944 {
         return deque.peekFirst()[1];
     }
 
+    //dp的方式
+    public int minimumCoins4(int[] prices) {
+        if (prices == null || prices.length == 0) {
+            return 0;
+        }
+        int n = prices.length;
+        int[] dp = new int[n + 1]; // 从第i个开始的到最后的最小值
+        Arrays.fill(dp, Integer.MAX_VALUE);
+        dp[n] = prices[n - 1];
+        for (int i = n - 1; i >= 1; i--) {
+            if (2 * i >= n) {
+                dp[i] = prices[i - 1];
+            } else {
+                for (int j = i + 1; j <= 2 * i + 1; j++) {
+                    dp[i] = Math.min(dp[i], prices[i - 1] + dp[j]);
+                }
+            }
+        }
+        return dp[1];
+    }
+
     public static void main(String[] args) {
         int[] arr = new int[]{3, 1, 2};
-        System.out.println(new Code2944().minimumCoins(arr));
+        System.out.println(new Code2944().minimumCoins4(arr));
     }
 }

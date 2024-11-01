@@ -1,4 +1,4 @@
-package 工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.回溯.组合型与剪枝.medium;
+package 工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.回溯.组合型与剪枝;
 
 import java.util.ArrayList;
 import java.util.List;
