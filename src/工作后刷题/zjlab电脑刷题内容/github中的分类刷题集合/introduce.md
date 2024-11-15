@@ -4,3 +4,5 @@
   高质量题解精选：https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/SOLUTIONS.md
 
   基础算法精讲题目汇总：https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/README.md
+  
+  DP题目汇总： https://leetcode.cn/circle/discuss/tXLS3i/
