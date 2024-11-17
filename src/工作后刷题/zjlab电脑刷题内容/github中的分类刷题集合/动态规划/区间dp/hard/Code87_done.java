@@ -1,4 +1,6 @@
-package 工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.动态规划.区间dp;
+package 工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.动态规划.区间dp.hard;
+
+import java.util.Arrays;
 
 /**
  * 扰乱字符串 hard
@@ -9,11 +11,11 @@ package 工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.�
  * 随机 决定是要「交换两个子字符串」还是要「保持这两个子字符串的顺序不变」。即，在执行这一步骤之后，s 可能是 s = x + y 或者 s = y + x 。
  * 在 x 和 y 这两个子字符串上继续从步骤 1 开始递归执行此算法。
  * 给你两个 长度相等 的字符串 s1 和 s2，判断 s2 是否是 s1 的扰乱字符串。如果是，返回 true ；否则，返回 false 。
- *
- *
- *
+ * <p>
+ * <p>
+ * <p>
  * 示例 1：
- *
+ * <p>
  * 输入：s1 = "great", s2 = "rgeat"
  * 输出：true
  * 解释：s1 上可能发生的一种情形是：
@@ -26,25 +28,76 @@ package 工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.�
  * 算法终止，结果字符串和 s2 相同，都是 "rgeat"
  * 这是一种能够扰乱 s1 得到 s2 的情形，可以认为 s2 是 s1 的扰乱字符串，返回 true
  * 示例 2：
- *
+ * <p>
  * 输入：s1 = "abcde", s2 = "caebd"
  * 输出：false
  * 示例 3：
- *
+ * <p>
  * 输入：s1 = "a", s2 = "a"
  * 输出：true
- *
- *
+ * <p>
+ * <p>
  * 提示：
- *
+ * <p>
  * s1.length == s2.length
  * 1 <= s1.length <= 30
  * s1 和 s2 由小写英文字母组成
+ *
  * @author: ZBL
  * @date: 2024-11-15  20:41
  */
-public class Code87 {
+public class Code87_done {
     public boolean isScramble(String s1, String s2) {
-        return true;
+        int len = s1.length();
+        int[] help = new int[26];
+        for (char c : s1.toCharArray()) {
+            help[c - 'a']++;
+        }
+        for (char c : s2.toCharArray()) {
+            //存在不相等的字符，直接返回false
+            if (--help[c - 'a'] < 0) {
+                return false;
+            }
+        }
+        if (len == 1) {
+            return true;
+        }
+        Arrays.fill(help, 0);
+        boolean[][][] dp = new boolean[len][len][len + 1];//从s1 i位置开始的m个字符与从s2 j位置开始的m个字符能否扰乱
+        for (int i = 0; i < len; i++) {
+            for (int j = 0; j < len; j++) {
+                if (s1.charAt(i) == s2.charAt(j)) {
+                    dp[i][j][1] = true;
+                }
+            }
+        }
+        //区间长度
+        for (int range = 2; range <= len; range++) {
+            for (int i = 0; i < len - range + 1; i++) {
+                for (int j = 0; j < len - range + 1; j++) {
+                    for (int k = 1; k < range; k++) {
+                        //不交换
+                        if (dp[i][j][k] && dp[i + k][j + k][range - k]) {
+                            dp[i][j][range] = true;
+                            break;
+                        }
+                        //交换
+                        if(dp[i][j + range - k][k] && dp[i + k][j][range - k]) {
+                            dp[i][j][range] = true;
+                            break;
+                        }
+
+                    }
+                }
+            }
+
+        }
+
+
+        return dp[0][0][len];
+    }
+
+    public static void main(String[] args) {
+        System.out.println(new Code87_done().isScramble("tgrea", "rgaet"));
     }
 }
