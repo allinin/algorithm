@@ -3,84 +3,86 @@ package Gof.Singleton;
 public class SingletonTest {
     public static void main(String[] args) {
 
-        Singleton7 instance1= Singleton7.getInstance();
-        Singleton7 instance2=Singleton7.getInstance();
+        Singleton7 instance1 = Singleton7.getInstance();
+        Singleton7 instance2 = Singleton7.getInstance();
         System.out.println(instance1.hashCode());
         System.out.println(instance2.hashCode());
-        Singleton8 s1=Singleton8.INSTACNE;
-        Singleton8 s2=Singleton8.INSTACNE;
-        System.out.println(s1==s2);
+        Singleton8 s1 = Singleton8.INSTACNE;
+        Singleton8 s2 = Singleton8.INSTACNE;
+        System.out.println(s1 == s2);
     }
 }
 
 //饿汉式（静态常量）
-class SingleTon1{
+class SingleTon1 {
 
-    private SingleTon1()
-    {
+    private SingleTon1() {
 
     }
 
-    private final static SingleTon1 instance=new SingleTon1();
+    private final static SingleTon1 instance = new SingleTon1();
 
-    public static SingleTon1 getInstance()
-    {
+    public static SingleTon1 getInstance() {
         return instance;
     }
 }
+
 //饿汉式（静态代码块）
-class SingleTon2{
+class SingleTon2 {
 
-    private SingleTon2(){}
+    private SingleTon2() {
+    }
 
-    private static  SingleTon2 instance;
+    private static SingleTon2 instance;
 
-      static {
-        instance=new SingleTon2();
-      }
-    public static SingleTon2 getInstance()
-    {
+    static {
+        instance = new SingleTon2();
+    }
+
+    public static SingleTon2 getInstance() {
         return instance;
     }
 }
 
 //懒汉式（线程不安全）
-class Singleton3
-{
+class Singleton3 {
     private static Singleton3 instance;
-    private Singleton3(){}
-    public static Singleton3 getInstance()
-    {
-        if(instance==null)
-        {
-            instance=new Singleton3();
+
+    private Singleton3() {
+    }
+
+    public static Singleton3 getInstance() {
+        if (instance == null) {
+            instance = new Singleton3();
         }
         return instance;
     }
 }
 
 //懒汉式（线程安全，同步方法）
-class Singleton4
-{
+class Singleton4 {
     private static Singleton4 instance;
-    private Singleton4(){}
-    public static synchronized Singleton4 getInstance()
-    {
-        if(instance==null)
-            instance=new Singleton4();
+
+    private Singleton4() {
+    }
+
+    public static synchronized Singleton4 getInstance() {
+        if (instance == null)
+            instance = new Singleton4();
         return instance;
     }
 
 }
 
 //懒汉式（同步代码块，不推荐）
-class Singleton5
-{
+class Singleton5 {
     private static Singleton5 instance;
-    private Singleton5(){}
-    public static Singleton5 getInstance()
-    {
-        if(instance==null)
+
+    private Singleton5() {
+    }
+
+    public static Singleton5 getInstance() {
+        if (instance == null)
             synchronized (Singleton5.class) {
                 instance = new Singleton5();
             }
@@ -89,25 +91,23 @@ class Singleton5
 }
 
 //双重检查，同步代码块，线程安全
-class Singleton6
-{
+class Singleton6 {
     private static volatile Singleton6 instance;
-    private Singleton6(){
+
+    private Singleton6() {
 
     }
+
     //提供了一个静态的共有方法，加入了双重检查，解决了线程安全问题，同时解决了懒加载问题，保证了效率，推荐
-    public static Singleton6 getInstance(){
-    if(instance==null)
-    {
-        synchronized (Singleton6.class)
-        {
-            if(instance==null)
-                instance=new Singleton6();
+    public static Singleton6 getInstance() {
+        if (instance == null) {
+            synchronized (Singleton6.class) {
+                if (instance == null)
+                    instance = new Singleton6();
+            }
         }
+        return instance;
     }
-    return instance;
-}
-
 
 
 }
@@ -132,10 +132,37 @@ class Singleton7 {
 }
 
 //枚举
-enum Singleton8{
+enum Singleton8 {
     INSTACNE;//属性
-    public void sayOK()
-    {
+
+    public void sayOK() {
         System.out.println("ok");
     }
+}
+
+// TODO 双重检查锁模式的一种写法
+class Singleton9 {
+
+    //静态的单例不用volatile修饰
+    private static  Singleton9 instance;
+
+    private Singleton9() {
+
+    }
+
+    //提供了一个静态的共有方法，加入了双重检查，解决了线程安全问题，同时解决了懒加载问题，保证了效率，推荐
+    public static Singleton9 getInstance() {
+        if (instance == null) {
+            synchronized (Singleton9.class) {
+                if (instance == null) {
+                    //静态单例不用volatile修饰时，可以先创建一个临时实例，然后将该实例赋值给静态单例
+                    Singleton9 tmp = new Singleton9();
+                    instance = tmp;
+                }
+            }
+        }
+        return instance;
+    }
+
+
 }
