@@ -1,4 +1,4 @@
-package 工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.动态规划.入门dp;
+package 工作后刷题.zjlab电脑刷题内容.github中的分类刷题集合.动态规划.子数组相关;
 
 /**
  * 最大子数和 medium
