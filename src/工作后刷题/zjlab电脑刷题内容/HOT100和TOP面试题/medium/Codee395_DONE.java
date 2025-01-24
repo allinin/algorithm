@@ -30,7 +30,7 @@ import java.util.Set;
  * s 仅由小写英文字母组成
  * 1 <= k <= 105
  */
-public class Codee395 {
+public class Codee395_DONE {
 
     //双指针
     public int longestSubstring(String s, int k) {
@@ -117,8 +117,45 @@ public class Codee395 {
 
     }
 
+
+    public int longestSubstring3(String s, int k) {
+        if(s == null || s.length() < k) {
+            return 0;
+        }
+        int len = s.length();
+        return dfs2(s,0,len - 1,k);
+    }
+
+    private int dfs2(String s,int left,int right,int k) {
+
+        if(left > right || right - left + 1 < k) {
+            return 0;
+        }
+
+        int[] help = new int[26];
+        for(int i = left;i <= right;i++) {
+            help[s.charAt(i) - 'a']++;
+        }
+        char split = 0;
+        int idx = left;
+        for(int i = left;i <= right;i++) {
+            //说明i位置的字符出现的次数小于k,则,则最终结果子串一定不包含i位置的字符
+            if (help[s.charAt(i) - 'a'] < k) {
+                split = (char)('a' + i);
+                idx = i;
+                break;
+            }
+        }
+        if(split == 0) {
+            return right - left + 1;
+        }
+        int tmp1 = dfs(s,left,idx - 1,k);
+        int tmp2 = dfs(s,idx + 1,right,k);
+        return Math.max(tmp1,tmp2);
+    }
+
     public static void main(String[] args) {
-        System.out.println(new Codee395().longestSubstring2("baaabcd",3));
+        System.out.println(new Codee395_DONE().longestSubstring2("baaabcd",3));
     }
 
     private int process(Map<Character, Integer> map, String s, int left, int right, int k) {

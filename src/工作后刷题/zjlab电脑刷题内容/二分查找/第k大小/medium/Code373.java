@@ -1,8 +1,6 @@
 package 工作后刷题.zjlab电脑刷题内容.二分查找.第k大小.medium;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.PriorityQueue;
+import java.util.*;
 
 /**
  * @Author: ZBL
@@ -129,6 +127,43 @@ public class Code373 {
 
         return res;
 
+    }
+    //方法三：充分利用原数组有序的优先级队列写法。
+    public List<List<Integer>> kSmallestPairs3(int[] nums1, int[] nums2, int k) {
+        List<List<Integer>> res = new ArrayList<>();
+        int m = nums1.length,n = nums2.length;
+        PriorityQueue<int[]> priorityQueue = new PriorityQueue<>((a, b) -> {
+            if(nums1[a[0]] + nums2[a[1]] < nums1[b[0]] + nums2[b[1]]) {
+                return -1;
+            } else if(nums1[a[0]] + nums2[a[1]] > nums1[b[0]] + nums2[b[1]]) {
+                return 1;
+            }
+            return 0;
+        });
+        priorityQueue.add(new int[]{0,0});
+        // boolean[][] visited = new boolean[m][n];// nums1[i],nums2[j]是否已经被遍历访问，当数组很长时，用boolean数组的方式太耗费内存！！
+        // visited[0][0] = true;
+        Set<String> set = new HashSet<>();
+        set.add("0_0");
+
+        while(k-- > 0) {
+            int[] preIndexs = priorityQueue.poll();
+            List<Integer> list = new ArrayList<>();
+            list.add(nums1[preIndexs[0]]);
+            list.add(nums2[preIndexs[1]]);
+            res.add(list);
+            if(preIndexs[0] + 1 < m && !set.contains((preIndexs[0] + 1) + "_" + preIndexs[1])) {
+                priorityQueue.add(new int[]{preIndexs[0] + 1,preIndexs[1]});
+                set.add((preIndexs[0] + 1) + "_" + preIndexs[1]);
+            }
+            if(preIndexs[1] + 1 < n && !set.contains(preIndexs[0] + "_" + (preIndexs[1] + 1))) {
+                priorityQueue.add(new int[]{preIndexs[0],preIndexs[1] + 1});
+                set.add(preIndexs[0] + "_" + (preIndexs[1] + 1));
+            }
+
+        }
+
+        return res;
     }
 
     private boolean check(int k, int[] nums1, int[] nums2, int target) {
