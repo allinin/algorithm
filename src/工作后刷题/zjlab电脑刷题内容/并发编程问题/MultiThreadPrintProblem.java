@@ -18,7 +18,22 @@ public class MultiThreadPrintProblem {
 
 
     public static void main(String[] args) {
-        processProblem1_2();
+//        processProblem1_2();
+        Integer i = new Integer(100);
+        Integer j = new Integer(100);
+        System.out.println(i == j);
+
+        Integer i1 = new Integer(100);
+        Integer j1 = 100;
+        System.out.println(i1 == j1);
+
+        Integer i2 = 100;
+        Integer j2 = 100;
+        System.out.println(i2 == j2);
+
+        Integer i3 = 128;
+        Integer j3 = 128;
+        System.out.println(i3 == j3);
     }
 
     //处理交替执行方法一
@@ -214,4 +229,6 @@ public class MultiThreadPrintProblem {
 
 
     }
+
+
 }

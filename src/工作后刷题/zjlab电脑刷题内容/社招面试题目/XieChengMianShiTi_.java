@@ -6,6 +6,7 @@ import java.util.PriorityQueue;
  * @Author: ZBL
  * @Date: 2024-03-11  09:03
  * <p>
+ *  与leetcode 373是类似的题目
  * 给定两个数组，两个数组的元素求和，输出求和结果最大的前k个元素,其中数组有序
  * 例如：
  * int[] a = {1, 2, 3, 4, 5}
@@ -31,7 +32,7 @@ public class XieChengMianShiTi_ {
         });
         //最大的元素一定是arr1最后一个元素+arr2最后一个元素
         priorityQueue.add(new int[]{n1 - 1, n2 - 1});
-        //表示arr1 i位置的元素，arr2 j位置的元素是否已经处理
+        //TODO 表示arr1 i位置的元素，arr2 j位置的元素是否已经处理,当数组长度非常长，用boolean数组会超出内存限制，可以用Set<String> set来存放已经已经处理的位置坐标，set的key为arr1.idx + _ + arr2.idx
         boolean[][] visited = new boolean[n1][n2];
 
         int idx = 0;
